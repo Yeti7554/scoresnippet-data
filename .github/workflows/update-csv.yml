@@ -2,8 +2,8 @@ name: Update CSV Daily
 
 on:
   schedule:
-    # Runs daily at midnight UTC
-    - cron: '0 0 * * *'
+    # Runs daily at 4:30 PM UTC
+    - cron: '30 16 * * *'
 
 jobs:
   update-csv:
