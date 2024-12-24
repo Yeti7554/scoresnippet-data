@@ -2,8 +2,9 @@ name: Update CSV Daily
 
 on:
   schedule:
-    # Runs daily at 4:30 PM UTC
-    - cron: '30 16 * * *'
+    - cron: '30 16 * * *'  # Daily at 4:30 PM UTC
+  workflow_dispatch:  # Enables manual triggers
+
 
 jobs:
   update-csv:
