@@ -233,24 +233,24 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 16,Declan,Rice,Arsenal,Midfielder,6.2,16,14/12/2024,3,0,0,61,1,Low
 16,Declan,Rice,Arsenal,Midfielder,6.2,17,21/12/2024,11,1,1,32,0,Low
 16,Declan,Rice,Arsenal,Midfielder,6.2,18,27/12/2024,3,0,0,86,1,Low
-17,Bukayo,Saka,Arsenal,Midfielder,10.4,1,17/08/2024,12,1,1,79,1,High
-17,Bukayo,Saka,Arsenal,Midfielder,10.4,2,24/08/2024,6,0,1,87,1,High
-17,Bukayo,Saka,Arsenal,Midfielder,10.4,3,31/08/2024,6,0,1,90,0,High
-17,Bukayo,Saka,Arsenal,Midfielder,10.4,4,15/09/2024,7,0,1,85,1,High
-17,Bukayo,Saka,Arsenal,Midfielder,10.4,5,22/09/2024,4,0,1,45,0,High
-17,Bukayo,Saka,Arsenal,Midfielder,10.4,6,28/09/2024,3,0,0,90,0,High
-17,Bukayo,Saka,Arsenal,Midfielder,10.4,7,05/10/2024,16,1,2,90,0,High
-17,Bukayo,Saka,Arsenal,Midfielder,10.4,8,19/10/2024,0,0,0,0,0,High
-17,Bukayo,Saka,Arsenal,Midfielder,10.4,9,27/10/2024,9,1,0,84,0,High
-17,Bukayo,Saka,Arsenal,Midfielder,10.4,10,02/11/2024,2,0,0,90,0,High
-17,Bukayo,Saka,Arsenal,Midfielder,10.4,11,10/11/2024,2,0,0,80,0,High
-17,Bukayo,Saka,Arsenal,Midfielder,10.4,12,23/11/2024,13,1,1,82,1,High
-17,Bukayo,Saka,Arsenal,Midfielder,10.4,13,30/11/2024,18,1,3,73,0,High
-17,Bukayo,Saka,Arsenal,Midfielder,10.4,14,04/12/2024,3,0,0,90,1,High
-17,Bukayo,Saka,Arsenal,Midfielder,10.4,15,08/12/2024,2,0,0,90,0,High
-17,Bukayo,Saka,Arsenal,Midfielder,10.4,16,14/12/2024,3,0,0,90,1,High
-17,Bukayo,Saka,Arsenal,Midfielder,10.4,17,21/12/2024,1,0,0,23,0,High
-17,Bukayo,Saka,Arsenal,Midfielder,10.4,18,27/12/2024,0,0,0,0,0,High
+17,Bukayo,Saka,Arsenal,Midfielder,10.3,1,17/08/2024,12,1,1,79,1,High
+17,Bukayo,Saka,Arsenal,Midfielder,10.3,2,24/08/2024,6,0,1,87,1,High
+17,Bukayo,Saka,Arsenal,Midfielder,10.3,3,31/08/2024,6,0,1,90,0,High
+17,Bukayo,Saka,Arsenal,Midfielder,10.3,4,15/09/2024,7,0,1,85,1,High
+17,Bukayo,Saka,Arsenal,Midfielder,10.3,5,22/09/2024,4,0,1,45,0,High
+17,Bukayo,Saka,Arsenal,Midfielder,10.3,6,28/09/2024,3,0,0,90,0,High
+17,Bukayo,Saka,Arsenal,Midfielder,10.3,7,05/10/2024,16,1,2,90,0,High
+17,Bukayo,Saka,Arsenal,Midfielder,10.3,8,19/10/2024,0,0,0,0,0,High
+17,Bukayo,Saka,Arsenal,Midfielder,10.3,9,27/10/2024,9,1,0,84,0,High
+17,Bukayo,Saka,Arsenal,Midfielder,10.3,10,02/11/2024,2,0,0,90,0,High
+17,Bukayo,Saka,Arsenal,Midfielder,10.3,11,10/11/2024,2,0,0,80,0,High
+17,Bukayo,Saka,Arsenal,Midfielder,10.3,12,23/11/2024,13,1,1,82,1,High
+17,Bukayo,Saka,Arsenal,Midfielder,10.3,13,30/11/2024,18,1,3,73,0,High
+17,Bukayo,Saka,Arsenal,Midfielder,10.3,14,04/12/2024,3,0,0,90,1,High
+17,Bukayo,Saka,Arsenal,Midfielder,10.3,15,08/12/2024,2,0,0,90,0,High
+17,Bukayo,Saka,Arsenal,Midfielder,10.3,16,14/12/2024,3,0,0,90,1,High
+17,Bukayo,Saka,Arsenal,Midfielder,10.3,17,21/12/2024,1,0,0,23,0,High
+17,Bukayo,Saka,Arsenal,Midfielder,10.3,18,27/12/2024,0,0,0,0,0,High
 18,William,Saliba,Arsenal,Defender,6.3,1,17/08/2024,6,0,0,90,1,High
 18,William,Saliba,Arsenal,Defender,6.3,2,24/08/2024,6,0,0,90,1,High
 18,William,Saliba,Arsenal,Defender,6.3,3,31/08/2024,2,0,0,90,0,High
@@ -999,24 +999,24 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 51,Robin,Olsen,Aston Villa,Goalkeeper,4.5,16,14/12/2024,0,0,0,0,0,Medium
 51,Robin,Olsen,Aston Villa,Goalkeeper,4.5,17,21/12/2024,0,0,0,0,0,Medium
 51,Robin,Olsen,Aston Villa,Goalkeeper,4.5,18,26/12/2024,0,0,0,0,0,Medium
-52,Pau,Torres,Aston Villa,Defender,4.4,1,17/08/2024,2,0,0,90,0,Low
-52,Pau,Torres,Aston Villa,Defender,4.4,2,24/08/2024,1,0,0,90,0,Low
-52,Pau,Torres,Aston Villa,Defender,4.4,3,31/08/2024,2,0,0,90,0,Low
-52,Pau,Torres,Aston Villa,Defender,4.4,4,14/09/2024,1,0,0,90,0,Low
-52,Pau,Torres,Aston Villa,Defender,4.4,5,21/09/2024,1,0,0,90,0,Low
-52,Pau,Torres,Aston Villa,Defender,4.4,6,29/09/2024,1,0,0,90,0,Low
-52,Pau,Torres,Aston Villa,Defender,4.4,7,06/10/2024,6,0,0,90,1,Low
-52,Pau,Torres,Aston Villa,Defender,4.4,8,19/10/2024,2,0,0,90,0,Low
-52,Pau,Torres,Aston Villa,Defender,4.4,9,26/10/2024,2,0,0,90,0,Low
-52,Pau,Torres,Aston Villa,Defender,4.4,10,03/11/2024,0,0,0,90,0,Low
-52,Pau,Torres,Aston Villa,Defender,4.4,11,09/11/2024,1,0,0,90,0,Low
-52,Pau,Torres,Aston Villa,Defender,4.4,12,23/11/2024,1,0,0,90,0,Low
-52,Pau,Torres,Aston Villa,Defender,4.4,13,01/12/2024,1,0,0,90,0,Low
-52,Pau,Torres,Aston Villa,Defender,4.4,14,04/12/2024,0,0,0,0,0,Low
-52,Pau,Torres,Aston Villa,Defender,4.4,15,07/12/2024,6,0,0,90,1,Low
-52,Pau,Torres,Aston Villa,Defender,4.4,16,14/12/2024,1,0,0,90,0,Low
-52,Pau,Torres,Aston Villa,Defender,4.4,17,21/12/2024,2,0,0,90,0,Low
-52,Pau,Torres,Aston Villa,Defender,4.4,18,26/12/2024,1,0,0,90,0,Low
+52,Pau,Torres,Aston Villa,Defender,4.3,1,17/08/2024,2,0,0,90,0,Low
+52,Pau,Torres,Aston Villa,Defender,4.3,2,24/08/2024,1,0,0,90,0,Low
+52,Pau,Torres,Aston Villa,Defender,4.3,3,31/08/2024,2,0,0,90,0,Low
+52,Pau,Torres,Aston Villa,Defender,4.3,4,14/09/2024,1,0,0,90,0,Low
+52,Pau,Torres,Aston Villa,Defender,4.3,5,21/09/2024,1,0,0,90,0,Low
+52,Pau,Torres,Aston Villa,Defender,4.3,6,29/09/2024,1,0,0,90,0,Low
+52,Pau,Torres,Aston Villa,Defender,4.3,7,06/10/2024,6,0,0,90,1,Low
+52,Pau,Torres,Aston Villa,Defender,4.3,8,19/10/2024,2,0,0,90,0,Low
+52,Pau,Torres,Aston Villa,Defender,4.3,9,26/10/2024,2,0,0,90,0,Low
+52,Pau,Torres,Aston Villa,Defender,4.3,10,03/11/2024,0,0,0,90,0,Low
+52,Pau,Torres,Aston Villa,Defender,4.3,11,09/11/2024,1,0,0,90,0,Low
+52,Pau,Torres,Aston Villa,Defender,4.3,12,23/11/2024,1,0,0,90,0,Low
+52,Pau,Torres,Aston Villa,Defender,4.3,13,01/12/2024,1,0,0,90,0,Low
+52,Pau,Torres,Aston Villa,Defender,4.3,14,04/12/2024,0,0,0,0,0,Low
+52,Pau,Torres,Aston Villa,Defender,4.3,15,07/12/2024,6,0,0,90,1,Low
+52,Pau,Torres,Aston Villa,Defender,4.3,16,14/12/2024,1,0,0,90,0,Low
+52,Pau,Torres,Aston Villa,Defender,4.3,17,21/12/2024,2,0,0,90,0,Low
+52,Pau,Torres,Aston Villa,Defender,4.3,18,26/12/2024,1,0,0,90,0,Low
 53,Jacob,Ramsey,Aston Villa,Midfielder,5.4,1,17/08/2024,4,0,1,28,0,Low
 53,Jacob,Ramsey,Aston Villa,Midfielder,5.4,2,24/08/2024,1,0,0,25,0,Low
 53,Jacob,Ramsey,Aston Villa,Midfielder,5.4,3,31/08/2024,2,0,0,63,0,Low
@@ -4703,23 +4703,23 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 227,João,Neves Virgínia,Everton,Goalkeeper,3.9,16,14/12/2024,0,0,0,0,0,Low
 227,João,Neves Virgínia,Everton,Goalkeeper,3.9,17,22/12/2024,0,0,0,0,0,Low
 227,João,Neves Virgínia,Everton,Goalkeeper,3.9,18,26/12/2024,0,0,0,0,0,Low
-228,Michael,Keane,Everton,Defender,4.1,1,17/08/2024,1,0,0,90,0,Low
-228,Michael,Keane,Everton,Defender,4.1,2,24/08/2024,0,0,0,90,0,Low
-228,Michael,Keane,Everton,Defender,4.1,3,31/08/2024,6,1,0,90,0,Low
-228,Michael,Keane,Everton,Defender,4.1,4,14/09/2024,1,0,0,90,0,Low
-228,Michael,Keane,Everton,Defender,4.1,5,21/09/2024,1,0,0,90,0,Low
-228,Michael,Keane,Everton,Defender,4.1,6,28/09/2024,0,0,0,0,0,Low
-228,Michael,Keane,Everton,Defender,4.1,7,05/10/2024,6,0,0,90,1,Low
-228,Michael,Keane,Everton,Defender,4.1,8,19/10/2024,14,1,0,90,1,Low
-228,Michael,Keane,Everton,Defender,4.1,9,26/10/2024,2,0,0,90,0,Low
-228,Michael,Keane,Everton,Defender,4.1,10,02/11/2024,1,0,0,90,0,Low
-228,Michael,Keane,Everton,Defender,4.1,11,09/11/2024,0,0,0,0,0,Low
-228,Michael,Keane,Everton,Defender,4.1,12,23/11/2024,0,0,0,0,0,Low
-228,Michael,Keane,Everton,Defender,4.1,13,01/12/2024,0,0,0,0,0,Low
-228,Michael,Keane,Everton,Defender,4.1,14,04/12/2024,0,0,0,0,0,Low
-228,Michael,Keane,Everton,Defender,4.1,16,14/12/2024,0,0,0,0,0,Low
-228,Michael,Keane,Everton,Defender,4.1,17,22/12/2024,0,0,0,0,0,Low
-228,Michael,Keane,Everton,Defender,4.1,18,26/12/2024,0,0,0,0,0,Low
+228,Michael,Keane,Everton,Defender,4.0,1,17/08/2024,1,0,0,90,0,Low
+228,Michael,Keane,Everton,Defender,4.0,2,24/08/2024,0,0,0,90,0,Low
+228,Michael,Keane,Everton,Defender,4.0,3,31/08/2024,6,1,0,90,0,Low
+228,Michael,Keane,Everton,Defender,4.0,4,14/09/2024,1,0,0,90,0,Low
+228,Michael,Keane,Everton,Defender,4.0,5,21/09/2024,1,0,0,90,0,Low
+228,Michael,Keane,Everton,Defender,4.0,6,28/09/2024,0,0,0,0,0,Low
+228,Michael,Keane,Everton,Defender,4.0,7,05/10/2024,6,0,0,90,1,Low
+228,Michael,Keane,Everton,Defender,4.0,8,19/10/2024,14,1,0,90,1,Low
+228,Michael,Keane,Everton,Defender,4.0,9,26/10/2024,2,0,0,90,0,Low
+228,Michael,Keane,Everton,Defender,4.0,10,02/11/2024,1,0,0,90,0,Low
+228,Michael,Keane,Everton,Defender,4.0,11,09/11/2024,0,0,0,0,0,Low
+228,Michael,Keane,Everton,Defender,4.0,12,23/11/2024,0,0,0,0,0,Low
+228,Michael,Keane,Everton,Defender,4.0,13,01/12/2024,0,0,0,0,0,Low
+228,Michael,Keane,Everton,Defender,4.0,14,04/12/2024,0,0,0,0,0,Low
+228,Michael,Keane,Everton,Defender,4.0,16,14/12/2024,0,0,0,0,0,Low
+228,Michael,Keane,Everton,Defender,4.0,17,22/12/2024,0,0,0,0,0,Low
+228,Michael,Keane,Everton,Defender,4.0,18,26/12/2024,0,0,0,0,0,Low
 229,Neal,Maupay,Everton,Forward,4.9,1,17/08/2024,0,0,0,0,0,Low
 229,Neal,Maupay,Everton,Forward,4.9,2,24/08/2024,0,0,0,0,0,Low
 229,Neal,Maupay,Everton,Forward,4.9,3,31/08/2024,0,0,0,0,0,Low
@@ -8922,24 +8922,24 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 26,Álex,Moreno Lopera,Nott'm Forest,Defender,4.4,16,14/12/2024,0,0,0,0,0,Low
 26,Álex,Moreno Lopera,Nott'm Forest,Defender,4.4,17,21/12/2024,0,0,0,0,0,Low
 26,Álex,Moreno Lopera,Nott'm Forest,Defender,4.4,18,26/12/2024,0,0,0,0,0,Low
-422,Ola,Aina,Nott'm Forest,Defender,5.0,1,17/08/2024,1,0,0,53,0,Medium
-422,Ola,Aina,Nott'm Forest,Defender,5.0,2,24/08/2024,9,0,0,90,1,Medium
-422,Ola,Aina,Nott'm Forest,Defender,5.0,3,31/08/2024,2,0,0,90,0,Medium
-422,Ola,Aina,Nott'm Forest,Defender,5.0,4,14/09/2024,8,0,0,90,1,Medium
-422,Ola,Aina,Nott'm Forest,Defender,5.0,5,22/09/2024,0,0,0,90,0,Medium
-422,Ola,Aina,Nott'm Forest,Defender,5.0,6,28/09/2024,2,0,0,90,0,Medium
-422,Ola,Aina,Nott'm Forest,Defender,5.0,7,06/10/2024,2,0,0,90,0,Medium
-422,Ola,Aina,Nott'm Forest,Defender,5.0,8,21/10/2024,6,0,0,90,1,Medium
-422,Ola,Aina,Nott'm Forest,Defender,5.0,9,25/10/2024,2,0,0,90,0,Medium
-422,Ola,Aina,Nott'm Forest,Defender,5.0,10,02/11/2024,15,1,0,88,1,Medium
-422,Ola,Aina,Nott'm Forest,Defender,5.0,11,10/11/2024,1,0,0,90,0,Medium
-422,Ola,Aina,Nott'm Forest,Defender,5.0,12,23/11/2024,0,0,0,90,0,Medium
-422,Ola,Aina,Nott'm Forest,Defender,5.0,13,30/11/2024,8,0,0,90,1,Medium
-422,Ola,Aina,Nott'm Forest,Defender,5.0,14,04/12/2024,1,0,0,62,0,Medium
-422,Ola,Aina,Nott'm Forest,Defender,5.0,15,07/12/2024,1,0,0,90,0,Medium
-422,Ola,Aina,Nott'm Forest,Defender,5.0,16,14/12/2024,2,0,0,90,0,Medium
-422,Ola,Aina,Nott'm Forest,Defender,5.0,17,21/12/2024,15,1,0,90,1,Medium
-422,Ola,Aina,Nott'm Forest,Defender,5.0,18,26/12/2024,6,0,0,90,1,Medium
+422,Ola,Aina,Nott'm Forest,Defender,5.1,1,17/08/2024,1,0,0,53,0,Medium
+422,Ola,Aina,Nott'm Forest,Defender,5.1,2,24/08/2024,9,0,0,90,1,Medium
+422,Ola,Aina,Nott'm Forest,Defender,5.1,3,31/08/2024,2,0,0,90,0,Medium
+422,Ola,Aina,Nott'm Forest,Defender,5.1,4,14/09/2024,8,0,0,90,1,Medium
+422,Ola,Aina,Nott'm Forest,Defender,5.1,5,22/09/2024,0,0,0,90,0,Medium
+422,Ola,Aina,Nott'm Forest,Defender,5.1,6,28/09/2024,2,0,0,90,0,Medium
+422,Ola,Aina,Nott'm Forest,Defender,5.1,7,06/10/2024,2,0,0,90,0,Medium
+422,Ola,Aina,Nott'm Forest,Defender,5.1,8,21/10/2024,6,0,0,90,1,Medium
+422,Ola,Aina,Nott'm Forest,Defender,5.1,9,25/10/2024,2,0,0,90,0,Medium
+422,Ola,Aina,Nott'm Forest,Defender,5.1,10,02/11/2024,15,1,0,88,1,Medium
+422,Ola,Aina,Nott'm Forest,Defender,5.1,11,10/11/2024,1,0,0,90,0,Medium
+422,Ola,Aina,Nott'm Forest,Defender,5.1,12,23/11/2024,0,0,0,90,0,Medium
+422,Ola,Aina,Nott'm Forest,Defender,5.1,13,30/11/2024,8,0,0,90,1,Medium
+422,Ola,Aina,Nott'm Forest,Defender,5.1,14,04/12/2024,1,0,0,62,0,Medium
+422,Ola,Aina,Nott'm Forest,Defender,5.1,15,07/12/2024,1,0,0,90,0,Medium
+422,Ola,Aina,Nott'm Forest,Defender,5.1,16,14/12/2024,2,0,0,90,0,Medium
+422,Ola,Aina,Nott'm Forest,Defender,5.1,17,21/12/2024,15,1,0,90,1,Medium
+422,Ola,Aina,Nott'm Forest,Defender,5.1,18,26/12/2024,6,0,0,90,1,Medium
 423,Elliot,Anderson,Nott'm Forest,Midfielder,5.0,1,17/08/2024,1,0,0,18,0,Low
 423,Elliot,Anderson,Nott'm Forest,Midfielder,5.0,2,24/08/2024,3,0,0,74,1,Low
 423,Elliot,Anderson,Nott'm Forest,Midfielder,5.0,3,31/08/2024,6,0,1,90,0,Low
@@ -9300,24 +9300,24 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 442,Ibrahim,Sangaré,Nott'm Forest,Midfielder,4.4,16,14/12/2024,0,0,0,0,0,Low
 442,Ibrahim,Sangaré,Nott'm Forest,Midfielder,4.4,17,21/12/2024,0,0,0,0,0,Low
 442,Ibrahim,Sangaré,Nott'm Forest,Midfielder,4.4,18,26/12/2024,0,0,0,0,0,Low
-443,Matz,Sels,Nott'm Forest,Goalkeeper,4.7,1,17/08/2024,3,0,0,90,0,Medium
-443,Matz,Sels,Nott'm Forest,Goalkeeper,4.7,2,24/08/2024,6,0,0,90,1,Medium
-443,Matz,Sels,Nott'm Forest,Goalkeeper,4.7,3,31/08/2024,2,0,0,90,0,Medium
-443,Matz,Sels,Nott'm Forest,Goalkeeper,4.7,4,14/09/2024,9,0,0,90,1,Medium
-443,Matz,Sels,Nott'm Forest,Goalkeeper,4.7,5,22/09/2024,1,0,0,90,0,Medium
-443,Matz,Sels,Nott'm Forest,Goalkeeper,4.7,6,28/09/2024,2,0,0,90,0,Medium
-443,Matz,Sels,Nott'm Forest,Goalkeeper,4.7,7,06/10/2024,3,0,0,90,0,Medium
-443,Matz,Sels,Nott'm Forest,Goalkeeper,4.7,8,21/10/2024,11,0,0,90,1,Medium
-443,Matz,Sels,Nott'm Forest,Goalkeeper,4.7,9,25/10/2024,5,0,1,90,0,Medium
-443,Matz,Sels,Nott'm Forest,Goalkeeper,4.7,10,02/11/2024,6,0,0,90,1,Medium
-443,Matz,Sels,Nott'm Forest,Goalkeeper,4.7,11,10/11/2024,2,0,0,90,0,Medium
-443,Matz,Sels,Nott'm Forest,Goalkeeper,4.7,12,23/11/2024,2,0,0,90,0,Medium
-443,Matz,Sels,Nott'm Forest,Goalkeeper,4.7,13,30/11/2024,6,0,0,90,1,Medium
-443,Matz,Sels,Nott'm Forest,Goalkeeper,4.7,14,04/12/2024,2,0,0,90,0,Medium
-443,Matz,Sels,Nott'm Forest,Goalkeeper,4.7,15,07/12/2024,2,0,0,90,0,Medium
-443,Matz,Sels,Nott'm Forest,Goalkeeper,4.7,16,14/12/2024,2,0,0,90,0,Medium
-443,Matz,Sels,Nott'm Forest,Goalkeeper,4.7,17,21/12/2024,7,0,0,90,1,Medium
-443,Matz,Sels,Nott'm Forest,Goalkeeper,4.7,18,26/12/2024,8,0,0,90,1,Medium
+443,Matz,Sels,Nott'm Forest,Goalkeeper,4.8,1,17/08/2024,3,0,0,90,0,Medium
+443,Matz,Sels,Nott'm Forest,Goalkeeper,4.8,2,24/08/2024,6,0,0,90,1,Medium
+443,Matz,Sels,Nott'm Forest,Goalkeeper,4.8,3,31/08/2024,2,0,0,90,0,Medium
+443,Matz,Sels,Nott'm Forest,Goalkeeper,4.8,4,14/09/2024,9,0,0,90,1,Medium
+443,Matz,Sels,Nott'm Forest,Goalkeeper,4.8,5,22/09/2024,1,0,0,90,0,Medium
+443,Matz,Sels,Nott'm Forest,Goalkeeper,4.8,6,28/09/2024,2,0,0,90,0,Medium
+443,Matz,Sels,Nott'm Forest,Goalkeeper,4.8,7,06/10/2024,3,0,0,90,0,Medium
+443,Matz,Sels,Nott'm Forest,Goalkeeper,4.8,8,21/10/2024,11,0,0,90,1,Medium
+443,Matz,Sels,Nott'm Forest,Goalkeeper,4.8,9,25/10/2024,5,0,1,90,0,Medium
+443,Matz,Sels,Nott'm Forest,Goalkeeper,4.8,10,02/11/2024,6,0,0,90,1,Medium
+443,Matz,Sels,Nott'm Forest,Goalkeeper,4.8,11,10/11/2024,2,0,0,90,0,Medium
+443,Matz,Sels,Nott'm Forest,Goalkeeper,4.8,12,23/11/2024,2,0,0,90,0,Medium
+443,Matz,Sels,Nott'm Forest,Goalkeeper,4.8,13,30/11/2024,6,0,0,90,1,Medium
+443,Matz,Sels,Nott'm Forest,Goalkeeper,4.8,14,04/12/2024,2,0,0,90,0,Medium
+443,Matz,Sels,Nott'm Forest,Goalkeeper,4.8,15,07/12/2024,2,0,0,90,0,Medium
+443,Matz,Sels,Nott'm Forest,Goalkeeper,4.8,16,14/12/2024,2,0,0,90,0,Medium
+443,Matz,Sels,Nott'm Forest,Goalkeeper,4.8,17,21/12/2024,7,0,0,90,1,Medium
+443,Matz,Sels,Nott'm Forest,Goalkeeper,4.8,18,26/12/2024,8,0,0,90,1,Medium
 444,Harry,Toffolo,Nott'm Forest,Defender,4.2,1,17/08/2024,1,0,0,36,0,Low
 444,Harry,Toffolo,Nott'm Forest,Defender,4.2,2,24/08/2024,0,0,0,0,0,Low
 444,Harry,Toffolo,Nott'm Forest,Defender,4.2,3,31/08/2024,0,0,0,0,0,Low
@@ -9426,24 +9426,24 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 531,James,Ward-Prowse,Nott'm Forest,Midfielder,6.2,16,14/12/2024,0,0,0,0,0,Low
 531,James,Ward-Prowse,Nott'm Forest,Midfielder,6.2,17,21/12/2024,0,0,0,0,0,Low
 531,James,Ward-Prowse,Nott'm Forest,Midfielder,6.2,18,26/12/2024,1,0,0,8,0,Low
-573,Nikola,Milenković,Nott'm Forest,Defender,4.6,1,17/08/2024,0,0,0,0,0,Low
-573,Nikola,Milenković,Nott'm Forest,Defender,4.6,2,24/08/2024,6,0,0,90,1,Low
-573,Nikola,Milenković,Nott'm Forest,Defender,4.6,3,31/08/2024,2,0,0,90,0,Low
-573,Nikola,Milenković,Nott'm Forest,Defender,4.6,4,14/09/2024,6,0,0,90,1,Low
-573,Nikola,Milenković,Nott'm Forest,Defender,4.6,5,22/09/2024,1,0,0,90,0,Low
-573,Nikola,Milenković,Nott'm Forest,Defender,4.6,6,28/09/2024,2,0,0,90,0,Low
-573,Nikola,Milenković,Nott'm Forest,Defender,4.6,7,06/10/2024,5,0,1,90,0,Low
-573,Nikola,Milenković,Nott'm Forest,Defender,4.6,8,21/10/2024,6,0,0,90,1,Low
-573,Nikola,Milenković,Nott'm Forest,Defender,4.6,9,25/10/2024,1,0,0,90,0,Low
-573,Nikola,Milenković,Nott'm Forest,Defender,4.6,10,02/11/2024,6,0,0,90,1,Low
-573,Nikola,Milenković,Nott'm Forest,Defender,4.6,11,10/11/2024,1,0,0,90,0,Low
-573,Nikola,Milenković,Nott'm Forest,Defender,4.6,12,23/11/2024,1,0,0,90,0,Low
-573,Nikola,Milenković,Nott'm Forest,Defender,4.6,13,30/11/2024,6,0,0,90,1,Low
-573,Nikola,Milenković,Nott'm Forest,Defender,4.6,14,04/12/2024,0,0,0,90,0,Low
-573,Nikola,Milenković,Nott'm Forest,Defender,4.6,15,07/12/2024,7,1,0,90,0,Low
-573,Nikola,Milenković,Nott'm Forest,Defender,4.6,16,14/12/2024,9,1,0,90,0,Low
-573,Nikola,Milenković,Nott'm Forest,Defender,4.6,17,21/12/2024,6,0,0,90,1,Low
-573,Nikola,Milenković,Nott'm Forest,Defender,4.6,18,26/12/2024,6,0,0,90,1,Low
+573,Nikola,Milenković,Nott'm Forest,Defender,4.7,1,17/08/2024,0,0,0,0,0,Low
+573,Nikola,Milenković,Nott'm Forest,Defender,4.7,2,24/08/2024,6,0,0,90,1,Low
+573,Nikola,Milenković,Nott'm Forest,Defender,4.7,3,31/08/2024,2,0,0,90,0,Low
+573,Nikola,Milenković,Nott'm Forest,Defender,4.7,4,14/09/2024,6,0,0,90,1,Low
+573,Nikola,Milenković,Nott'm Forest,Defender,4.7,5,22/09/2024,1,0,0,90,0,Low
+573,Nikola,Milenković,Nott'm Forest,Defender,4.7,6,28/09/2024,2,0,0,90,0,Low
+573,Nikola,Milenković,Nott'm Forest,Defender,4.7,7,06/10/2024,5,0,1,90,0,Low
+573,Nikola,Milenković,Nott'm Forest,Defender,4.7,8,21/10/2024,6,0,0,90,1,Low
+573,Nikola,Milenković,Nott'm Forest,Defender,4.7,9,25/10/2024,1,0,0,90,0,Low
+573,Nikola,Milenković,Nott'm Forest,Defender,4.7,10,02/11/2024,6,0,0,90,1,Low
+573,Nikola,Milenković,Nott'm Forest,Defender,4.7,11,10/11/2024,1,0,0,90,0,Low
+573,Nikola,Milenković,Nott'm Forest,Defender,4.7,12,23/11/2024,1,0,0,90,0,Low
+573,Nikola,Milenković,Nott'm Forest,Defender,4.7,13,30/11/2024,6,0,0,90,1,Low
+573,Nikola,Milenković,Nott'm Forest,Defender,4.7,14,04/12/2024,0,0,0,90,0,Low
+573,Nikola,Milenković,Nott'm Forest,Defender,4.7,15,07/12/2024,7,1,0,90,0,Low
+573,Nikola,Milenković,Nott'm Forest,Defender,4.7,16,14/12/2024,9,1,0,90,0,Low
+573,Nikola,Milenković,Nott'm Forest,Defender,4.7,17,21/12/2024,6,0,0,90,1,Low
+573,Nikola,Milenković,Nott'm Forest,Defender,4.7,18,26/12/2024,6,0,0,90,1,Low
 596,João Pedro,Ferreira Silva,Nott'm Forest,Midfielder,5.9,1,17/08/2024,0,0,0,0,0,Low
 596,João Pedro,Ferreira Silva,Nott'm Forest,Midfielder,5.9,2,24/08/2024,1,0,0,1,0,Low
 596,João Pedro,Ferreira Silva,Nott'm Forest,Midfielder,5.9,3,31/08/2024,1,0,0,1,0,Low
@@ -10542,24 +10542,24 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 497,Richarlison,de Andrade,Spurs,Forward,6.8,16,15/12/2024,0,0,0,0,0,Low
 497,Richarlison,de Andrade,Spurs,Forward,6.8,17,22/12/2024,0,0,0,0,0,Low
 497,Richarlison,de Andrade,Spurs,Forward,6.8,18,26/12/2024,0,0,0,0,0,Low
-498,Cristian,Romero,Spurs,Defender,5.0,1,19/08/2024,2,0,0,90,0,Medium
-498,Cristian,Romero,Spurs,Defender,5.0,2,24/08/2024,14,1,0,90,1,Medium
-498,Cristian,Romero,Spurs,Defender,5.0,3,01/09/2024,1,0,0,90,0,Medium
-498,Cristian,Romero,Spurs,Defender,5.0,4,15/09/2024,2,0,0,90,0,Medium
-498,Cristian,Romero,Spurs,Defender,5.0,5,21/09/2024,2,0,0,90,0,Medium
-498,Cristian,Romero,Spurs,Defender,5.0,6,29/09/2024,6,0,0,90,1,Medium
-498,Cristian,Romero,Spurs,Defender,5.0,7,06/10/2024,1,0,0,90,0,Medium
-498,Cristian,Romero,Spurs,Defender,5.0,8,19/10/2024,2,0,0,90,0,Medium
-498,Cristian,Romero,Spurs,Defender,5.0,9,27/10/2024,2,0,0,90,0,Medium
-498,Cristian,Romero,Spurs,Defender,5.0,10,03/11/2024,1,0,0,60,0,Medium
-498,Cristian,Romero,Spurs,Defender,5.0,11,10/11/2024,1,0,0,90,0,Medium
-498,Cristian,Romero,Spurs,Defender,5.0,12,23/11/2024,0,0,0,0,0,Medium
-498,Cristian,Romero,Spurs,Defender,5.0,13,01/12/2024,0,0,0,0,0,Medium
-498,Cristian,Romero,Spurs,Defender,5.0,14,05/12/2024,0,0,0,0,0,Medium
-498,Cristian,Romero,Spurs,Defender,5.0,15,08/12/2024,1,0,0,14,0,Medium
-498,Cristian,Romero,Spurs,Defender,5.0,16,15/12/2024,0,0,0,0,0,Medium
-498,Cristian,Romero,Spurs,Defender,5.0,17,22/12/2024,0,0,0,0,0,Medium
-498,Cristian,Romero,Spurs,Defender,5.0,18,26/12/2024,0,0,0,0,0,Medium
+498,Cristian,Romero,Spurs,Defender,4.9,1,19/08/2024,2,0,0,90,0,Low
+498,Cristian,Romero,Spurs,Defender,4.9,2,24/08/2024,14,1,0,90,1,Low
+498,Cristian,Romero,Spurs,Defender,4.9,3,01/09/2024,1,0,0,90,0,Low
+498,Cristian,Romero,Spurs,Defender,4.9,4,15/09/2024,2,0,0,90,0,Low
+498,Cristian,Romero,Spurs,Defender,4.9,5,21/09/2024,2,0,0,90,0,Low
+498,Cristian,Romero,Spurs,Defender,4.9,6,29/09/2024,6,0,0,90,1,Low
+498,Cristian,Romero,Spurs,Defender,4.9,7,06/10/2024,1,0,0,90,0,Low
+498,Cristian,Romero,Spurs,Defender,4.9,8,19/10/2024,2,0,0,90,0,Low
+498,Cristian,Romero,Spurs,Defender,4.9,9,27/10/2024,2,0,0,90,0,Low
+498,Cristian,Romero,Spurs,Defender,4.9,10,03/11/2024,1,0,0,60,0,Low
+498,Cristian,Romero,Spurs,Defender,4.9,11,10/11/2024,1,0,0,90,0,Low
+498,Cristian,Romero,Spurs,Defender,4.9,12,23/11/2024,0,0,0,0,0,Low
+498,Cristian,Romero,Spurs,Defender,4.9,13,01/12/2024,0,0,0,0,0,Low
+498,Cristian,Romero,Spurs,Defender,4.9,14,05/12/2024,0,0,0,0,0,Low
+498,Cristian,Romero,Spurs,Defender,4.9,15,08/12/2024,1,0,0,14,0,Low
+498,Cristian,Romero,Spurs,Defender,4.9,16,15/12/2024,0,0,0,0,0,Low
+498,Cristian,Romero,Spurs,Defender,4.9,17,22/12/2024,0,0,0,0,0,Low
+498,Cristian,Romero,Spurs,Defender,4.9,18,26/12/2024,0,0,0,0,0,Low
 499,Pape Matar,Sarr,Spurs,Midfielder,4.8,1,19/08/2024,2,0,0,77,0,Low
 499,Pape Matar,Sarr,Spurs,Midfielder,4.8,2,24/08/2024,1,0,0,23,0,Low
 499,Pape Matar,Sarr,Spurs,Midfielder,4.8,3,01/09/2024,0,0,0,45,0,Low
@@ -11912,24 +11912,24 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 564,Santiago,Bueno,Wolves,Defender,4.3,16,14/12/2024,1,0,0,90,0,Low
 564,Santiago,Bueno,Wolves,Defender,4.3,17,22/12/2024,6,0,0,90,1,Low
 564,Santiago,Bueno,Wolves,Defender,4.3,18,26/12/2024,6,0,0,90,1,Low
-565,Pablo,Sarabia,Wolves,Midfielder,5.1,1,17/08/2024,1,0,0,6,0,Low
-565,Pablo,Sarabia,Wolves,Midfielder,5.1,2,25/08/2024,1,0,0,22,0,Low
-565,Pablo,Sarabia,Wolves,Midfielder,5.1,3,31/08/2024,0,0,0,0,0,Low
-565,Pablo,Sarabia,Wolves,Midfielder,5.1,4,15/09/2024,0,0,0,0,0,Low
-565,Pablo,Sarabia,Wolves,Midfielder,5.1,5,21/09/2024,0,0,0,0,0,Low
-565,Pablo,Sarabia,Wolves,Midfielder,5.1,6,28/09/2024,0,0,0,0,0,Low
-565,Pablo,Sarabia,Wolves,Midfielder,5.1,7,05/10/2024,0,0,0,0,0,Low
-565,Pablo,Sarabia,Wolves,Midfielder,5.1,8,20/10/2024,-1,0,0,0,0,Low
-565,Pablo,Sarabia,Wolves,Midfielder,5.1,9,26/10/2024,1,0,0,45,0,Low
-565,Pablo,Sarabia,Wolves,Midfielder,5.1,10,02/11/2024,2,0,0,61,0,Low
-565,Pablo,Sarabia,Wolves,Midfielder,5.1,11,09/11/2024,6,1,0,45,0,Low
-565,Pablo,Sarabia,Wolves,Midfielder,5.1,12,23/11/2024,0,0,0,0,0,Low
-565,Pablo,Sarabia,Wolves,Midfielder,5.1,13,30/11/2024,0,0,0,0,0,Low
-565,Pablo,Sarabia,Wolves,Midfielder,5.1,14,04/12/2024,0,0,0,0,0,Low
-565,Pablo,Sarabia,Wolves,Midfielder,5.1,15,09/12/2024,0,0,0,0,0,Low
-565,Pablo,Sarabia,Wolves,Midfielder,5.1,16,14/12/2024,0,0,0,0,0,Low
-565,Pablo,Sarabia,Wolves,Midfielder,5.1,17,22/12/2024,0,0,0,0,0,Low
-565,Pablo,Sarabia,Wolves,Midfielder,5.1,18,26/12/2024,0,0,0,0,0,Low
+565,Pablo,Sarabia,Wolves,Midfielder,5.0,1,17/08/2024,1,0,0,6,0,Low
+565,Pablo,Sarabia,Wolves,Midfielder,5.0,2,25/08/2024,1,0,0,22,0,Low
+565,Pablo,Sarabia,Wolves,Midfielder,5.0,3,31/08/2024,0,0,0,0,0,Low
+565,Pablo,Sarabia,Wolves,Midfielder,5.0,4,15/09/2024,0,0,0,0,0,Low
+565,Pablo,Sarabia,Wolves,Midfielder,5.0,5,21/09/2024,0,0,0,0,0,Low
+565,Pablo,Sarabia,Wolves,Midfielder,5.0,6,28/09/2024,0,0,0,0,0,Low
+565,Pablo,Sarabia,Wolves,Midfielder,5.0,7,05/10/2024,0,0,0,0,0,Low
+565,Pablo,Sarabia,Wolves,Midfielder,5.0,8,20/10/2024,-1,0,0,0,0,Low
+565,Pablo,Sarabia,Wolves,Midfielder,5.0,9,26/10/2024,1,0,0,45,0,Low
+565,Pablo,Sarabia,Wolves,Midfielder,5.0,10,02/11/2024,2,0,0,61,0,Low
+565,Pablo,Sarabia,Wolves,Midfielder,5.0,11,09/11/2024,6,1,0,45,0,Low
+565,Pablo,Sarabia,Wolves,Midfielder,5.0,12,23/11/2024,0,0,0,0,0,Low
+565,Pablo,Sarabia,Wolves,Midfielder,5.0,13,30/11/2024,0,0,0,0,0,Low
+565,Pablo,Sarabia,Wolves,Midfielder,5.0,14,04/12/2024,0,0,0,0,0,Low
+565,Pablo,Sarabia,Wolves,Midfielder,5.0,15,09/12/2024,0,0,0,0,0,Low
+565,Pablo,Sarabia,Wolves,Midfielder,5.0,16,14/12/2024,0,0,0,0,0,Low
+565,Pablo,Sarabia,Wolves,Midfielder,5.0,17,22/12/2024,0,0,0,0,0,Low
+565,Pablo,Sarabia,Wolves,Midfielder,5.0,18,26/12/2024,0,0,0,0,0,Low
 566,Jørgen,Strand Larsen,Wolves,Forward,5.6,1,17/08/2024,2,0,0,83,0,Low
 566,Jørgen,Strand Larsen,Wolves,Forward,5.6,2,25/08/2024,6,1,0,90,0,Low
 566,Jørgen,Strand Larsen,Wolves,Forward,5.6,3,31/08/2024,2,0,0,85,0,Low
