@@ -398,25 +398,25 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 25,Oleksandr,Zinchenko,Arsenal,Defender,4.8,17,21/12/2024,0,0,0,0,0,Low
 25,Oleksandr,Zinchenko,Arsenal,Defender,4.8,18,27/12/2024,0,0,0,0,0,Low
 25,Oleksandr,Zinchenko,Arsenal,Defender,4.8,19,01/01/2025,1,0,0,1,0,Low
-73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.2,1,17/08/2024,4,0,0,90,0,Low
-73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.2,2,25/08/2024,3,0,0,90,0,Low
-73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.2,3,31/08/2024,0,0,0,0,0,Low
-73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.2,4,15/09/2024,0,0,0,0,0,Low
-73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.2,5,22/09/2024,0,0,0,0,0,Low
-73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.2,6,28/09/2024,0,0,0,0,0,Low
-73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.2,7,05/10/2024,0,0,0,0,0,Low
-73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.2,8,19/10/2024,0,0,0,0,0,Low
-73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.2,9,27/10/2024,0,0,0,0,0,Low
-73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.2,10,02/11/2024,0,0,0,0,0,Low
-73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.2,11,10/11/2024,0,0,0,0,0,Low
-73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.2,12,23/11/2024,0,0,0,0,0,Low
-73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.2,13,30/11/2024,0,0,0,0,0,Low
-73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.2,14,04/12/2024,0,0,0,0,0,Low
-73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.2,15,08/12/2024,0,0,0,0,0,Low
-73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.2,16,14/12/2024,0,0,0,0,0,Low
-73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.2,17,21/12/2024,0,0,0,0,0,Low
-73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.2,18,27/12/2024,0,0,0,0,0,Low
-73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.2,19,01/01/2025,0,0,0,0,0,Low
+73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.1,1,17/08/2024,4,0,0,90,0,Low
+73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.1,2,25/08/2024,3,0,0,90,0,Low
+73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.1,3,31/08/2024,0,0,0,0,0,Low
+73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.1,4,15/09/2024,0,0,0,0,0,Low
+73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.1,5,22/09/2024,0,0,0,0,0,Low
+73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.1,6,28/09/2024,0,0,0,0,0,Low
+73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.1,7,05/10/2024,0,0,0,0,0,Low
+73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.1,8,19/10/2024,0,0,0,0,0,Low
+73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.1,9,27/10/2024,0,0,0,0,0,Low
+73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.1,10,02/11/2024,0,0,0,0,0,Low
+73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.1,11,10/11/2024,0,0,0,0,0,Low
+73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.1,12,23/11/2024,0,0,0,0,0,Low
+73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.1,13,30/11/2024,0,0,0,0,0,Low
+73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.1,14,04/12/2024,0,0,0,0,0,Low
+73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.1,15,08/12/2024,0,0,0,0,0,Low
+73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.1,16,14/12/2024,0,0,0,0,0,Low
+73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.1,17,21/12/2024,0,0,0,0,0,Low
+73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.1,18,27/12/2024,0,0,0,0,0,Low
+73,Norberto,Murara Neto,Arsenal,Goalkeeper,4.1,19,01/01/2025,0,0,0,0,0,Low
 186,Raheem,Sterling,Arsenal,Midfielder,6.7,1,18/08/2024,0,0,0,0,0,Low
 186,Raheem,Sterling,Arsenal,Midfielder,6.7,2,25/08/2024,0,0,0,0,0,Low
 186,Raheem,Sterling,Arsenal,Midfielder,6.7,3,31/08/2024,0,0,0,0,0,Low
@@ -2138,25 +2138,25 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 98,Keane,Lewis-Potter,Brentford,Midfielder,5.0,17,21/12/2024,2,0,0,90,0,Low
 98,Keane,Lewis-Potter,Brentford,Midfielder,5.0,18,27/12/2024,3,0,0,90,1,Low
 98,Keane,Lewis-Potter,Brentford,Midfielder,5.0,19,01/01/2025,2,0,0,90,0,Low
-99,Bryan,Mbeumo,Brentford,Midfielder,7.6,1,18/08/2024,9,1,0,89,0,Medium
-99,Bryan,Mbeumo,Brentford,Midfielder,7.6,2,25/08/2024,1,0,0,90,0,Medium
-99,Bryan,Mbeumo,Brentford,Midfielder,7.6,3,31/08/2024,14,2,0,90,0,Medium
-99,Bryan,Mbeumo,Brentford,Midfielder,7.6,4,14/09/2024,2,0,0,90,0,Medium
-99,Bryan,Mbeumo,Brentford,Midfielder,7.6,5,21/09/2024,8,1,0,90,0,Medium
-99,Bryan,Mbeumo,Brentford,Midfielder,7.6,6,28/09/2024,9,1,0,90,0,Medium
-99,Bryan,Mbeumo,Brentford,Midfielder,7.6,7,05/10/2024,8,1,0,90,0,Medium
-99,Bryan,Mbeumo,Brentford,Midfielder,7.6,8,19/10/2024,2,0,0,90,0,Medium
-99,Bryan,Mbeumo,Brentford,Midfielder,7.6,9,26/10/2024,15,2,0,90,0,Medium
-99,Bryan,Mbeumo,Brentford,Midfielder,7.6,10,04/11/2024,3,0,0,86,1,Medium
-99,Bryan,Mbeumo,Brentford,Midfielder,7.6,11,09/11/2024,5,0,1,90,0,Medium
-99,Bryan,Mbeumo,Brentford,Midfielder,7.6,12,23/11/2024,3,0,0,90,1,Medium
-99,Bryan,Mbeumo,Brentford,Midfielder,7.6,13,30/11/2024,2,0,0,90,0,Medium
-99,Bryan,Mbeumo,Brentford,Midfielder,7.6,14,04/12/2024,2,0,0,90,0,Medium
-99,Bryan,Mbeumo,Brentford,Midfielder,7.6,15,07/12/2024,13,1,1,90,0,Medium
-99,Bryan,Mbeumo,Brentford,Midfielder,7.6,16,15/12/2024,9,1,0,90,0,Medium
-99,Bryan,Mbeumo,Brentford,Midfielder,7.6,17,21/12/2024,2,0,0,90,0,Medium
-99,Bryan,Mbeumo,Brentford,Midfielder,7.6,18,27/12/2024,3,0,0,90,1,Medium
-99,Bryan,Mbeumo,Brentford,Midfielder,7.6,19,01/01/2025,7,1,0,90,0,Medium
+99,Bryan,Mbeumo,Brentford,Midfielder,7.7,1,18/08/2024,9,1,0,89,0,Medium
+99,Bryan,Mbeumo,Brentford,Midfielder,7.7,2,25/08/2024,1,0,0,90,0,Medium
+99,Bryan,Mbeumo,Brentford,Midfielder,7.7,3,31/08/2024,14,2,0,90,0,Medium
+99,Bryan,Mbeumo,Brentford,Midfielder,7.7,4,14/09/2024,2,0,0,90,0,Medium
+99,Bryan,Mbeumo,Brentford,Midfielder,7.7,5,21/09/2024,8,1,0,90,0,Medium
+99,Bryan,Mbeumo,Brentford,Midfielder,7.7,6,28/09/2024,9,1,0,90,0,Medium
+99,Bryan,Mbeumo,Brentford,Midfielder,7.7,7,05/10/2024,8,1,0,90,0,Medium
+99,Bryan,Mbeumo,Brentford,Midfielder,7.7,8,19/10/2024,2,0,0,90,0,Medium
+99,Bryan,Mbeumo,Brentford,Midfielder,7.7,9,26/10/2024,15,2,0,90,0,Medium
+99,Bryan,Mbeumo,Brentford,Midfielder,7.7,10,04/11/2024,3,0,0,86,1,Medium
+99,Bryan,Mbeumo,Brentford,Midfielder,7.7,11,09/11/2024,5,0,1,90,0,Medium
+99,Bryan,Mbeumo,Brentford,Midfielder,7.7,12,23/11/2024,3,0,0,90,1,Medium
+99,Bryan,Mbeumo,Brentford,Midfielder,7.7,13,30/11/2024,2,0,0,90,0,Medium
+99,Bryan,Mbeumo,Brentford,Midfielder,7.7,14,04/12/2024,2,0,0,90,0,Medium
+99,Bryan,Mbeumo,Brentford,Midfielder,7.7,15,07/12/2024,13,1,1,90,0,Medium
+99,Bryan,Mbeumo,Brentford,Midfielder,7.7,16,15/12/2024,9,1,0,90,0,Medium
+99,Bryan,Mbeumo,Brentford,Midfielder,7.7,17,21/12/2024,2,0,0,90,0,Medium
+99,Bryan,Mbeumo,Brentford,Midfielder,7.7,18,27/12/2024,3,0,0,90,1,Medium
+99,Bryan,Mbeumo,Brentford,Midfielder,7.7,19,01/01/2025,7,1,0,90,0,Medium
 100,Ben,Mee,Brentford,Defender,4.2,1,18/08/2024,1,0,0,1,0,Low
 100,Ben,Mee,Brentford,Defender,4.2,2,25/08/2024,0,0,0,0,0,Low
 100,Ben,Mee,Brentford,Defender,4.2,3,31/08/2024,0,0,0,0,0,Low
@@ -6358,25 +6358,25 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 568,Arijanet,Muric,Ipswich,Goalkeeper,4.4,17,21/12/2024,1,0,0,90,0,Low
 568,Arijanet,Muric,Ipswich,Goalkeeper,4.4,18,27/12/2024,3,0,0,90,0,Low
 568,Arijanet,Muric,Ipswich,Goalkeeper,4.4,19,30/12/2024,0,0,0,0,0,Low
-583,Conor,Townsend,Ipswich,Defender,4.0,1,17/08/2024,0,0,0,0,0,Low
-583,Conor,Townsend,Ipswich,Defender,4.0,2,24/08/2024,0,0,0,0,0,Low
-583,Conor,Townsend,Ipswich,Defender,4.0,3,31/08/2024,0,0,0,0,0,Low
-583,Conor,Townsend,Ipswich,Defender,4.0,4,14/09/2024,0,0,0,0,0,Low
-583,Conor,Townsend,Ipswich,Defender,4.0,5,21/09/2024,0,0,0,0,0,Low
-583,Conor,Townsend,Ipswich,Defender,4.0,6,29/09/2024,0,0,0,0,0,Low
-583,Conor,Townsend,Ipswich,Defender,4.0,7,05/10/2024,0,0,0,0,0,Low
-583,Conor,Townsend,Ipswich,Defender,4.0,8,19/10/2024,0,0,0,0,0,Low
-583,Conor,Townsend,Ipswich,Defender,4.0,9,26/10/2024,1,0,0,1,0,Low
-583,Conor,Townsend,Ipswich,Defender,4.0,10,02/11/2024,0,0,0,0,0,Low
-583,Conor,Townsend,Ipswich,Defender,4.0,11,10/11/2024,0,0,0,0,0,Low
-583,Conor,Townsend,Ipswich,Defender,4.0,12,24/11/2024,0,0,0,0,0,Low
-583,Conor,Townsend,Ipswich,Defender,4.0,13,30/11/2024,0,0,0,0,0,Low
-583,Conor,Townsend,Ipswich,Defender,4.0,14,03/12/2024,0,0,0,0,0,Low
-583,Conor,Townsend,Ipswich,Defender,4.0,15,08/12/2024,0,0,0,0,0,Low
-583,Conor,Townsend,Ipswich,Defender,4.0,16,14/12/2024,0,0,0,0,0,Low
-583,Conor,Townsend,Ipswich,Defender,4.0,17,21/12/2024,0,0,0,0,0,Low
-583,Conor,Townsend,Ipswich,Defender,4.0,18,27/12/2024,0,0,0,0,0,Low
-583,Conor,Townsend,Ipswich,Defender,4.0,19,30/12/2024,0,0,0,0,0,Low
+583,Conor,Townsend,Ipswich,Defender,3.9,1,17/08/2024,0,0,0,0,0,Low
+583,Conor,Townsend,Ipswich,Defender,3.9,2,24/08/2024,0,0,0,0,0,Low
+583,Conor,Townsend,Ipswich,Defender,3.9,3,31/08/2024,0,0,0,0,0,Low
+583,Conor,Townsend,Ipswich,Defender,3.9,4,14/09/2024,0,0,0,0,0,Low
+583,Conor,Townsend,Ipswich,Defender,3.9,5,21/09/2024,0,0,0,0,0,Low
+583,Conor,Townsend,Ipswich,Defender,3.9,6,29/09/2024,0,0,0,0,0,Low
+583,Conor,Townsend,Ipswich,Defender,3.9,7,05/10/2024,0,0,0,0,0,Low
+583,Conor,Townsend,Ipswich,Defender,3.9,8,19/10/2024,0,0,0,0,0,Low
+583,Conor,Townsend,Ipswich,Defender,3.9,9,26/10/2024,1,0,0,1,0,Low
+583,Conor,Townsend,Ipswich,Defender,3.9,10,02/11/2024,0,0,0,0,0,Low
+583,Conor,Townsend,Ipswich,Defender,3.9,11,10/11/2024,0,0,0,0,0,Low
+583,Conor,Townsend,Ipswich,Defender,3.9,12,24/11/2024,0,0,0,0,0,Low
+583,Conor,Townsend,Ipswich,Defender,3.9,13,30/11/2024,0,0,0,0,0,Low
+583,Conor,Townsend,Ipswich,Defender,3.9,14,03/12/2024,0,0,0,0,0,Low
+583,Conor,Townsend,Ipswich,Defender,3.9,15,08/12/2024,0,0,0,0,0,Low
+583,Conor,Townsend,Ipswich,Defender,3.9,16,14/12/2024,0,0,0,0,0,Low
+583,Conor,Townsend,Ipswich,Defender,3.9,17,21/12/2024,0,0,0,0,0,Low
+583,Conor,Townsend,Ipswich,Defender,3.9,18,27/12/2024,0,0,0,0,0,Low
+583,Conor,Townsend,Ipswich,Defender,3.9,19,30/12/2024,0,0,0,0,0,Low
 611,Sam,Szmodics,Ipswich,Midfielder,5.8,1,17/08/2024,1,0,0,16,0,Low
 611,Sam,Szmodics,Ipswich,Midfielder,5.8,2,24/08/2024,6,1,0,71,0,Low
 611,Sam,Szmodics,Ipswich,Midfielder,5.8,3,31/08/2024,2,0,0,80,0,Low
@@ -6997,25 +6997,25 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 309,Harry,Winks,Leicester,Midfielder,4.5,17,22/12/2024,1,0,0,45,0,Low
 309,Harry,Winks,Leicester,Midfielder,4.5,18,26/12/2024,2,0,0,64,0,Low
 309,Harry,Winks,Leicester,Midfielder,4.5,19,29/12/2024,2,0,0,84,0,Low
-501,Oliver,Skipp,Leicester,Midfielder,4.8,1,19/08/2024,0,0,0,0,0,Low
-501,Oliver,Skipp,Leicester,Midfielder,4.8,2,24/08/2024,1,0,0,19,0,Low
-501,Oliver,Skipp,Leicester,Midfielder,4.8,3,31/08/2024,1,0,0,67,0,Low
-501,Oliver,Skipp,Leicester,Midfielder,4.8,4,14/09/2024,2,0,0,90,0,Low
-501,Oliver,Skipp,Leicester,Midfielder,4.8,5,21/09/2024,0,0,0,0,0,Low
-501,Oliver,Skipp,Leicester,Midfielder,4.8,6,28/09/2024,1,0,0,90,0,Low
-501,Oliver,Skipp,Leicester,Midfielder,4.8,7,05/10/2024,3,0,0,90,1,Low
-501,Oliver,Skipp,Leicester,Midfielder,4.8,8,19/10/2024,1,0,0,45,0,Low
-501,Oliver,Skipp,Leicester,Midfielder,4.8,9,25/10/2024,0,0,0,0,0,Low
-501,Oliver,Skipp,Leicester,Midfielder,4.8,10,02/11/2024,0,0,0,0,0,Low
-501,Oliver,Skipp,Leicester,Midfielder,4.8,11,10/11/2024,0,0,0,0,0,Low
-501,Oliver,Skipp,Leicester,Midfielder,4.8,12,23/11/2024,1,0,0,79,0,Low
-501,Oliver,Skipp,Leicester,Midfielder,4.8,13,30/11/2024,1,0,0,26,0,Low
-501,Oliver,Skipp,Leicester,Midfielder,4.8,14,03/12/2024,0,0,0,0,0,Low
-501,Oliver,Skipp,Leicester,Midfielder,4.8,15,08/12/2024,1,0,0,38,0,Low
-501,Oliver,Skipp,Leicester,Midfielder,4.8,16,14/12/2024,1,0,0,90,0,Low
-501,Oliver,Skipp,Leicester,Midfielder,4.8,17,22/12/2024,1,0,0,45,0,Low
-501,Oliver,Skipp,Leicester,Midfielder,4.8,18,26/12/2024,1,0,0,25,0,Low
-501,Oliver,Skipp,Leicester,Midfielder,4.8,19,29/12/2024,0,0,0,0,0,Low
+501,Oliver,Skipp,Leicester,Midfielder,4.7,1,19/08/2024,0,0,0,0,0,Low
+501,Oliver,Skipp,Leicester,Midfielder,4.7,2,24/08/2024,1,0,0,19,0,Low
+501,Oliver,Skipp,Leicester,Midfielder,4.7,3,31/08/2024,1,0,0,67,0,Low
+501,Oliver,Skipp,Leicester,Midfielder,4.7,4,14/09/2024,2,0,0,90,0,Low
+501,Oliver,Skipp,Leicester,Midfielder,4.7,5,21/09/2024,0,0,0,0,0,Low
+501,Oliver,Skipp,Leicester,Midfielder,4.7,6,28/09/2024,1,0,0,90,0,Low
+501,Oliver,Skipp,Leicester,Midfielder,4.7,7,05/10/2024,3,0,0,90,1,Low
+501,Oliver,Skipp,Leicester,Midfielder,4.7,8,19/10/2024,1,0,0,45,0,Low
+501,Oliver,Skipp,Leicester,Midfielder,4.7,9,25/10/2024,0,0,0,0,0,Low
+501,Oliver,Skipp,Leicester,Midfielder,4.7,10,02/11/2024,0,0,0,0,0,Low
+501,Oliver,Skipp,Leicester,Midfielder,4.7,11,10/11/2024,0,0,0,0,0,Low
+501,Oliver,Skipp,Leicester,Midfielder,4.7,12,23/11/2024,1,0,0,79,0,Low
+501,Oliver,Skipp,Leicester,Midfielder,4.7,13,30/11/2024,1,0,0,26,0,Low
+501,Oliver,Skipp,Leicester,Midfielder,4.7,14,03/12/2024,0,0,0,0,0,Low
+501,Oliver,Skipp,Leicester,Midfielder,4.7,15,08/12/2024,1,0,0,38,0,Low
+501,Oliver,Skipp,Leicester,Midfielder,4.7,16,14/12/2024,1,0,0,90,0,Low
+501,Oliver,Skipp,Leicester,Midfielder,4.7,17,22/12/2024,1,0,0,45,0,Low
+501,Oliver,Skipp,Leicester,Midfielder,4.7,18,26/12/2024,1,0,0,25,0,Low
+501,Oliver,Skipp,Leicester,Midfielder,4.7,19,29/12/2024,0,0,0,0,0,Low
 570,Abdul,Fatawu,Leicester,Midfielder,5.2,1,19/08/2024,8,0,1,90,0,Low
 570,Abdul,Fatawu,Leicester,Midfielder,5.2,2,24/08/2024,2,0,0,90,0,Low
 570,Abdul,Fatawu,Leicester,Midfielder,5.2,3,31/08/2024,2,0,0,67,0,Low
@@ -8126,24 +8126,24 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 607,Nico,O'Reilly,Man City,Midfielder,4.9,17,21/12/2024,0,0,0,0,0,Low
 607,Nico,O'Reilly,Man City,Midfielder,4.9,18,26/12/2024,0,0,0,0,0,Low
 607,Nico,O'Reilly,Man City,Midfielder,4.9,19,29/12/2024,0,0,0,0,0,Low
-625,Ilkay,Gündogan,Man City,Midfielder,6.5,2,24/08/2024,1,0,0,19,0,Low
-625,Ilkay,Gündogan,Man City,Midfielder,6.5,3,31/08/2024,1,0,0,22,0,Low
-625,Ilkay,Gündogan,Man City,Midfielder,6.5,4,14/09/2024,2,0,0,90,0,Low
-625,Ilkay,Gündogan,Man City,Midfielder,6.5,5,22/09/2024,2,0,0,90,0,Low
-625,Ilkay,Gündogan,Man City,Midfielder,6.5,6,28/09/2024,2,0,0,65,0,Low
-625,Ilkay,Gündogan,Man City,Midfielder,6.5,7,05/10/2024,2,0,0,88,0,Low
-625,Ilkay,Gündogan,Man City,Midfielder,6.5,8,20/10/2024,2,0,0,90,0,Low
-625,Ilkay,Gündogan,Man City,Midfielder,6.5,9,26/10/2024,1,0,0,4,0,Low
-625,Ilkay,Gündogan,Man City,Midfielder,6.5,10,02/11/2024,5,0,1,84,0,Low
-625,Ilkay,Gündogan,Man City,Midfielder,6.5,11,09/11/2024,3,0,0,71,1,Low
-625,Ilkay,Gündogan,Man City,Midfielder,6.5,12,23/11/2024,2,0,0,90,0,Low
-625,Ilkay,Gündogan,Man City,Midfielder,6.5,13,01/12/2024,1,0,0,57,0,Low
-625,Ilkay,Gündogan,Man City,Midfielder,6.5,14,04/12/2024,2,0,0,90,1,Low
-625,Ilkay,Gündogan,Man City,Midfielder,6.5,15,07/12/2024,2,0,0,90,0,Low
-625,Ilkay,Gündogan,Man City,Midfielder,6.5,16,15/12/2024,2,0,0,88,0,Low
-625,Ilkay,Gündogan,Man City,Midfielder,6.5,17,21/12/2024,2,0,0,72,0,Low
-625,Ilkay,Gündogan,Man City,Midfielder,6.5,18,26/12/2024,1,0,0,5,0,Low
-625,Ilkay,Gündogan,Man City,Midfielder,6.5,19,29/12/2024,0,0,0,0,0,Low
+625,Ilkay,Gündogan,Man City,Midfielder,6.4,2,24/08/2024,1,0,0,19,0,Low
+625,Ilkay,Gündogan,Man City,Midfielder,6.4,3,31/08/2024,1,0,0,22,0,Low
+625,Ilkay,Gündogan,Man City,Midfielder,6.4,4,14/09/2024,2,0,0,90,0,Low
+625,Ilkay,Gündogan,Man City,Midfielder,6.4,5,22/09/2024,2,0,0,90,0,Low
+625,Ilkay,Gündogan,Man City,Midfielder,6.4,6,28/09/2024,2,0,0,65,0,Low
+625,Ilkay,Gündogan,Man City,Midfielder,6.4,7,05/10/2024,2,0,0,88,0,Low
+625,Ilkay,Gündogan,Man City,Midfielder,6.4,8,20/10/2024,2,0,0,90,0,Low
+625,Ilkay,Gündogan,Man City,Midfielder,6.4,9,26/10/2024,1,0,0,4,0,Low
+625,Ilkay,Gündogan,Man City,Midfielder,6.4,10,02/11/2024,5,0,1,84,0,Low
+625,Ilkay,Gündogan,Man City,Midfielder,6.4,11,09/11/2024,3,0,0,71,1,Low
+625,Ilkay,Gündogan,Man City,Midfielder,6.4,12,23/11/2024,2,0,0,90,0,Low
+625,Ilkay,Gündogan,Man City,Midfielder,6.4,13,01/12/2024,1,0,0,57,0,Low
+625,Ilkay,Gündogan,Man City,Midfielder,6.4,14,04/12/2024,2,0,0,90,1,Low
+625,Ilkay,Gündogan,Man City,Midfielder,6.4,15,07/12/2024,2,0,0,90,0,Low
+625,Ilkay,Gündogan,Man City,Midfielder,6.4,16,15/12/2024,2,0,0,88,0,Low
+625,Ilkay,Gündogan,Man City,Midfielder,6.4,17,21/12/2024,2,0,0,72,0,Low
+625,Ilkay,Gündogan,Man City,Midfielder,6.4,18,26/12/2024,1,0,0,5,0,Low
+625,Ilkay,Gündogan,Man City,Midfielder,6.4,19,29/12/2024,0,0,0,0,0,Low
 626,Issa,Kaboré,Man City,Defender,4.5,2,24/08/2024,0,0,0,0,0,Low
 626,Issa,Kaboré,Man City,Defender,4.5,3,31/08/2024,0,0,0,0,0,Low
 626,Issa,Kaboré,Man City,Defender,4.5,4,14/09/2024,0,0,0,0,0,Low
@@ -12176,25 +12176,25 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 540,Luke,Cundle,Wolves,Midfielder,4.5,17,22/12/2024,0,0,0,0,0,Low
 540,Luke,Cundle,Wolves,Midfielder,4.5,18,26/12/2024,0,0,0,0,0,Low
 540,Luke,Cundle,Wolves,Midfielder,4.5,19,29/12/2024,0,0,0,0,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.1,1,17/08/2024,1,0,0,33,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.1,2,25/08/2024,6,1,0,67,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.1,3,31/08/2024,2,0,0,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.1,4,15/09/2024,2,0,0,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.1,5,21/09/2024,8,1,0,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.1,6,28/09/2024,2,0,0,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.1,7,05/10/2024,9,1,0,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.1,8,20/10/2024,2,0,0,66,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.1,9,26/10/2024,9,1,0,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.1,10,02/11/2024,6,0,1,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.1,11,09/11/2024,12,1,1,89,1,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.1,12,23/11/2024,16,2,1,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.1,13,30/11/2024,2,0,0,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.1,14,04/12/2024,2,0,0,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.1,15,09/12/2024,1,0,0,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.1,16,14/12/2024,9,1,0,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.1,17,22/12/2024,9,1,0,90,1,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.1,18,26/12/2024,12,1,1,90,1,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.1,19,29/12/2024,1,0,0,45,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.0,1,17/08/2024,1,0,0,33,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.0,2,25/08/2024,6,1,0,67,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.0,3,31/08/2024,2,0,0,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.0,4,15/09/2024,2,0,0,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.0,5,21/09/2024,8,1,0,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.0,6,28/09/2024,2,0,0,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.0,7,05/10/2024,9,1,0,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.0,8,20/10/2024,2,0,0,66,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.0,9,26/10/2024,9,1,0,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.0,10,02/11/2024,6,0,1,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.0,11,09/11/2024,12,1,1,89,1,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.0,12,23/11/2024,16,2,1,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.0,13,30/11/2024,2,0,0,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.0,14,04/12/2024,2,0,0,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.0,15,09/12/2024,1,0,0,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.0,16,14/12/2024,9,1,0,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.0,17,22/12/2024,9,1,0,90,1,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.0,18,26/12/2024,12,1,1,90,1,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,7.0,19,29/12/2024,1,0,0,45,0,Low
 542,Craig,Dawson,Wolves,Defender,4.4,1,17/08/2024,1,0,0,6,0,Low
 542,Craig,Dawson,Wolves,Defender,4.4,2,25/08/2024,1,0,0,23,0,Low
 542,Craig,Dawson,Wolves,Defender,4.4,3,31/08/2024,2,0,0,90,0,Low
