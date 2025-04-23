@@ -1265,7 +1265,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 32,Matty,Cash,Aston Villa,Defender,4.4,31,05/04/2025,0,0,0,0,0,Low
 32,Matty,Cash,Aston Villa,Defender,4.4,32,12/04/2025,6,0,0,84,1,Low
 32,Matty,Cash,Aston Villa,Defender,4.4,33,19/04/2025,2,0,0,90,0,Low
-32,Matty,Cash,Aston Villa,Defender,4.4,33,22/04/2025,0,0,0,0,0,Low
+32,Matty,Cash,Aston Villa,Defender,4.4,33,22/04/2025,2,0,0,60,0,Low
 33,Leander,Dendoncker,Aston Villa,Midfielder,4.5,1,17/08/2024,0,0,0,0,0,Low
 33,Leander,Dendoncker,Aston Villa,Midfielder,4.5,2,24/08/2024,0,0,0,0,0,Low
 33,Leander,Dendoncker,Aston Villa,Midfielder,4.5,3,31/08/2024,0,0,0,0,0,Low
@@ -1401,7 +1401,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 36,Lucas,Digne,Aston Villa,Defender,4.5,31,05/04/2025,0,0,0,0,0,Low
 36,Lucas,Digne,Aston Villa,Defender,4.5,32,12/04/2025,0,0,0,0,0,Low
 36,Lucas,Digne,Aston Villa,Defender,4.5,33,19/04/2025,0,0,0,0,0,Low
-36,Lucas,Digne,Aston Villa,Defender,4.5,33,22/04/2025,0,0,0,0,0,Low
+36,Lucas,Digne,Aston Villa,Defender,4.5,33,22/04/2025,0,0,0,90,0,Low
 37,Lewis,Dobbin,Aston Villa,Midfielder,5.0,1,17/08/2024,0,0,0,0,0,Low
 37,Lewis,Dobbin,Aston Villa,Midfielder,5.0,2,24/08/2024,0,0,0,0,0,Low
 37,Lewis,Dobbin,Aston Villa,Midfielder,5.0,3,31/08/2024,0,0,0,0,0,Low
@@ -1605,7 +1605,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 42,Boubacar,Kamara,Aston Villa,Midfielder,5.0,31,05/04/2025,1,0,0,28,0,Low
 42,Boubacar,Kamara,Aston Villa,Midfielder,5.0,32,12/04/2025,1,0,0,1,0,Low
 42,Boubacar,Kamara,Aston Villa,Midfielder,5.0,33,19/04/2025,2,0,0,81,0,Low
-42,Boubacar,Kamara,Aston Villa,Midfielder,5.0,33,22/04/2025,0,0,0,0,0,Low
+42,Boubacar,Kamara,Aston Villa,Midfielder,5.0,33,22/04/2025,2,0,0,90,0,Low
 43,Kaine,Kesler-Hayden,Aston Villa,Defender,4.0,1,17/08/2024,0,0,0,0,0,Low
 43,Kaine,Kesler-Hayden,Aston Villa,Defender,4.0,2,24/08/2024,0,0,0,0,0,Low
 43,Kaine,Kesler-Hayden,Aston Villa,Defender,4.0,3,31/08/2024,0,0,0,0,0,Low
@@ -1673,7 +1673,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 44,Ezri,Konsa Ngoyo,Aston Villa,Defender,4.4,31,05/04/2025,1,0,0,45,0,Low
 44,Ezri,Konsa Ngoyo,Aston Villa,Defender,4.4,32,12/04/2025,7,0,0,90,1,Low
 44,Ezri,Konsa Ngoyo,Aston Villa,Defender,4.4,33,19/04/2025,2,0,0,90,0,Low
-44,Ezri,Konsa Ngoyo,Aston Villa,Defender,4.4,33,22/04/2025,0,0,0,0,0,Low
+44,Ezri,Konsa Ngoyo,Aston Villa,Defender,4.4,33,22/04/2025,1,0,0,90,0,Low
 45,Ian,Maatsen,Aston Villa,Defender,4.5,1,17/08/2024,1,0,0,16,0,Low
 45,Ian,Maatsen,Aston Villa,Defender,4.5,2,24/08/2024,1,0,0,14,0,Low
 45,Ian,Maatsen,Aston Villa,Defender,4.5,3,31/08/2024,1,0,0,11,0,Low
@@ -1775,7 +1775,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 47,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,31,05/04/2025,1,0,0,90,0,High
 47,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,32,12/04/2025,6,0,0,90,1,High
 47,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,33,19/04/2025,2,0,0,90,0,High
-47,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,33,22/04/2025,0,0,0,0,0,High
+47,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,33,22/04/2025,2,0,0,90,0,High
 48,John,McGinn,Aston Villa,Midfielder,5.2,1,17/08/2024,2,0,0,61,0,Low
 48,John,McGinn,Aston Villa,Midfielder,5.2,2,24/08/2024,3,0,0,64,1,Low
 48,John,McGinn,Aston Villa,Midfielder,5.2,3,31/08/2024,1,0,0,90,0,Low
@@ -1809,7 +1809,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 48,John,McGinn,Aston Villa,Midfielder,5.2,31,05/04/2025,1,0,0,17,0,Low
 48,John,McGinn,Aston Villa,Midfielder,5.2,32,12/04/2025,5,1,0,5,0,Low
 48,John,McGinn,Aston Villa,Midfielder,5.2,33,19/04/2025,2,0,0,71,0,Low
-48,John,McGinn,Aston Villa,Midfielder,5.2,33,22/04/2025,0,0,0,0,0,Low
+48,John,McGinn,Aston Villa,Midfielder,5.2,33,22/04/2025,1,0,0,29,0,Low
 49,Tyrone,Mings,Aston Villa,Defender,4.4,1,17/08/2024,0,0,0,0,0,Low
 49,Tyrone,Mings,Aston Villa,Defender,4.4,2,24/08/2024,0,0,0,0,0,Low
 49,Tyrone,Mings,Aston Villa,Defender,4.4,3,31/08/2024,0,0,0,0,0,Low
@@ -1945,7 +1945,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 52,Pau,Torres,Aston Villa,Defender,4.2,31,05/04/2025,0,0,0,0,0,Low
 52,Pau,Torres,Aston Villa,Defender,4.2,32,12/04/2025,0,0,0,0,0,Low
 52,Pau,Torres,Aston Villa,Defender,4.2,33,19/04/2025,0,0,0,0,0,Low
-52,Pau,Torres,Aston Villa,Defender,4.2,33,22/04/2025,0,0,0,0,0,Low
+52,Pau,Torres,Aston Villa,Defender,4.2,33,22/04/2025,1,0,0,90,0,Low
 53,Jacob,Ramsey,Aston Villa,Midfielder,5.4,1,17/08/2024,4,0,1,28,0,Low
 53,Jacob,Ramsey,Aston Villa,Midfielder,5.4,2,24/08/2024,1,0,0,25,0,Low
 53,Jacob,Ramsey,Aston Villa,Midfielder,5.4,3,31/08/2024,2,0,0,63,0,Low
@@ -1979,7 +1979,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 53,Jacob,Ramsey,Aston Villa,Midfielder,5.4,31,05/04/2025,1,0,0,28,0,Low
 53,Jacob,Ramsey,Aston Villa,Midfielder,5.4,32,12/04/2025,3,0,0,65,1,Low
 53,Jacob,Ramsey,Aston Villa,Midfielder,5.4,33,19/04/2025,0,0,0,18,0,Low
-53,Jacob,Ramsey,Aston Villa,Midfielder,5.4,33,22/04/2025,0,0,0,0,0,Low
+53,Jacob,Ramsey,Aston Villa,Midfielder,5.4,33,22/04/2025,5,0,1,60,0,Low
 54,Morgan,Rogers,Aston Villa,Midfielder,5.7,1,17/08/2024,2,0,0,90,0,Low
 54,Morgan,Rogers,Aston Villa,Midfielder,5.7,2,24/08/2024,2,0,0,90,0,Low
 54,Morgan,Rogers,Aston Villa,Midfielder,5.7,3,31/08/2024,2,0,0,90,0,Low
@@ -2013,7 +2013,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 54,Morgan,Rogers,Aston Villa,Midfielder,5.7,31,05/04/2025,9,1,0,90,0,Low
 54,Morgan,Rogers,Aston Villa,Midfielder,5.7,32,12/04/2025,6,0,1,84,1,Low
 54,Morgan,Rogers,Aston Villa,Midfielder,5.7,33,19/04/2025,6,0,1,81,0,Low
-54,Morgan,Rogers,Aston Villa,Midfielder,5.7,33,22/04/2025,0,0,0,0,0,Low
+54,Morgan,Rogers,Aston Villa,Midfielder,5.7,33,22/04/2025,1,0,0,85,0,Low
 55,Viljami,Sinisalo,Aston Villa,Goalkeeper,4.0,1,17/08/2024,0,0,0,0,0,Low
 55,Viljami,Sinisalo,Aston Villa,Goalkeeper,4.0,2,24/08/2024,0,0,0,0,0,Low
 55,Viljami,Sinisalo,Aston Villa,Goalkeeper,4.0,3,31/08/2024,0,0,0,0,0,Low
@@ -2115,7 +2115,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 57,Youri,Tielemans,Aston Villa,Midfielder,5.5,31,05/04/2025,6,0,1,90,0,Low
 57,Youri,Tielemans,Aston Villa,Midfielder,5.5,32,12/04/2025,6,0,1,90,1,Low
 57,Youri,Tielemans,Aston Villa,Midfielder,5.5,33,19/04/2025,7,0,1,90,0,Low
-57,Youri,Tielemans,Aston Villa,Midfielder,5.5,33,22/04/2025,0,0,0,0,0,Low
+57,Youri,Tielemans,Aston Villa,Midfielder,5.5,33,22/04/2025,2,0,0,90,0,Low
 58,Ollie,Watkins,Aston Villa,Forward,8.9,1,17/08/2024,2,0,0,61,0,Medium
 58,Ollie,Watkins,Aston Villa,Forward,8.9,2,24/08/2024,2,0,0,64,1,Medium
 58,Ollie,Watkins,Aston Villa,Forward,8.9,3,31/08/2024,5,0,1,60,1,Medium
@@ -2149,7 +2149,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 58,Ollie,Watkins,Aston Villa,Forward,8.9,31,05/04/2025,2,0,0,61,0,Medium
 58,Ollie,Watkins,Aston Villa,Forward,8.9,32,12/04/2025,7,1,0,24,0,Medium
 58,Ollie,Watkins,Aston Villa,Forward,8.9,33,19/04/2025,12,1,1,82,0,Medium
-58,Ollie,Watkins,Aston Villa,Forward,8.9,33,22/04/2025,0,0,0,0,0,Medium
+58,Ollie,Watkins,Aston Villa,Forward,8.9,33,22/04/2025,0,0,0,14,0,Medium
 167,Axel,Disasi,Aston Villa,Defender,4.2,1,18/08/2024,0,0,0,0,0,Low
 167,Axel,Disasi,Aston Villa,Defender,4.2,2,25/08/2024,0,0,0,0,0,Low
 167,Axel,Disasi,Aston Villa,Defender,4.2,3,01/09/2024,0,0,0,0,0,Low
@@ -2183,7 +2183,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 167,Axel,Disasi,Aston Villa,Defender,4.2,31,05/04/2025,2,0,0,90,0,Low
 167,Axel,Disasi,Aston Villa,Defender,4.2,32,12/04/2025,0,0,0,0,0,Low
 167,Axel,Disasi,Aston Villa,Defender,4.2,33,19/04/2025,0,0,0,0,0,Low
-167,Axel,Disasi,Aston Villa,Defender,4.2,33,22/04/2025,0,0,0,0,0,Low
+167,Axel,Disasi,Aston Villa,Defender,4.2,33,22/04/2025,1,0,0,29,0,Low
 233,Amadou,Onana,Aston Villa,Midfielder,4.8,1,17/08/2024,10,1,0,90,0,Low
 233,Amadou,Onana,Aston Villa,Midfielder,4.8,2,24/08/2024,1,0,0,75,0,Low
 233,Amadou,Onana,Aston Villa,Midfielder,4.8,3,31/08/2024,9,1,0,61,1,Low
@@ -2217,7 +2217,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 233,Amadou,Onana,Aston Villa,Midfielder,4.8,31,05/04/2025,2,0,0,61,0,Low
 233,Amadou,Onana,Aston Villa,Midfielder,4.8,32,12/04/2025,3,0,0,88,1,Low
 233,Amadou,Onana,Aston Villa,Midfielder,4.8,33,19/04/2025,6,1,0,18,0,Low
-233,Amadou,Onana,Aston Villa,Midfielder,4.8,33,22/04/2025,0,0,0,0,0,Low
+233,Amadou,Onana,Aston Villa,Midfielder,4.8,33,22/04/2025,2,0,0,75,0,Low
 385,Marcus,Rashford,Aston Villa,Midfielder,6.7,1,16/08/2024,3,0,0,90,1,Low
 385,Marcus,Rashford,Aston Villa,Midfielder,6.7,2,24/08/2024,2,0,0,64,0,Low
 385,Marcus,Rashford,Aston Villa,Midfielder,6.7,3,01/09/2024,2,0,0,90,0,Low
@@ -2251,7 +2251,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 385,Marcus,Rashford,Aston Villa,Midfielder,6.7,31,05/04/2025,1,0,0,28,0,Low
 385,Marcus,Rashford,Aston Villa,Midfielder,6.7,32,12/04/2025,3,0,0,65,1,Low
 385,Marcus,Rashford,Aston Villa,Midfielder,6.7,33,19/04/2025,1,0,0,7,0,Low
-385,Marcus,Rashford,Aston Villa,Midfielder,6.7,33,22/04/2025,0,0,0,0,0,Low
+385,Marcus,Rashford,Aston Villa,Midfielder,6.7,33,22/04/2025,7,1,0,75,0,Low
 598,Lamare,Bogarde,Aston Villa,Defender,3.9,1,17/08/2024,0,0,0,0,0,Low
 598,Lamare,Bogarde,Aston Villa,Defender,3.9,2,24/08/2024,0,0,0,0,0,Low
 598,Lamare,Bogarde,Aston Villa,Defender,3.9,3,31/08/2024,1,0,0,78,0,Low
@@ -2431,7 +2431,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 725,Donyell,Malen,Aston Villa,Midfielder,5.3,31,05/04/2025,10,1,0,61,0,Low
 725,Donyell,Malen,Aston Villa,Midfielder,5.3,32,12/04/2025,6,1,0,24,0,Low
 725,Donyell,Malen,Aston Villa,Midfielder,5.3,33,19/04/2025,1,0,0,8,0,Low
-725,Donyell,Malen,Aston Villa,Midfielder,5.3,33,22/04/2025,0,0,0,0,0,Low
+725,Donyell,Malen,Aston Villa,Midfielder,5.3,33,22/04/2025,1,0,0,4,0,Low
 731,Andrés,García,Aston Villa,Defender,4.5,23,26/01/2025,0,0,0,0,0,Low
 731,Andrés,García,Aston Villa,Defender,4.5,24,01/02/2025,1,0,0,45,0,Low
 731,Andrés,García,Aston Villa,Defender,4.5,25,15/02/2025,2,0,0,90,0,Low
@@ -2455,7 +2455,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 737,Unai,Emery,Aston Villa,Manager,0.8,31,05/04/2025,8,0,0,0,0,Unknown
 737,Unai,Emery,Aston Villa,Manager,0.8,32,12/04/2025,11,0,0,0,0,Unknown
 737,Unai,Emery,Aston Villa,Manager,0.8,33,19/04/2025,10,0,0,0,0,Unknown
-737,Unai,Emery,Aston Villa,Manager,0.8,33,22/04/2025,0,0,0,0,0,Unknown
+737,Unai,Emery,Aston Villa,Manager,0.8,33,22/04/2025,1,0,0,0,0,Unknown
 762,Marco,Asensio,Aston Villa,Midfielder,6.2,25,15/02/2025,1,0,0,27,0,Low
 762,Marco,Asensio,Aston Villa,Midfielder,6.2,25,19/02/2025,2,0,0,66,0,Low
 762,Marco,Asensio,Aston Villa,Midfielder,6.2,26,22/02/2025,15,2,0,90,0,Low
@@ -2465,7 +2465,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 762,Marco,Asensio,Aston Villa,Midfielder,6.2,31,05/04/2025,1,0,0,72,0,Low
 762,Marco,Asensio,Aston Villa,Midfielder,6.2,32,12/04/2025,2,0,1,90,1,Low
 762,Marco,Asensio,Aston Villa,Midfielder,6.2,33,19/04/2025,2,0,0,71,0,Low
-762,Marco,Asensio,Aston Villa,Midfielder,6.2,33,22/04/2025,0,0,0,0,0,Low
+762,Marco,Asensio,Aston Villa,Midfielder,6.2,33,22/04/2025,1,0,0,14,0,Low
 59,Max,Aarons,Bournemouth,Defender,4.3,1,17/08/2024,0,0,0,0,0,Low
 59,Max,Aarons,Bournemouth,Defender,4.3,2,25/08/2024,0,0,0,0,0,Low
 59,Max,Aarons,Bournemouth,Defender,4.3,3,31/08/2024,0,0,0,0,0,Low
@@ -11498,7 +11498,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 277,Massimo,Luongo,Ipswich,Midfielder,4.3,30,02/04/2025,0,0,0,0,0,Unknown
 277,Massimo,Luongo,Ipswich,Midfielder,4.3,31,05/04/2025,0,0,0,0,0,Unknown
 277,Massimo,Luongo,Ipswich,Midfielder,4.3,32,13/04/2025,0,0,0,0,0,Unknown
-277,Massimo,Luongo,Ipswich,Midfielder,4.3,33,20/04/2025,1,0,0,9,0,Unknown
+277,Massimo,Luongo,Ipswich,Midfielder,4.3,33,20/04/2025,1,0,0,8,0,Unknown
 278,Sam,Morsy,Ipswich,Midfielder,4.8,1,17/08/2024,2,0,0,90,0,Low
 278,Sam,Morsy,Ipswich,Midfielder,4.8,2,24/08/2024,1,0,0,90,0,Low
 278,Sam,Morsy,Ipswich,Midfielder,4.8,3,31/08/2024,1,0,0,90,0,Low
@@ -11926,7 +11926,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 619,Jens,Cajuste,Ipswich,Midfielder,4.5,30,02/04/2025,2,0,0,90,0,Low
 619,Jens,Cajuste,Ipswich,Midfielder,4.5,31,05/04/2025,2,0,0,80,0,Low
 619,Jens,Cajuste,Ipswich,Midfielder,4.5,32,13/04/2025,2,0,0,90,0,Low
-619,Jens,Cajuste,Ipswich,Midfielder,4.5,33,20/04/2025,2,0,0,80,0,Low
+619,Jens,Cajuste,Ipswich,Midfielder,4.5,33,20/04/2025,2,0,0,81,0,Low
 630,Dara,O'Shea,Ipswich,Defender,3.9,3,31/08/2024,0,0,0,0,0,Low
 630,Dara,O'Shea,Ipswich,Defender,3.9,4,14/09/2024,7,0,0,90,1,Low
 630,Dara,O'Shea,Ipswich,Defender,3.9,5,21/09/2024,1,0,0,90,0,Low
@@ -14061,7 +14061,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 336,Dominik,Szoboszlai,Liverpool,Midfielder,6.2,30,02/04/2025,3,0,0,90,1,Low
 336,Dominik,Szoboszlai,Liverpool,Midfielder,6.2,31,06/04/2025,1,0,0,54,0,Low
 336,Dominik,Szoboszlai,Liverpool,Midfielder,6.2,32,13/04/2025,1,0,0,22,0,Low
-336,Dominik,Szoboszlai,Liverpool,Midfielder,6.2,33,20/04/2025,5,0,0,70,1,Low
+336,Dominik,Szoboszlai,Liverpool,Midfielder,6.2,33,20/04/2025,3,0,0,70,1,Low
 337,Konstantinos,Tsimikas,Liverpool,Defender,4.6,1,17/08/2024,1,0,0,11,0,Low
 337,Konstantinos,Tsimikas,Liverpool,Defender,4.6,2,25/08/2024,0,0,0,0,0,Low
 337,Konstantinos,Tsimikas,Liverpool,Defender,4.6,3,01/09/2024,1,0,0,7,0,Low
@@ -14094,7 +14094,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 337,Konstantinos,Tsimikas,Liverpool,Defender,4.6,30,02/04/2025,0,0,0,0,0,Low
 337,Konstantinos,Tsimikas,Liverpool,Defender,4.6,31,06/04/2025,0,0,0,0,0,Low
 337,Konstantinos,Tsimikas,Liverpool,Defender,4.6,32,13/04/2025,1,0,0,59,0,Low
-337,Konstantinos,Tsimikas,Liverpool,Defender,4.6,33,20/04/2025,7,0,0,90,1,Low
+337,Konstantinos,Tsimikas,Liverpool,Defender,4.6,33,20/04/2025,8,0,0,90,1,Low
 339,Virgil,van Dijk,Liverpool,Defender,6.6,1,17/08/2024,6,0,0,90,1,High
 339,Virgil,van Dijk,Liverpool,Defender,6.6,2,25/08/2024,7,0,0,90,1,High
 339,Virgil,van Dijk,Liverpool,Defender,6.6,3,01/09/2024,5,0,0,90,1,High
@@ -14127,7 +14127,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 339,Virgil,van Dijk,Liverpool,Defender,6.6,30,02/04/2025,8,0,0,90,1,High
 339,Virgil,van Dijk,Liverpool,Defender,6.6,31,06/04/2025,1,0,0,90,0,High
 339,Virgil,van Dijk,Liverpool,Defender,6.6,32,13/04/2025,9,1,0,90,0,High
-339,Virgil,van Dijk,Liverpool,Defender,6.6,33,20/04/2025,6,0,0,90,1,High
+339,Virgil,van Dijk,Liverpool,Defender,6.6,33,20/04/2025,7,0,0,90,1,High
 636,Federico,Chiesa,Liverpool,Midfielder,6.8,3,01/09/2024,0,0,0,0,0,Low
 636,Federico,Chiesa,Liverpool,Midfielder,6.8,4,14/09/2024,0,0,0,0,0,Low
 636,Federico,Chiesa,Liverpool,Midfielder,6.8,5,21/09/2024,1,0,0,18,0,Low
@@ -14315,7 +14315,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 340,Manuel,Akanji,Man City,Defender,5.3,31,06/04/2025,0,0,0,0,0,Medium
 340,Manuel,Akanji,Man City,Defender,5.3,32,12/04/2025,0,0,0,0,0,Medium
 340,Manuel,Akanji,Man City,Defender,5.3,33,19/04/2025,1,0,0,2,0,Medium
-340,Manuel,Akanji,Man City,Defender,5.3,33,22/04/2025,0,0,0,0,0,Medium
+340,Manuel,Akanji,Man City,Defender,5.3,33,22/04/2025,1,0,0,1,0,Medium
 341,Nathan,Aké,Man City,Defender,5.3,1,18/08/2024,0,0,0,0,0,Medium
 341,Nathan,Aké,Man City,Defender,5.3,2,24/08/2024,0,0,0,0,0,Medium
 341,Nathan,Aké,Man City,Defender,5.3,3,31/08/2024,1,0,0,2,0,Medium
@@ -14383,7 +14383,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 342,Bernardo,Veiga de Carvalho e Silva,Man City,Midfielder,6.1,31,06/04/2025,2,0,0,90,1,Low
 342,Bernardo,Veiga de Carvalho e Silva,Man City,Midfielder,6.1,32,12/04/2025,0,0,0,0,0,Low
 342,Bernardo,Veiga de Carvalho e Silva,Man City,Midfielder,6.1,33,19/04/2025,3,0,0,90,1,Low
-342,Bernardo,Veiga de Carvalho e Silva,Man City,Midfielder,6.1,33,22/04/2025,0,0,0,0,0,Low
+342,Bernardo,Veiga de Carvalho e Silva,Man City,Midfielder,6.1,33,22/04/2025,9,1,0,90,0,Low
 343,Oscar,Bobb,Man City,Midfielder,4.7,1,18/08/2024,0,0,0,0,0,Low
 343,Oscar,Bobb,Man City,Midfielder,4.7,2,24/08/2024,0,0,0,0,0,Low
 343,Oscar,Bobb,Man City,Midfielder,4.7,3,31/08/2024,0,0,0,0,0,Low
@@ -14485,7 +14485,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 345,Kevin,De Bruyne,Man City,Midfielder,9.4,31,06/04/2025,3,0,0,90,1,Medium
 345,Kevin,De Bruyne,Man City,Midfielder,9.4,32,12/04/2025,12,1,1,86,0,Medium
 345,Kevin,De Bruyne,Man City,Midfielder,9.4,33,19/04/2025,3,0,0,87,1,Medium
-345,Kevin,De Bruyne,Man City,Midfielder,9.4,33,22/04/2025,0,0,0,0,0,Medium
+345,Kevin,De Bruyne,Man City,Midfielder,9.4,33,22/04/2025,3,0,0,90,0,Medium
 346,Jérémy,Doku,Man City,Midfielder,6.2,1,18/08/2024,3,0,0,90,1,Low
 346,Jérémy,Doku,Man City,Midfielder,6.2,2,24/08/2024,2,0,0,70,0,Low
 346,Jérémy,Doku,Man City,Midfielder,6.2,3,31/08/2024,2,0,0,67,0,Low
@@ -14519,7 +14519,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 346,Jérémy,Doku,Man City,Midfielder,6.2,31,06/04/2025,1,0,0,33,0,Low
 346,Jérémy,Doku,Man City,Midfielder,6.2,32,12/04/2025,1,0,0,3,0,Low
 346,Jérémy,Doku,Man City,Midfielder,6.2,33,19/04/2025,1,0,0,12,0,Low
-346,Jérémy,Doku,Man City,Midfielder,6.2,33,22/04/2025,0,0,0,0,0,Low
+346,Jérémy,Doku,Man City,Midfielder,6.2,33,22/04/2025,4,0,1,16,0,Low
 347,Ederson,Santana de Moraes,Man City,Goalkeeper,5.3,1,18/08/2024,8,0,0,90,1,High
 347,Ederson,Santana de Moraes,Man City,Goalkeeper,5.3,2,24/08/2024,2,0,0,90,0,High
 347,Ederson,Santana de Moraes,Man City,Goalkeeper,5.3,3,31/08/2024,2,0,0,90,0,High
@@ -14655,7 +14655,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 350,Joško,Gvardiol,Man City,Defender,6.3,31,06/04/2025,9,0,0,90,1,High
 350,Joško,Gvardiol,Man City,Defender,6.3,32,12/04/2025,1,0,0,90,0,High
 350,Joško,Gvardiol,Man City,Defender,6.3,33,19/04/2025,6,0,0,90,1,High
-350,Joško,Gvardiol,Man City,Defender,6.3,33,22/04/2025,0,0,0,0,0,High
+350,Joško,Gvardiol,Man City,Defender,6.3,33,22/04/2025,1,0,0,90,0,High
 351,Erling,Haaland,Man City,Forward,14.8,1,18/08/2024,7,1,0,90,1,High
 351,Erling,Haaland,Man City,Forward,14.8,2,24/08/2024,17,3,0,89,0,High
 351,Erling,Haaland,Man City,Forward,14.8,3,31/08/2024,17,3,0,90,0,High
@@ -14791,7 +14791,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 354,Mateo,Kovačić,Man City,Midfielder,5.4,31,06/04/2025,3,0,0,90,1,Low
 354,Mateo,Kovačić,Man City,Midfielder,5.4,32,12/04/2025,10,1,0,86,0,Low
 354,Mateo,Kovačić,Man City,Midfielder,5.4,33,19/04/2025,6,1,0,12,0,Low
-354,Mateo,Kovačić,Man City,Midfielder,5.4,33,22/04/2025,0,0,0,0,0,Low
+354,Mateo,Kovačić,Man City,Midfielder,5.4,33,22/04/2025,2,0,0,90,0,Low
 355,Rico,Lewis,Man City,Defender,4.3,1,18/08/2024,6,0,0,90,1,Low
 355,Rico,Lewis,Man City,Defender,4.3,2,24/08/2024,2,0,0,90,0,Low
 355,Rico,Lewis,Man City,Defender,4.3,3,31/08/2024,6,0,1,90,0,Low
@@ -14859,7 +14859,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 356,Matheus Luiz,Nunes,Man City,Midfielder,4.9,31,06/04/2025,3,0,0,90,1,Low
 356,Matheus Luiz,Nunes,Man City,Midfielder,4.9,32,12/04/2025,0,0,0,0,0,Low
 356,Matheus Luiz,Nunes,Man City,Midfielder,4.9,33,19/04/2025,8,0,1,90,1,Low
-356,Matheus Luiz,Nunes,Man City,Midfielder,4.9,33,22/04/2025,0,0,0,0,0,Low
+356,Matheus Luiz,Nunes,Man City,Midfielder,4.9,33,22/04/2025,8,1,0,90,0,Low
 357,James,McAtee,Man City,Midfielder,4.6,1,18/08/2024,0,0,0,0,0,Low
 357,James,McAtee,Man City,Midfielder,4.6,2,24/08/2024,1,0,0,1,0,Low
 357,James,McAtee,Man City,Midfielder,4.6,3,31/08/2024,0,0,0,0,0,Low
@@ -14893,7 +14893,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 357,James,McAtee,Man City,Midfielder,4.6,31,06/04/2025,0,0,0,0,0,Low
 357,James,McAtee,Man City,Midfielder,4.6,32,12/04/2025,6,1,0,81,0,Low
 357,James,McAtee,Man City,Midfielder,4.6,33,19/04/2025,0,0,0,0,0,Low
-357,James,McAtee,Man City,Midfielder,4.6,33,22/04/2025,0,0,0,0,0,Low
+357,James,McAtee,Man City,Midfielder,4.6,33,22/04/2025,2,0,0,73,0,Low
 358,Stefan,Ortega Moreno,Man City,Goalkeeper,5.2,1,18/08/2024,0,0,0,0,0,High
 358,Stefan,Ortega Moreno,Man City,Goalkeeper,5.2,2,24/08/2024,0,0,0,0,0,High
 358,Stefan,Ortega Moreno,Man City,Goalkeeper,5.2,3,31/08/2024,0,0,0,0,0,High
@@ -14927,7 +14927,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 358,Stefan,Ortega Moreno,Man City,Goalkeeper,5.2,31,06/04/2025,0,0,0,0,0,High
 358,Stefan,Ortega Moreno,Man City,Goalkeeper,5.2,32,12/04/2025,1,0,0,19,0,High
 358,Stefan,Ortega Moreno,Man City,Goalkeeper,5.2,33,19/04/2025,6,0,0,90,1,High
-358,Stefan,Ortega Moreno,Man City,Goalkeeper,5.2,33,22/04/2025,0,0,0,0,0,High
+358,Stefan,Ortega Moreno,Man City,Goalkeeper,5.2,33,22/04/2025,2,0,0,90,0,High
 360,Rodrigo 'Rodri',Hernandez,Man City,Midfielder,6.2,1,18/08/2024,0,0,0,0,0,Low
 360,Rodrigo 'Rodri',Hernandez,Man City,Midfielder,6.2,2,24/08/2024,0,0,0,0,0,Low
 360,Rodrigo 'Rodri',Hernandez,Man City,Midfielder,6.2,3,31/08/2024,0,0,0,0,0,Low
@@ -14995,7 +14995,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 361,Rúben,Gato Alves Dias,Man City,Defender,5.4,31,06/04/2025,5,0,0,90,1,Medium
 361,Rúben,Gato Alves Dias,Man City,Defender,5.4,32,12/04/2025,1,0,0,90,0,Medium
 361,Rúben,Gato Alves Dias,Man City,Defender,5.4,33,19/04/2025,7,0,0,90,1,Medium
-361,Rúben,Gato Alves Dias,Man City,Defender,5.4,33,22/04/2025,0,0,0,0,0,Medium
+361,Rúben,Gato Alves Dias,Man City,Defender,5.4,33,22/04/2025,2,0,0,90,0,Medium
 362,John,Stones,Man City,Defender,5.3,1,18/08/2024,0,0,0,0,0,Medium
 362,John,Stones,Man City,Defender,5.3,2,24/08/2024,1,0,0,40,0,Medium
 362,John,Stones,Man City,Defender,5.3,3,31/08/2024,0,0,0,0,0,Medium
@@ -15131,7 +15131,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 607,Nico,O'Reilly,Man City,Midfielder,4.9,31,06/04/2025,3,0,0,73,1,Low
 607,Nico,O'Reilly,Man City,Midfielder,4.9,32,12/04/2025,8,1,0,90,0,Low
 607,Nico,O'Reilly,Man City,Midfielder,4.9,33,19/04/2025,11,1,0,90,1,Low
-607,Nico,O'Reilly,Man City,Midfielder,4.9,33,22/04/2025,0,0,0,0,0,Low
+607,Nico,O'Reilly,Man City,Midfielder,4.9,33,22/04/2025,2,0,0,90,0,Low
 625,Ilkay,Gündogan,Man City,Midfielder,6.3,2,24/08/2024,1,0,0,19,0,Low
 625,Ilkay,Gündogan,Man City,Midfielder,6.3,3,31/08/2024,1,0,0,22,0,Low
 625,Ilkay,Gündogan,Man City,Midfielder,6.3,4,14/09/2024,2,0,0,90,0,Low
@@ -15164,7 +15164,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 625,Ilkay,Gündogan,Man City,Midfielder,6.3,31,06/04/2025,3,0,0,73,1,Low
 625,Ilkay,Gündogan,Man City,Midfielder,6.3,32,12/04/2025,5,0,1,90,0,Low
 625,Ilkay,Gündogan,Man City,Midfielder,6.3,33,19/04/2025,6,0,1,90,1,Low
-625,Ilkay,Gündogan,Man City,Midfielder,6.3,33,22/04/2025,0,0,0,0,0,Low
+625,Ilkay,Gündogan,Man City,Midfielder,6.3,33,22/04/2025,2,0,0,90,0,Low
 626,Issa,Kaboré,Man City,Defender,4.5,2,24/08/2024,0,0,0,0,0,Low
 626,Issa,Kaboré,Man City,Defender,4.5,3,31/08/2024,0,0,0,0,0,Low
 626,Issa,Kaboré,Man City,Defender,4.5,4,14/09/2024,0,0,0,0,0,Low
@@ -15360,7 +15360,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 736,Pep,Guardiola,Man City,Manager,1.5,31,06/04/2025,5,0,0,0,0,Unknown
 736,Pep,Guardiola,Man City,Manager,1.5,32,12/04/2025,11,0,0,0,0,Unknown
 736,Pep,Guardiola,Man City,Manager,1.5,33,19/04/2025,10,0,0,0,0,Unknown
-736,Pep,Guardiola,Man City,Manager,1.5,33,22/04/2025,0,0,0,0,0,Unknown
+736,Pep,Guardiola,Man City,Manager,1.5,33,22/04/2025,8,0,0,0,0,Unknown
 755,Omar,Marmoush,Man City,Forward,7.7,23,25/01/2025,2,0,0,73,0,Low
 755,Omar,Marmoush,Man City,Forward,7.7,24,02/02/2025,2,0,0,71,0,Low
 755,Omar,Marmoush,Man City,Forward,7.7,25,15/02/2025,17,3,0,75,1,Low
@@ -15372,7 +15372,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 755,Omar,Marmoush,Man City,Forward,7.7,31,06/04/2025,2,0,0,90,1,Low
 755,Omar,Marmoush,Man City,Forward,7.7,32,12/04/2025,7,1,0,81,0,Low
 755,Omar,Marmoush,Man City,Forward,7.7,33,19/04/2025,2,0,0,90,1,Low
-755,Omar,Marmoush,Man City,Forward,7.7,33,22/04/2025,0,0,0,0,0,Low
+755,Omar,Marmoush,Man City,Forward,7.7,33,22/04/2025,2,0,0,90,0,Low
 765,Nico,González,Man City,Midfielder,6.0,25,15/02/2025,3,0,0,90,1,Low
 765,Nico,González,Man City,Midfielder,6.0,26,23/02/2025,2,0,0,77,0,Low
 765,Nico,González,Man City,Midfielder,6.0,27,26/02/2025,3,0,0,73,1,Low
@@ -15818,7 +15818,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 376,Victor,Lindelöf,Man Utd,Defender,4.3,30,01/04/2025,0,0,0,0,0,Low
 376,Victor,Lindelöf,Man Utd,Defender,4.3,31,06/04/2025,1,0,0,32,0,Low
 376,Victor,Lindelöf,Man Utd,Defender,4.3,32,13/04/2025,0,0,0,90,0,Low
-376,Victor,Lindelöf,Man Utd,Defender,4.3,33,20/04/2025,2,0,0,78,0,Low
+376,Victor,Lindelöf,Man Utd,Defender,4.3,33,20/04/2025,2,0,0,77,0,Low
 377,Harry,Maguire,Man Utd,Defender,4.9,1,16/08/2024,5,0,0,80,1,Low
 377,Harry,Maguire,Man Utd,Defender,4.9,2,24/08/2024,2,0,0,78,0,Low
 377,Harry,Maguire,Man Utd,Defender,4.9,3,01/09/2024,1,0,0,21,0,Low
@@ -16181,7 +16181,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 572,Leny,Yoro,Man Utd,Defender,4.3,30,01/04/2025,2,0,0,87,0,Low
 572,Leny,Yoro,Man Utd,Defender,4.3,31,06/04/2025,5,0,0,90,1,Low
 572,Leny,Yoro,Man Utd,Defender,4.3,32,13/04/2025,-1,0,0,90,0,Low
-572,Leny,Yoro,Man Utd,Defender,4.3,33,20/04/2025,1,0,0,11,0,Low
+572,Leny,Yoro,Man Utd,Defender,4.3,33,20/04/2025,1,0,0,12,0,Low
 593,Matthijs,de Ligt,Man Utd,Defender,4.8,1,16/08/2024,1,0,0,9,0,Low
 593,Matthijs,de Ligt,Man Utd,Defender,4.8,2,24/08/2024,1,0,0,11,0,Low
 593,Matthijs,de Ligt,Man Utd,Defender,4.8,3,01/09/2024,0,0,0,68,0,Low
@@ -16613,39 +16613,39 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 391,Miguel,Almirón Rejala,Newcastle,Midfielder,5.4,32,13/04/2025,0,0,0,0,0,Low
 391,Miguel,Almirón Rejala,Newcastle,Midfielder,5.4,32,16/04/2025,0,0,0,0,0,Low
 391,Miguel,Almirón Rejala,Newcastle,Midfielder,5.4,33,19/04/2025,0,0,0,0,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,1,17/08/2024,1,0,0,20,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,2,25/08/2024,5,0,1,32,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,3,01/09/2024,9,1,0,60,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,4,15/09/2024,8,1,0,45,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,5,21/09/2024,10,1,0,90,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,6,28/09/2024,2,0,0,76,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,7,05/10/2024,3,0,0,61,1,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,8,19/10/2024,1,0,0,25,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,9,27/10/2024,2,0,0,67,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,10,02/11/2024,1,0,0,5,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,11,10/11/2024,7,1,0,10,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,12,25/11/2024,1,0,0,45,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,13,30/11/2024,2,0,0,68,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,14,04/12/2024,1,0,0,16,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,15,07/12/2024,7,1,0,72,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,16,14/12/2024,1,0,0,26,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,17,21/12/2024,1,0,0,26,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,18,26/12/2024,1,0,0,12,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,19,30/12/2024,1,0,0,5,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,20,04/01/2025,1,0,0,12,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,21,15/01/2025,0,0,0,0,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,22,18/01/2025,0,0,0,0,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,23,25/01/2025,0,0,0,0,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,24,01/02/2025,0,0,0,0,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,25,15/02/2025,0,0,0,0,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,26,23/02/2025,1,0,0,20,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,27,26/02/2025,1,0,0,22,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,28,10/03/2025,6,0,1,78,1,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,30,02/04/2025,5,0,1,90,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,31,07/04/2025,8,1,0,90,1,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,32,13/04/2025,15,2,0,90,0,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,32,16/04/2025,12,1,1,90,1,Low
-392,Harvey,Barnes,Newcastle,Midfielder,5.9,33,19/04/2025,5,0,1,75,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,1,17/08/2024,1,0,0,20,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,2,25/08/2024,5,0,1,32,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,3,01/09/2024,9,1,0,60,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,4,15/09/2024,8,1,0,45,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,5,21/09/2024,10,1,0,90,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,6,28/09/2024,2,0,0,76,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,7,05/10/2024,3,0,0,61,1,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,8,19/10/2024,1,0,0,25,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,9,27/10/2024,2,0,0,67,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,10,02/11/2024,1,0,0,5,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,11,10/11/2024,7,1,0,10,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,12,25/11/2024,1,0,0,45,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,13,30/11/2024,2,0,0,68,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,14,04/12/2024,1,0,0,16,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,15,07/12/2024,7,1,0,72,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,16,14/12/2024,1,0,0,26,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,17,21/12/2024,1,0,0,26,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,18,26/12/2024,1,0,0,12,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,19,30/12/2024,1,0,0,5,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,20,04/01/2025,1,0,0,12,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,21,15/01/2025,0,0,0,0,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,22,18/01/2025,0,0,0,0,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,23,25/01/2025,0,0,0,0,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,24,01/02/2025,0,0,0,0,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,25,15/02/2025,0,0,0,0,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,26,23/02/2025,1,0,0,20,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,27,26/02/2025,1,0,0,22,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,28,10/03/2025,6,0,1,78,1,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,30,02/04/2025,5,0,1,90,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,31,07/04/2025,8,1,0,90,1,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,32,13/04/2025,15,2,0,90,0,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,32,16/04/2025,12,1,1,90,1,Low
+392,Harvey,Barnes,Newcastle,Midfielder,6.0,33,19/04/2025,5,0,1,75,0,Low
 393,Sven,Botman,Newcastle,Defender,4.4,1,17/08/2024,0,0,0,0,0,Low
 393,Sven,Botman,Newcastle,Defender,4.4,2,25/08/2024,0,0,0,0,0,Low
 393,Sven,Botman,Newcastle,Defender,4.4,3,01/09/2024,0,0,0,0,0,Low
@@ -17751,7 +17751,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 423,Elliot,Anderson,Nott'm Forest,Midfielder,5.0,30,01/04/2025,3,0,0,66,1,Low
 423,Elliot,Anderson,Nott'm Forest,Midfielder,5.0,31,05/04/2025,2,0,0,90,0,Low
 423,Elliot,Anderson,Nott'm Forest,Midfielder,5.0,32,12/04/2025,2,0,0,90,0,Low
-423,Elliot,Anderson,Nott'm Forest,Midfielder,5.0,33,21/04/2025,0,0,0,0,0,Low
+423,Elliot,Anderson,Nott'm Forest,Midfielder,5.0,33,21/04/2025,10,1,0,90,0,Low
 424,Taiwo,Awoniyi,Nott'm Forest,Forward,5.5,1,17/08/2024,1,0,0,18,0,Low
 424,Taiwo,Awoniyi,Nott'm Forest,Forward,5.5,2,24/08/2024,1,0,0,15,0,Low
 424,Taiwo,Awoniyi,Nott'm Forest,Forward,5.5,3,31/08/2024,1,0,0,1,0,Low
@@ -17784,7 +17784,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 424,Taiwo,Awoniyi,Nott'm Forest,Forward,5.5,30,01/04/2025,2,0,0,85,1,Low
 424,Taiwo,Awoniyi,Nott'm Forest,Forward,5.5,31,05/04/2025,0,0,0,0,0,Low
 424,Taiwo,Awoniyi,Nott'm Forest,Forward,5.5,32,12/04/2025,0,0,0,0,0,Low
-424,Taiwo,Awoniyi,Nott'm Forest,Forward,5.5,33,21/04/2025,0,0,0,0,0,Low
+424,Taiwo,Awoniyi,Nott'm Forest,Forward,5.5,33,21/04/2025,1,0,0,14,0,Low
 425,Willy,Boly,Nott'm Forest,Defender,4.2,1,17/08/2024,2,0,0,90,0,Low
 425,Willy,Boly,Nott'm Forest,Defender,4.2,2,24/08/2024,1,0,0,1,0,Low
 425,Willy,Boly,Nott'm Forest,Defender,4.2,3,31/08/2024,0,0,0,0,0,Low
@@ -17949,7 +17949,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 429,Danilo,dos Santos de Oliveira,Nott'm Forest,Midfielder,4.7,30,01/04/2025,1,0,0,39,0,Low
 429,Danilo,dos Santos de Oliveira,Nott'm Forest,Midfielder,4.7,31,05/04/2025,0,0,0,0,0,Low
 429,Danilo,dos Santos de Oliveira,Nott'm Forest,Midfielder,4.7,32,12/04/2025,0,0,0,0,0,Low
-429,Danilo,dos Santos de Oliveira,Nott'm Forest,Midfielder,4.7,33,21/04/2025,0,0,0,0,0,Low
+429,Danilo,dos Santos de Oliveira,Nott'm Forest,Midfielder,4.7,33,21/04/2025,1,0,0,57,0,Low
 430,Emmanuel,Dennis,Nott'm Forest,Forward,4.9,1,17/08/2024,0,0,0,0,0,Low
 430,Emmanuel,Dennis,Nott'm Forest,Forward,4.9,2,24/08/2024,0,0,0,0,0,Low
 430,Emmanuel,Dennis,Nott'm Forest,Forward,4.9,3,31/08/2024,0,0,0,0,0,Low
@@ -18015,7 +18015,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 431,Nicolás,Domínguez,Nott'm Forest,Midfielder,4.8,30,01/04/2025,1,0,0,23,0,Low
 431,Nicolás,Domínguez,Nott'm Forest,Midfielder,4.8,31,05/04/2025,2,0,0,73,0,Low
 431,Nicolás,Domínguez,Nott'm Forest,Midfielder,4.8,32,12/04/2025,3,0,0,74,1,Low
-431,Nicolás,Domínguez,Nott'm Forest,Midfielder,4.8,33,21/04/2025,0,0,0,0,0,Low
+431,Nicolás,Domínguez,Nott'm Forest,Midfielder,4.8,33,21/04/2025,4,0,1,57,0,Low
 432,Anthony,Elanga,Nott'm Forest,Midfielder,5.4,1,17/08/2024,1,0,0,53,0,Low
 432,Anthony,Elanga,Nott'm Forest,Midfielder,5.4,2,24/08/2024,3,0,0,90,1,Low
 432,Anthony,Elanga,Nott'm Forest,Midfielder,5.4,3,31/08/2024,2,0,0,90,0,Low
@@ -18048,7 +18048,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 432,Anthony,Elanga,Nott'm Forest,Midfielder,5.4,30,01/04/2025,11,1,0,84,1,Low
 432,Anthony,Elanga,Nott'm Forest,Midfielder,5.4,31,05/04/2025,1,0,0,45,0,Low
 432,Anthony,Elanga,Nott'm Forest,Midfielder,5.4,32,12/04/2025,1,0,0,31,0,Low
-432,Anthony,Elanga,Nott'm Forest,Midfielder,5.4,33,21/04/2025,0,0,0,0,0,Low
+432,Anthony,Elanga,Nott'm Forest,Midfielder,5.4,33,21/04/2025,4,0,1,45,0,Low
 433,Morgan,Gibbs-White,Nott'm Forest,Midfielder,6.4,1,17/08/2024,2,0,0,90,0,Low
 433,Morgan,Gibbs-White,Nott'm Forest,Midfielder,6.4,2,24/08/2024,10,1,0,90,1,Low
 433,Morgan,Gibbs-White,Nott'm Forest,Midfielder,6.4,3,31/08/2024,1,0,0,90,0,Low
@@ -18081,7 +18081,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 433,Morgan,Gibbs-White,Nott'm Forest,Midfielder,6.4,30,01/04/2025,3,0,0,90,1,Low
 433,Morgan,Gibbs-White,Nott'm Forest,Midfielder,6.4,31,05/04/2025,2,0,0,90,0,Low
 433,Morgan,Gibbs-White,Nott'm Forest,Midfielder,6.4,32,12/04/2025,2,0,0,90,0,Low
-433,Morgan,Gibbs-White,Nott'm Forest,Midfielder,6.4,33,21/04/2025,0,0,0,0,0,Low
+433,Morgan,Gibbs-White,Nott'm Forest,Midfielder,6.4,33,21/04/2025,1,0,0,90,0,Low
 434,Callum,Hudson-Odoi,Nott'm Forest,Midfielder,5.1,1,17/08/2024,3,0,0,71,1,Low
 434,Callum,Hudson-Odoi,Nott'm Forest,Midfielder,5.1,2,24/08/2024,3,0,0,90,1,Low
 434,Callum,Hudson-Odoi,Nott'm Forest,Midfielder,5.1,3,31/08/2024,2,0,0,79,0,Low
@@ -18114,7 +18114,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 434,Callum,Hudson-Odoi,Nott'm Forest,Midfielder,5.1,30,01/04/2025,0,0,0,0,0,Low
 434,Callum,Hudson-Odoi,Nott'm Forest,Midfielder,5.1,31,05/04/2025,2,0,0,90,0,Low
 434,Callum,Hudson-Odoi,Nott'm Forest,Midfielder,5.1,32,12/04/2025,2,0,0,90,0,Low
-434,Callum,Hudson-Odoi,Nott'm Forest,Midfielder,5.1,33,21/04/2025,0,0,0,0,0,Low
+434,Callum,Hudson-Odoi,Nott'm Forest,Midfielder,5.1,33,21/04/2025,1,0,0,32,0,Low
 435,Alex,Mighten,Nott'm Forest,Midfielder,4.5,1,17/08/2024,0,0,0,0,0,Low
 435,Alex,Mighten,Nott'm Forest,Midfielder,4.5,2,24/08/2024,0,0,0,0,0,Low
 435,Alex,Mighten,Nott'm Forest,Midfielder,4.5,3,31/08/2024,0,0,0,0,0,Low
@@ -18180,7 +18180,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 436,Murillo,Santiago Costa dos Santos,Nott'm Forest,Defender,4.7,30,01/04/2025,9,0,0,90,1,Low
 436,Murillo,Santiago Costa dos Santos,Nott'm Forest,Defender,4.7,31,05/04/2025,1,0,0,90,0,Low
 436,Murillo,Santiago Costa dos Santos,Nott'm Forest,Defender,4.7,32,12/04/2025,2,0,0,90,0,Low
-436,Murillo,Santiago Costa dos Santos,Nott'm Forest,Defender,4.7,33,21/04/2025,0,0,0,0,0,Low
+436,Murillo,Santiago Costa dos Santos,Nott'm Forest,Defender,4.7,33,21/04/2025,2,0,0,90,0,Low
 437,Neco,Williams,Nott'm Forest,Defender,4.5,1,17/08/2024,1,0,0,90,0,Low
 437,Neco,Williams,Nott'm Forest,Defender,4.5,2,24/08/2024,6,0,0,90,1,Low
 437,Neco,Williams,Nott'm Forest,Defender,4.5,3,31/08/2024,2,0,0,90,0,Low
@@ -18213,7 +18213,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 437,Neco,Williams,Nott'm Forest,Defender,4.5,30,01/04/2025,5,0,0,90,1,Low
 437,Neco,Williams,Nott'm Forest,Defender,4.5,31,05/04/2025,4,0,1,90,0,Low
 437,Neco,Williams,Nott'm Forest,Defender,4.5,32,12/04/2025,2,0,0,90,0,Low
-437,Neco,Williams,Nott'm Forest,Defender,4.5,33,21/04/2025,0,0,0,0,0,Low
+437,Neco,Williams,Nott'm Forest,Defender,4.5,33,21/04/2025,2,0,0,90,0,Low
 438,Omar,Richards,Nott'm Forest,Defender,4.5,1,17/08/2024,0,0,0,0,0,Low
 438,Omar,Richards,Nott'm Forest,Defender,4.5,2,24/08/2024,0,0,0,0,0,Low
 438,Omar,Richards,Nott'm Forest,Defender,4.5,3,31/08/2024,0,0,0,0,0,Low
@@ -18411,7 +18411,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 443,Matz,Sels,Nott'm Forest,Goalkeeper,5.1,30,01/04/2025,8,0,0,90,1,High
 443,Matz,Sels,Nott'm Forest,Goalkeeper,5.1,31,05/04/2025,3,0,0,90,0,High
 443,Matz,Sels,Nott'm Forest,Goalkeeper,5.1,32,12/04/2025,3,0,0,90,0,High
-443,Matz,Sels,Nott'm Forest,Goalkeeper,5.1,33,21/04/2025,0,0,0,0,0,High
+443,Matz,Sels,Nott'm Forest,Goalkeeper,5.1,33,21/04/2025,2,0,0,90,0,High
 444,Harry,Toffolo,Nott'm Forest,Defender,4.2,1,17/08/2024,1,0,0,36,0,Low
 444,Harry,Toffolo,Nott'm Forest,Defender,4.2,2,24/08/2024,0,0,0,0,0,Low
 444,Harry,Toffolo,Nott'm Forest,Defender,4.2,3,31/08/2024,0,0,0,0,0,Low
@@ -18444,7 +18444,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 444,Harry,Toffolo,Nott'm Forest,Defender,4.2,30,01/04/2025,0,0,0,0,0,Low
 444,Harry,Toffolo,Nott'm Forest,Defender,4.2,31,05/04/2025,0,0,0,0,0,Low
 444,Harry,Toffolo,Nott'm Forest,Defender,4.2,32,12/04/2025,0,0,0,0,0,Low
-444,Harry,Toffolo,Nott'm Forest,Defender,4.2,33,21/04/2025,0,0,0,0,0,Low
+444,Harry,Toffolo,Nott'm Forest,Defender,4.2,33,21/04/2025,1,0,0,90,0,Low
 446,Hwang,Ui-jo,Nott'm Forest,Forward,4.5,1,17/08/2024,0,0,0,0,0,Low
 446,Hwang,Ui-jo,Nott'm Forest,Forward,4.5,2,24/08/2024,0,0,0,0,0,Low
 446,Hwang,Ui-jo,Nott'm Forest,Forward,4.5,3,31/08/2024,0,0,0,0,0,Low
@@ -18510,7 +18510,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 447,Chris,Wood,Nott'm Forest,Forward,6.9,30,01/04/2025,0,0,0,0,0,Low
 447,Chris,Wood,Nott'm Forest,Forward,6.9,31,05/04/2025,0,0,0,0,0,Low
 447,Chris,Wood,Nott'm Forest,Forward,6.9,32,12/04/2025,2,0,0,90,0,Low
-447,Chris,Wood,Nott'm Forest,Forward,6.9,33,21/04/2025,0,0,0,0,0,Low
+447,Chris,Wood,Nott'm Forest,Forward,6.9,33,21/04/2025,8,1,0,75,1,Low
 448,Joe,Worrall,Nott'm Forest,Defender,4.5,1,17/08/2024,0,0,0,0,0,Low
 448,Joe,Worrall,Nott'm Forest,Defender,4.5,2,24/08/2024,0,0,0,0,0,Low
 448,Joe,Worrall,Nott'm Forest,Defender,4.5,3,31/08/2024,0,0,0,0,0,Low
@@ -18576,7 +18576,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 449,Ryan,Yates,Nott'm Forest,Midfielder,4.8,30,01/04/2025,6,0,1,90,1,Low
 449,Ryan,Yates,Nott'm Forest,Midfielder,4.8,31,05/04/2025,2,0,0,90,0,Low
 449,Ryan,Yates,Nott'm Forest,Midfielder,4.8,32,12/04/2025,1,0,0,15,0,Low
-449,Ryan,Yates,Nott'm Forest,Midfielder,4.8,33,21/04/2025,0,0,0,0,0,Low
+449,Ryan,Yates,Nott'm Forest,Midfielder,4.8,33,21/04/2025,0,0,0,32,0,Low
 573,Nikola,Milenković,Nott'm Forest,Defender,5.1,1,17/08/2024,0,0,0,0,0,Medium
 573,Nikola,Milenković,Nott'm Forest,Defender,5.1,2,24/08/2024,6,0,0,90,1,Medium
 573,Nikola,Milenković,Nott'm Forest,Defender,5.1,3,31/08/2024,2,0,0,90,0,Medium
@@ -18609,7 +18609,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 573,Nikola,Milenković,Nott'm Forest,Defender,5.1,30,01/04/2025,6,0,0,90,1,Medium
 573,Nikola,Milenković,Nott'm Forest,Defender,5.1,31,05/04/2025,1,0,0,90,0,Medium
 573,Nikola,Milenković,Nott'm Forest,Defender,5.1,32,12/04/2025,2,0,0,90,0,Medium
-573,Nikola,Milenković,Nott'm Forest,Defender,5.1,33,21/04/2025,0,0,0,0,0,Medium
+573,Nikola,Milenković,Nott'm Forest,Defender,5.1,33,21/04/2025,2,0,0,90,0,Medium
 596,João Pedro,Ferreira Silva,Nott'm Forest,Midfielder,5.9,1,17/08/2024,0,0,0,0,0,Low
 596,João Pedro,Ferreira Silva,Nott'm Forest,Midfielder,5.9,2,24/08/2024,1,0,0,1,0,Low
 596,João Pedro,Ferreira Silva,Nott'm Forest,Midfielder,5.9,3,31/08/2024,1,0,0,1,0,Low
@@ -18674,7 +18674,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 620,Ramón,Sosa,Nott'm Forest,Midfielder,5.5,30,01/04/2025,1,0,0,5,0,Low
 620,Ramón,Sosa,Nott'm Forest,Midfielder,5.5,31,05/04/2025,1,0,0,16,0,Low
 620,Ramón,Sosa,Nott'm Forest,Midfielder,5.5,32,12/04/2025,0,0,0,0,0,Low
-620,Ramón,Sosa,Nott'm Forest,Midfielder,5.5,33,21/04/2025,0,0,0,0,0,Low
+620,Ramón,Sosa,Nott'm Forest,Midfielder,5.5,33,21/04/2025,1,0,0,1,0,Low
 653,Felipe,Rodrigues da Silva,Nott'm Forest,Defender,4.5,4,14/09/2024,1,0,0,9,0,Low
 653,Felipe,Rodrigues da Silva,Nott'm Forest,Defender,4.5,5,22/09/2024,1,0,0,18,0,Low
 653,Felipe,Rodrigues da Silva,Nott'm Forest,Defender,4.5,6,28/09/2024,0,0,0,0,0,Low
@@ -18704,7 +18704,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 653,Felipe,Rodrigues da Silva,Nott'm Forest,Defender,4.5,30,01/04/2025,1,0,0,50,0,Low
 653,Felipe,Rodrigues da Silva,Nott'm Forest,Defender,4.5,31,05/04/2025,0,0,0,74,0,Low
 653,Felipe,Rodrigues da Silva,Nott'm Forest,Defender,4.5,32,12/04/2025,0,0,0,0,0,Low
-653,Felipe,Rodrigues da Silva,Nott'm Forest,Defender,4.5,33,21/04/2025,0,0,0,0,0,Low
+653,Felipe,Rodrigues da Silva,Nott'm Forest,Defender,4.5,33,21/04/2025,1,0,0,45,0,Low
 706,Zach,Abbott,Nott'm Forest,Defender,4.0,19,29/12/2024,0,0,0,0,0,Low
 706,Zach,Abbott,Nott'm Forest,Defender,4.0,20,06/01/2025,0,0,0,0,0,Low
 706,Zach,Abbott,Nott'm Forest,Defender,4.0,21,14/01/2025,0,0,0,0,0,Low
@@ -18743,7 +18743,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 747,Nuno Herlander,Simões Espírito Santo,Nott'm Forest,Manager,1.1,30,01/04/2025,9,0,0,0,0,Unknown
 747,Nuno Herlander,Simões Espírito Santo,Nott'm Forest,Manager,1.1,31,05/04/2025,1,0,0,0,0,Unknown
 747,Nuno Herlander,Simões Espírito Santo,Nott'm Forest,Manager,1.1,32,12/04/2025,0,0,0,0,0,Unknown
-747,Nuno Herlander,Simões Espírito Santo,Nott'm Forest,Manager,1.1,33,21/04/2025,0,0,0,0,0,Unknown
+747,Nuno Herlander,Simões Espírito Santo,Nott'm Forest,Manager,1.1,33,21/04/2025,8,0,0,0,0,Unknown
 14,Aaron,Ramsdale,Southampton,Goalkeeper,4.4,1,17/08/2024,0,0,0,0,0,Low
 14,Aaron,Ramsdale,Southampton,Goalkeeper,4.4,2,24/08/2024,0,0,0,0,0,Low
 14,Aaron,Ramsdale,Southampton,Goalkeeper,4.4,3,31/08/2024,2,0,0,90,0,Low
@@ -20033,7 +20033,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 82,Dominic,Solanke-Mitchell,Spurs,Forward,7.3,30,03/04/2025,2,0,0,90,0,Low
 82,Dominic,Solanke-Mitchell,Spurs,Forward,7.3,31,06/04/2025,2,0,0,86,1,Low
 82,Dominic,Solanke-Mitchell,Spurs,Forward,7.3,32,13/04/2025,2,0,0,74,0,Low
-82,Dominic,Solanke-Mitchell,Spurs,Forward,7.3,33,21/04/2025,0,0,0,0,0,Low
+82,Dominic,Solanke-Mitchell,Spurs,Forward,7.3,33,21/04/2025,1,0,0,23,0,Low
 478,Ashley,Phillips,Spurs,Defender,4.0,1,19/08/2024,0,0,0,0,0,Low
 478,Ashley,Phillips,Spurs,Defender,4.0,2,24/08/2024,0,0,0,0,0,Low
 478,Ashley,Phillips,Spurs,Defender,4.0,3,01/09/2024,0,0,0,0,0,Low
@@ -20132,7 +20132,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 480,Rodrigo,Bentancur,Spurs,Midfielder,4.9,30,03/04/2025,2,0,0,90,0,Low
 480,Rodrigo,Bentancur,Spurs,Midfielder,4.9,31,06/04/2025,1,0,0,56,0,Low
 480,Rodrigo,Bentancur,Spurs,Midfielder,4.9,32,13/04/2025,1,0,0,35,0,Low
-480,Rodrigo,Bentancur,Spurs,Midfielder,4.9,33,21/04/2025,0,0,0,0,0,Low
+480,Rodrigo,Bentancur,Spurs,Midfielder,4.9,33,21/04/2025,2,0,0,90,0,Low
 481,Lucas,Bergvall,Spurs,Midfielder,4.4,1,19/08/2024,1,0,0,12,0,Low
 481,Lucas,Bergvall,Spurs,Midfielder,4.4,2,24/08/2024,1,0,0,11,0,Low
 481,Lucas,Bergvall,Spurs,Midfielder,4.4,3,01/09/2024,1,0,0,8,0,Low
@@ -20165,7 +20165,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 481,Lucas,Bergvall,Spurs,Midfielder,4.4,30,03/04/2025,2,0,0,63,0,Low
 481,Lucas,Bergvall,Spurs,Midfielder,4.4,31,06/04/2025,3,0,0,79,1,Low
 481,Lucas,Bergvall,Spurs,Midfielder,4.4,32,13/04/2025,1,0,0,35,0,Low
-481,Lucas,Bergvall,Spurs,Midfielder,4.4,33,21/04/2025,0,0,0,0,0,Low
+481,Lucas,Bergvall,Spurs,Midfielder,4.4,33,21/04/2025,1,0,0,9,0,Low
 482,Yves,Bissouma,Spurs,Midfielder,4.8,1,19/08/2024,0,0,0,0,0,Low
 482,Yves,Bissouma,Spurs,Midfielder,4.8,2,24/08/2024,9,1,0,71,1,Low
 482,Yves,Bissouma,Spurs,Midfielder,4.8,3,01/09/2024,1,0,0,81,0,Low
@@ -20264,7 +20264,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 484,Ben,Davies,Spurs,Defender,4.3,30,03/04/2025,0,0,0,0,0,Low
 484,Ben,Davies,Spurs,Defender,4.3,31,06/04/2025,2,0,0,90,0,Low
 484,Ben,Davies,Spurs,Defender,4.3,32,13/04/2025,-1,0,0,90,0,Low
-484,Ben,Davies,Spurs,Defender,4.3,33,21/04/2025,0,0,0,0,0,Low
+484,Ben,Davies,Spurs,Defender,4.3,33,21/04/2025,1,0,0,45,0,Low
 485,Alfie,Devine,Spurs,Midfielder,4.5,1,19/08/2024,0,0,0,0,0,Low
 485,Alfie,Devine,Spurs,Midfielder,4.5,2,24/08/2024,0,0,0,0,0,Low
 485,Alfie,Devine,Spurs,Midfielder,4.5,3,01/09/2024,0,0,0,0,0,Low
@@ -20495,7 +20495,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 491,Brennan,Johnson,Spurs,Midfielder,6.2,30,03/04/2025,0,0,0,26,0,Low
 491,Brennan,Johnson,Spurs,Midfielder,6.2,31,06/04/2025,18,2,1,90,0,Low
 491,Brennan,Johnson,Spurs,Midfielder,6.2,32,13/04/2025,5,0,1,90,0,Low
-491,Brennan,Johnson,Spurs,Midfielder,6.2,33,21/04/2025,0,0,0,0,0,Low
+491,Brennan,Johnson,Spurs,Midfielder,6.2,33,21/04/2025,1,0,0,23,0,Low
 492,Dejan,Kulusevski,Spurs,Midfielder,6.2,1,19/08/2024,1,0,0,11,0,Low
 492,Dejan,Kulusevski,Spurs,Midfielder,6.2,2,24/08/2024,6,0,1,66,1,Low
 492,Dejan,Kulusevski,Spurs,Midfielder,6.2,3,01/09/2024,2,0,0,90,0,Low
@@ -20528,7 +20528,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 492,Dejan,Kulusevski,Spurs,Midfielder,6.2,30,03/04/2025,0,0,0,0,0,Low
 492,Dejan,Kulusevski,Spurs,Midfielder,6.2,31,06/04/2025,0,0,0,0,0,Low
 492,Dejan,Kulusevski,Spurs,Midfielder,6.2,32,13/04/2025,1,0,0,15,0,Low
-492,Dejan,Kulusevski,Spurs,Midfielder,6.2,33,21/04/2025,0,0,0,0,0,Low
+492,Dejan,Kulusevski,Spurs,Midfielder,6.2,33,21/04/2025,2,0,0,66,0,Low
 493,Giovani,Lo Celso,Spurs,Midfielder,4.9,1,19/08/2024,0,0,0,0,0,Low
 493,Giovani,Lo Celso,Spurs,Midfielder,4.9,2,24/08/2024,0,0,0,0,0,Low
 493,Giovani,Lo Celso,Spurs,Midfielder,4.9,3,01/09/2024,0,0,0,0,0,Low
@@ -20627,7 +20627,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 495,Pedro,Porro,Spurs,Defender,5.3,30,03/04/2025,0,0,0,2,0,Medium
 495,Pedro,Porro,Spurs,Defender,5.3,31,06/04/2025,1,0,0,90,0,Medium
 495,Pedro,Porro,Spurs,Defender,5.3,32,13/04/2025,0,0,0,0,0,Medium
-495,Pedro,Porro,Spurs,Defender,5.3,33,21/04/2025,0,0,0,0,0,Medium
+495,Pedro,Porro,Spurs,Defender,5.3,33,21/04/2025,5,0,1,90,0,Medium
 496,Sergio,Reguilón,Spurs,Defender,4.1,1,19/08/2024,0,0,0,0,0,Low
 496,Sergio,Reguilón,Spurs,Defender,4.1,2,24/08/2024,0,0,0,0,0,Low
 496,Sergio,Reguilón,Spurs,Defender,4.1,3,01/09/2024,0,0,0,0,0,Low
@@ -20693,7 +20693,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 497,Richarlison,de Andrade,Spurs,Forward,6.8,30,03/04/2025,0,0,0,0,0,Low
 497,Richarlison,de Andrade,Spurs,Forward,6.8,31,06/04/2025,0,0,0,0,0,Low
 497,Richarlison,de Andrade,Spurs,Forward,6.8,32,13/04/2025,5,1,0,15,0,Low
-497,Richarlison,de Andrade,Spurs,Forward,6.8,33,21/04/2025,0,0,0,0,0,Low
+497,Richarlison,de Andrade,Spurs,Forward,6.8,33,21/04/2025,6,1,0,90,0,Low
 498,Cristian,Romero,Spurs,Defender,4.9,1,19/08/2024,2,0,0,90,0,Low
 498,Cristian,Romero,Spurs,Defender,4.9,2,24/08/2024,14,1,0,90,1,Low
 498,Cristian,Romero,Spurs,Defender,4.9,3,01/09/2024,1,0,0,90,0,Low
@@ -20726,7 +20726,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 498,Cristian,Romero,Spurs,Defender,4.9,30,03/04/2025,1,0,0,90,0,Low
 498,Cristian,Romero,Spurs,Defender,4.9,31,06/04/2025,2,0,0,90,0,Low
 498,Cristian,Romero,Spurs,Defender,4.9,32,13/04/2025,3,0,1,90,0,Low
-498,Cristian,Romero,Spurs,Defender,4.9,33,21/04/2025,0,0,0,0,0,Low
+498,Cristian,Romero,Spurs,Defender,4.9,33,21/04/2025,-1,0,0,45,0,Low
 499,Pape Matar,Sarr,Spurs,Midfielder,4.7,1,19/08/2024,2,0,0,77,0,Low
 499,Pape Matar,Sarr,Spurs,Midfielder,4.7,2,24/08/2024,1,0,0,23,0,Low
 499,Pape Matar,Sarr,Spurs,Midfielder,4.7,3,01/09/2024,0,0,0,45,0,Low
@@ -20759,7 +20759,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 499,Pape Matar,Sarr,Spurs,Midfielder,4.7,30,03/04/2025,0,0,0,26,0,Low
 499,Pape Matar,Sarr,Spurs,Midfielder,4.7,31,06/04/2025,1,0,0,33,0,Low
 499,Pape Matar,Sarr,Spurs,Midfielder,4.7,32,13/04/2025,1,0,0,54,0,Low
-499,Pape Matar,Sarr,Spurs,Midfielder,4.7,33,21/04/2025,0,0,0,0,0,Low
+499,Pape Matar,Sarr,Spurs,Midfielder,4.7,33,21/04/2025,2,0,0,80,0,Low
 500,Dane,Scarlett,Spurs,Forward,4.4,1,19/08/2024,0,0,0,0,0,Unknown
 500,Dane,Scarlett,Spurs,Forward,4.4,2,24/08/2024,0,0,0,0,0,Unknown
 500,Dane,Scarlett,Spurs,Forward,4.4,3,01/09/2024,0,0,0,0,0,Unknown
@@ -20891,7 +20891,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 504,Djed,Spence,Spurs,Defender,4.4,30,03/04/2025,1,0,0,90,0,Low
 504,Djed,Spence,Spurs,Defender,4.4,31,06/04/2025,5,0,1,90,0,Low
 504,Djed,Spence,Spurs,Defender,4.4,32,13/04/2025,-2,0,0,90,0,Low
-504,Djed,Spence,Spurs,Defender,4.4,33,21/04/2025,0,0,0,0,0,Low
+504,Djed,Spence,Spurs,Defender,4.4,33,21/04/2025,1,0,0,90,0,Low
 505,Destiny,Udogie,Spurs,Defender,4.8,1,19/08/2024,2,0,0,90,0,Low
 505,Destiny,Udogie,Spurs,Defender,4.8,2,24/08/2024,6,0,0,72,1,Low
 505,Destiny,Udogie,Spurs,Defender,4.8,3,01/09/2024,1,0,0,90,0,Low
@@ -20957,7 +20957,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 506,Micky,van de Ven,Spurs,Defender,4.5,30,03/04/2025,2,0,0,87,0,Low
 506,Micky,van de Ven,Spurs,Defender,4.5,31,06/04/2025,0,0,0,0,0,Low
 506,Micky,van de Ven,Spurs,Defender,4.5,32,13/04/2025,0,0,0,0,0,Low
-506,Micky,van de Ven,Spurs,Defender,4.5,33,21/04/2025,0,0,0,0,0,Low
+506,Micky,van de Ven,Spurs,Defender,4.5,33,21/04/2025,0,0,0,45,0,Low
 507,Alejo,Véliz,Spurs,Forward,5.0,1,19/08/2024,0,0,0,0,0,Low
 507,Alejo,Véliz,Spurs,Forward,5.0,2,24/08/2024,0,0,0,0,0,Low
 507,Alejo,Véliz,Spurs,Forward,5.0,3,01/09/2024,0,0,0,0,0,Low
@@ -21023,7 +21023,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 508,Guglielmo,Vicario,Spurs,Goalkeeper,4.8,30,03/04/2025,3,0,0,90,0,Medium
 508,Guglielmo,Vicario,Spurs,Goalkeeper,4.8,31,06/04/2025,3,0,0,90,0,Medium
 508,Guglielmo,Vicario,Spurs,Goalkeeper,4.8,32,13/04/2025,0,0,0,90,0,Medium
-508,Guglielmo,Vicario,Spurs,Goalkeeper,4.8,33,21/04/2025,0,0,0,0,0,Medium
+508,Guglielmo,Vicario,Spurs,Goalkeeper,4.8,33,21/04/2025,1,0,0,90,0,Medium
 509,Timo,Werner,Spurs,Midfielder,6.2,1,19/08/2024,1,0,0,12,0,Low
 509,Timo,Werner,Spurs,Midfielder,6.2,2,24/08/2024,0,0,0,0,0,Low
 509,Timo,Werner,Spurs,Midfielder,6.2,3,01/09/2024,1,0,0,16,0,Low
@@ -21188,7 +21188,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 612,Wilson,Odobert,Spurs,Midfielder,5.3,30,03/04/2025,2,0,0,63,0,Low
 612,Wilson,Odobert,Spurs,Midfielder,5.3,31,06/04/2025,1,0,0,33,0,Low
 612,Wilson,Odobert,Spurs,Midfielder,5.3,32,13/04/2025,0,0,0,0,0,Low
-612,Wilson,Odobert,Spurs,Midfielder,5.3,33,21/04/2025,0,0,0,0,0,Low
+612,Wilson,Odobert,Spurs,Midfielder,5.3,33,21/04/2025,2,0,0,66,0,Low
 683,Callum,Olusesi,Spurs,Midfielder,4.5,12,23/11/2024,0,0,0,0,0,Low
 683,Callum,Olusesi,Spurs,Midfielder,4.5,13,01/12/2024,0,0,0,0,0,Low
 683,Callum,Olusesi,Spurs,Midfielder,4.5,14,05/12/2024,0,0,0,0,0,Low
@@ -21338,7 +21338,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 749,Ange,Postecoglou,Spurs,Manager,1.1,30,03/04/2025,0,0,0,0,0,Unknown
 749,Ange,Postecoglou,Spurs,Manager,1.1,31,06/04/2025,9,0,0,0,0,Unknown
 749,Ange,Postecoglou,Spurs,Manager,1.1,32,13/04/2025,2,0,0,0,0,Unknown
-749,Ange,Postecoglou,Spurs,Manager,1.1,33,21/04/2025,0,0,0,0,0,Unknown
+749,Ange,Postecoglou,Spurs,Manager,1.1,33,21/04/2025,1,0,0,0,0,Unknown
 760,Dante,Cassanova,Spurs,Defender,4.0,24,02/02/2025,0,0,0,0,0,Low
 760,Dante,Cassanova,Spurs,Defender,4.0,25,16/02/2025,0,0,0,0,0,Low
 760,Dante,Cassanova,Spurs,Defender,4.0,26,22/02/2025,0,0,0,0,0,Low
@@ -21357,7 +21357,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 767,Kevin,Danso,Spurs,Defender,4.4,30,03/04/2025,0,0,0,0,0,Low
 767,Kevin,Danso,Spurs,Defender,4.4,31,06/04/2025,0,0,0,0,0,Low
 767,Kevin,Danso,Spurs,Defender,4.4,32,13/04/2025,0,0,0,0,0,Low
-767,Kevin,Danso,Spurs,Defender,4.4,33,21/04/2025,0,0,0,0,0,Low
+767,Kevin,Danso,Spurs,Defender,4.4,33,21/04/2025,1,0,0,45,0,Low
 768,Mathys,Tel,Spurs,Midfielder,5.8,25,16/02/2025,3,0,0,90,1,Low
 768,Mathys,Tel,Spurs,Midfielder,5.8,26,22/02/2025,2,0,0,73,0,Low
 768,Mathys,Tel,Spurs,Midfielder,5.8,27,26/02/2025,2,0,0,65,0,Low
@@ -21366,7 +21366,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 768,Mathys,Tel,Spurs,Midfielder,5.8,30,03/04/2025,1,0,0,2,0,Low
 768,Mathys,Tel,Spurs,Midfielder,5.8,31,06/04/2025,6,1,0,3,0,Low
 768,Mathys,Tel,Spurs,Midfielder,5.8,32,13/04/2025,9,1,0,90,0,Low
-768,Mathys,Tel,Spurs,Midfielder,5.8,33,21/04/2025,0,0,0,0,0,Low
+768,Mathys,Tel,Spurs,Midfielder,5.8,33,21/04/2025,2,0,0,90,0,Low
 123,Evan,Ferguson,West Ham,Forward,5.5,1,17/08/2024,0,0,0,0,0,Low
 123,Evan,Ferguson,West Ham,Forward,5.5,2,24/08/2024,0,0,0,0,0,Low
 123,Evan,Ferguson,West Ham,Forward,5.5,3,31/08/2024,0,0,0,0,0,Low
@@ -22689,39 +22689,39 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 540,Luke,Cundle,Wolves,Midfielder,4.5,31,05/04/2025,0,0,0,0,0,Low
 540,Luke,Cundle,Wolves,Midfielder,4.5,32,13/04/2025,0,0,0,0,0,Low
 540,Luke,Cundle,Wolves,Midfielder,4.5,33,20/04/2025,0,0,0,0,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,1,17/08/2024,1,0,0,33,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,2,25/08/2024,6,1,0,67,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,3,31/08/2024,2,0,0,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,4,15/09/2024,2,0,0,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,5,21/09/2024,8,1,0,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,6,28/09/2024,2,0,0,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,7,05/10/2024,9,1,0,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,8,20/10/2024,2,0,0,66,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,9,26/10/2024,9,1,0,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,10,02/11/2024,6,0,1,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,11,09/11/2024,12,1,1,89,1,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,12,23/11/2024,16,2,1,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,13,30/11/2024,2,0,0,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,14,04/12/2024,2,0,0,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,15,09/12/2024,1,0,0,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,16,14/12/2024,9,1,0,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,17,22/12/2024,9,1,0,90,1,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,18,26/12/2024,12,1,1,90,1,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,19,29/12/2024,1,0,0,45,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,20,06/01/2025,0,0,0,0,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,21,15/01/2025,1,0,0,45,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,22,20/01/2025,2,0,0,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,23,25/01/2025,2,0,0,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,24,01/02/2025,7,1,0,90,1,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,25,16/02/2025,9,1,0,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,26,22/02/2025,9,1,0,88,1,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,27,25/02/2025,2,0,0,90,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,28,08/03/2025,0,0,0,0,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,29,15/03/2025,0,0,0,0,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,30,01/04/2025,0,0,0,0,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,31,05/04/2025,0,0,0,0,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,32,13/04/2025,7,1,0,20,0,Low
-541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.8,33,20/04/2025,8,0,1,90,1,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,1,17/08/2024,1,0,0,33,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,2,25/08/2024,6,1,0,67,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,3,31/08/2024,2,0,0,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,4,15/09/2024,2,0,0,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,5,21/09/2024,8,1,0,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,6,28/09/2024,2,0,0,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,7,05/10/2024,9,1,0,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,8,20/10/2024,2,0,0,66,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,9,26/10/2024,9,1,0,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,10,02/11/2024,6,0,1,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,11,09/11/2024,12,1,1,89,1,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,12,23/11/2024,16,2,1,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,13,30/11/2024,2,0,0,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,14,04/12/2024,2,0,0,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,15,09/12/2024,1,0,0,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,16,14/12/2024,9,1,0,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,17,22/12/2024,9,1,0,90,1,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,18,26/12/2024,12,1,1,90,1,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,19,29/12/2024,1,0,0,45,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,20,06/01/2025,0,0,0,0,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,21,15/01/2025,1,0,0,45,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,22,20/01/2025,2,0,0,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,23,25/01/2025,2,0,0,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,24,01/02/2025,7,1,0,90,1,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,25,16/02/2025,9,1,0,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,26,22/02/2025,9,1,0,88,1,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,27,25/02/2025,2,0,0,90,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,28,08/03/2025,0,0,0,0,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,29,15/03/2025,0,0,0,0,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,30,01/04/2025,0,0,0,0,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,31,05/04/2025,0,0,0,0,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,32,13/04/2025,7,1,0,20,0,Low
+541,Matheus,Santos Carneiro Da Cunha,Wolves,Forward,6.9,33,20/04/2025,8,0,1,90,1,Low
 542,Craig,Dawson,Wolves,Defender,4.2,1,17/08/2024,1,0,0,6,0,Low
 542,Craig,Dawson,Wolves,Defender,4.2,2,25/08/2024,1,0,0,23,0,Low
 542,Craig,Dawson,Wolves,Defender,4.2,3,31/08/2024,2,0,0,90,0,Low
