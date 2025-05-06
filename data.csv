@@ -4513,7 +4513,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 106,Kevin,Schade,Brentford,Midfielder,5.1,32,12/04/2025,1,0,0,90,0,Low
 106,Kevin,Schade,Brentford,Midfielder,5.1,33,19/04/2025,2,0,0,86,0,Low
 106,Kevin,Schade,Brentford,Midfielder,5.1,34,01/05/2025,8,1,0,67,1,Low
-106,Kevin,Schade,Brentford,Midfielder,5.1,35,04/05/2025,15,2,0,71,0,Low
+106,Kevin,Schade,Brentford,Midfielder,5.1,35,04/05/2025,14,2,0,71,0,Low
 107,Igor Thiago,Nascimento Rodrigues,Brentford,Forward,5.9,1,18/08/2024,0,0,0,0,0,Low
 107,Igor Thiago,Nascimento Rodrigues,Brentford,Forward,5.9,2,25/08/2024,0,0,0,0,0,Low
 107,Igor Thiago,Nascimento Rodrigues,Brentford,Forward,5.9,3,31/08/2024,0,0,0,0,0,Low
@@ -7147,7 +7147,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 168,Enzo,Fernández,Chelsea,Midfielder,4.7,32,13/04/2025,2,0,0,90,0,Low
 168,Enzo,Fernández,Chelsea,Midfielder,4.7,33,20/04/2025,5,0,1,90,0,Low
 168,Enzo,Fernández,Chelsea,Midfielder,4.7,34,26/04/2025,6,0,1,90,1,Low
-168,Enzo,Fernández,Chelsea,Midfielder,4.7,35,04/05/2025,10,1,0,87,0,Low
+168,Enzo,Fernández,Chelsea,Midfielder,4.7,35,04/05/2025,9,1,0,87,0,Low
 169,Conor,Gallagher,Chelsea,Midfielder,5.9,1,18/08/2024,0,0,0,0,0,Low
 169,Conor,Gallagher,Chelsea,Midfielder,5.9,2,25/08/2024,0,0,0,0,0,Low
 169,Conor,Gallagher,Chelsea,Midfielder,5.9,3,01/09/2024,0,0,0,0,0,Low
@@ -7637,7 +7637,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 182,Cole,Palmer,Chelsea,Midfielder,10.5,32,13/04/2025,4,0,1,90,0,High
 182,Cole,Palmer,Chelsea,Midfielder,10.5,33,20/04/2025,2,0,0,90,0,High
 182,Cole,Palmer,Chelsea,Midfielder,10.5,34,26/04/2025,3,0,0,90,1,High
-182,Cole,Palmer,Chelsea,Midfielder,10.5,35,04/05/2025,9,1,0,90,0,High
+182,Cole,Palmer,Chelsea,Midfielder,10.5,35,04/05/2025,10,1,0,90,0,High
 183,Đorđe,Petrović,Chelsea,Goalkeeper,4.4,1,18/08/2024,0,0,0,0,0,Low
 183,Đorđe,Petrović,Chelsea,Goalkeeper,4.4,2,25/08/2024,0,0,0,0,0,Low
 183,Đorđe,Petrović,Chelsea,Goalkeeper,4.4,3,01/09/2024,0,0,0,0,0,Low
@@ -8144,7 +8144,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 11,Eddie,Nketiah,Crystal Palace,Forward,5.9,32,16/04/2025,1,0,0,34,0,Low
 11,Eddie,Nketiah,Crystal Palace,Forward,5.9,33,19/04/2025,1,0,0,15,0,Low
 11,Eddie,Nketiah,Crystal Palace,Forward,5.9,33,23/04/2025,2,0,0,79,0,Low
-11,Eddie,Nketiah,Crystal Palace,Forward,5.9,35,05/05/2025,0,0,0,0,0,Low
+11,Eddie,Nketiah,Crystal Palace,Forward,5.9,35,05/05/2025,0,0,0,14,0,Low
 160,Ben,Chilwell,Crystal Palace,Defender,4.6,1,18/08/2024,0,0,0,0,0,Low
 160,Ben,Chilwell,Crystal Palace,Defender,4.6,2,25/08/2024,0,0,0,0,0,Low
 160,Ben,Chilwell,Crystal Palace,Defender,4.6,3,01/09/2024,0,0,0,0,0,Low
@@ -8284,7 +8284,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 194,Chris,Richards,Crystal Palace,Defender,4.4,32,16/04/2025,0,0,0,90,0,Low
 194,Chris,Richards,Crystal Palace,Defender,4.4,33,19/04/2025,-2,0,0,45,0,Low
 194,Chris,Richards,Crystal Palace,Defender,4.4,33,23/04/2025,0,0,0,0,0,Low
-194,Chris,Richards,Crystal Palace,Defender,4.4,35,05/05/2025,0,0,0,0,0,Low
+194,Chris,Richards,Crystal Palace,Defender,4.4,35,05/05/2025,2,0,0,90,0,Low
 195,Chadi,Riad Dnanou,Crystal Palace,Defender,4.3,1,18/08/2024,0,0,0,0,0,Low
 195,Chadi,Riad Dnanou,Crystal Palace,Defender,4.3,2,24/08/2024,1,0,0,90,0,Low
 195,Chadi,Riad Dnanou,Crystal Palace,Defender,4.3,3,01/09/2024,0,0,0,0,0,Low
@@ -8424,7 +8424,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 199,Eberechi,Eze,Crystal Palace,Midfielder,6.9,32,16/04/2025,-1,0,0,56,0,Low
 199,Eberechi,Eze,Crystal Palace,Midfielder,6.9,33,19/04/2025,1,0,0,45,0,Low
 199,Eberechi,Eze,Crystal Palace,Midfielder,6.9,33,23/04/2025,9,1,0,62,0,Low
-199,Eberechi,Eze,Crystal Palace,Midfielder,6.9,35,05/05/2025,0,0,0,0,0,Low
+199,Eberechi,Eze,Crystal Palace,Midfielder,6.9,35,05/05/2025,10,1,0,90,0,Low
 200,Marc,Guéhi,Crystal Palace,Defender,4.7,1,18/08/2024,0,0,0,90,0,Low
 200,Marc,Guéhi,Crystal Palace,Defender,4.7,2,24/08/2024,1,0,0,90,0,Low
 200,Marc,Guéhi,Crystal Palace,Defender,4.7,3,01/09/2024,2,0,0,90,0,Low
@@ -8459,7 +8459,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 200,Marc,Guéhi,Crystal Palace,Defender,4.7,32,16/04/2025,-2,0,0,90,0,Low
 200,Marc,Guéhi,Crystal Palace,Defender,4.7,33,19/04/2025,6,0,0,90,1,Low
 200,Marc,Guéhi,Crystal Palace,Defender,4.7,33,23/04/2025,1,0,0,90,0,Low
-200,Marc,Guéhi,Crystal Palace,Defender,4.7,35,05/05/2025,0,0,0,0,0,Low
+200,Marc,Guéhi,Crystal Palace,Defender,4.7,35,05/05/2025,2,0,0,90,0,Low
 201,Dean,Henderson,Crystal Palace,Goalkeeper,4.6,1,18/08/2024,2,0,0,90,0,Medium
 201,Dean,Henderson,Crystal Palace,Goalkeeper,4.6,2,24/08/2024,1,0,0,90,0,Medium
 201,Dean,Henderson,Crystal Palace,Goalkeeper,4.6,3,01/09/2024,4,0,0,90,0,Medium
@@ -8494,7 +8494,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 201,Dean,Henderson,Crystal Palace,Goalkeeper,4.6,32,16/04/2025,1,0,0,90,0,Medium
 201,Dean,Henderson,Crystal Palace,Goalkeeper,4.6,33,19/04/2025,9,0,0,90,1,Medium
 201,Dean,Henderson,Crystal Palace,Goalkeeper,4.6,33,23/04/2025,1,0,0,90,0,Medium
-201,Dean,Henderson,Crystal Palace,Goalkeeper,4.6,35,05/05/2025,0,0,0,0,0,Medium
+201,Dean,Henderson,Crystal Palace,Goalkeeper,4.6,35,05/05/2025,3,0,0,90,0,Medium
 202,Rob,Holding,Crystal Palace,Defender,4.2,1,18/08/2024,0,0,0,0,0,Low
 202,Rob,Holding,Crystal Palace,Defender,4.2,2,24/08/2024,0,0,0,0,0,Low
 202,Rob,Holding,Crystal Palace,Defender,4.2,3,01/09/2024,0,0,0,0,0,Low
@@ -8564,7 +8564,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 203,Will,Hughes,Crystal Palace,Midfielder,4.9,32,16/04/2025,0,0,0,56,0,Low
 203,Will,Hughes,Crystal Palace,Midfielder,4.9,33,19/04/2025,3,0,0,90,1,Low
 203,Will,Hughes,Crystal Palace,Midfielder,4.9,33,23/04/2025,1,0,0,27,0,Low
-203,Will,Hughes,Crystal Palace,Midfielder,4.9,35,05/05/2025,0,0,0,0,0,Low
+203,Will,Hughes,Crystal Palace,Midfielder,4.9,35,05/05/2025,1,0,0,29,0,Low
 205,Daichi,Kamada,Crystal Palace,Midfielder,5.1,1,18/08/2024,1,0,0,69,0,Low
 205,Daichi,Kamada,Crystal Palace,Midfielder,5.1,2,24/08/2024,1,0,0,27,0,Low
 205,Daichi,Kamada,Crystal Palace,Midfielder,5.1,3,01/09/2024,2,0,0,87,0,Low
@@ -8599,7 +8599,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 205,Daichi,Kamada,Crystal Palace,Midfielder,5.1,32,16/04/2025,1,0,0,33,0,Low
 205,Daichi,Kamada,Crystal Palace,Midfielder,5.1,33,19/04/2025,1,0,0,15,0,Low
 205,Daichi,Kamada,Crystal Palace,Midfielder,5.1,33,23/04/2025,2,0,0,90,0,Low
-205,Daichi,Kamada,Crystal Palace,Midfielder,5.1,35,05/05/2025,0,0,0,0,0,Low
+205,Daichi,Kamada,Crystal Palace,Midfielder,5.1,35,05/05/2025,1,0,0,86,0,Low
 206,Jefferson,Lerma Solís,Crystal Palace,Midfielder,4.8,1,18/08/2024,1,0,0,16,0,Low
 206,Jefferson,Lerma Solís,Crystal Palace,Midfielder,4.8,2,24/08/2024,2,0,0,62,1,Low
 206,Jefferson,Lerma Solís,Crystal Palace,Midfielder,4.8,3,01/09/2024,0,0,0,0,0,Low
@@ -8634,7 +8634,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 206,Jefferson,Lerma Solís,Crystal Palace,Midfielder,4.8,32,16/04/2025,1,0,0,84,0,Low
 206,Jefferson,Lerma Solís,Crystal Palace,Midfielder,4.8,33,19/04/2025,0,0,0,45,0,Low
 206,Jefferson,Lerma Solís,Crystal Palace,Midfielder,4.8,33,23/04/2025,2,0,0,90,0,Low
-206,Jefferson,Lerma Solís,Crystal Palace,Midfielder,4.8,35,05/05/2025,0,0,0,0,0,Low
+206,Jefferson,Lerma Solís,Crystal Palace,Midfielder,4.8,35,05/05/2025,1,0,0,3,0,Low
 207,Jean-Philippe,Mateta,Crystal Palace,Forward,7.7,1,18/08/2024,1,0,0,45,0,Low
 207,Jean-Philippe,Mateta,Crystal Palace,Forward,7.7,2,24/08/2024,2,0,0,90,0,Low
 207,Jean-Philippe,Mateta,Crystal Palace,Forward,7.7,3,01/09/2024,2,0,0,68,0,Low
@@ -8669,7 +8669,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 207,Jean-Philippe,Mateta,Crystal Palace,Forward,7.7,32,16/04/2025,1,0,0,55,0,Low
 207,Jean-Philippe,Mateta,Crystal Palace,Forward,7.7,33,19/04/2025,2,0,0,74,1,Low
 207,Jean-Philippe,Mateta,Crystal Palace,Forward,7.7,33,23/04/2025,8,1,0,10,0,Low
-207,Jean-Philippe,Mateta,Crystal Palace,Forward,7.7,35,05/05/2025,0,0,0,0,0,Low
+207,Jean-Philippe,Mateta,Crystal Palace,Forward,7.7,35,05/05/2025,2,0,0,75,0,Low
 208,Matheus,França de Oliveira,Crystal Palace,Midfielder,4.4,1,18/08/2024,0,0,0,0,0,Low
 208,Matheus,França de Oliveira,Crystal Palace,Midfielder,4.4,2,24/08/2024,0,0,0,0,0,Low
 208,Matheus,França de Oliveira,Crystal Palace,Midfielder,4.4,3,01/09/2024,0,0,0,0,0,Low
@@ -8774,7 +8774,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 210,Tyrick,Mitchell,Crystal Palace,Defender,4.8,32,16/04/2025,0,0,0,90,0,Low
 210,Tyrick,Mitchell,Crystal Palace,Defender,4.8,33,19/04/2025,6,0,0,90,1,Low
 210,Tyrick,Mitchell,Crystal Palace,Defender,4.8,33,23/04/2025,1,0,0,90,0,Low
-210,Tyrick,Mitchell,Crystal Palace,Defender,4.8,35,05/05/2025,0,0,0,0,0,Low
+210,Tyrick,Mitchell,Crystal Palace,Defender,4.8,35,05/05/2025,5,0,1,90,0,Low
 211,Daniel,Muñoz,Crystal Palace,Defender,5.3,1,18/08/2024,4,0,1,90,0,Medium
 211,Daniel,Muñoz,Crystal Palace,Defender,5.3,2,24/08/2024,1,0,0,90,0,Medium
 211,Daniel,Muñoz,Crystal Palace,Defender,5.3,3,01/09/2024,1,0,0,90,0,Medium
@@ -8809,7 +8809,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 211,Daniel,Muñoz,Crystal Palace,Defender,5.3,32,16/04/2025,-1,0,0,90,0,Medium
 211,Daniel,Muñoz,Crystal Palace,Defender,5.3,33,19/04/2025,5,0,0,90,1,Medium
 211,Daniel,Muñoz,Crystal Palace,Defender,5.3,33,23/04/2025,1,0,0,90,0,Medium
-211,Daniel,Muñoz,Crystal Palace,Defender,5.3,35,05/05/2025,0,0,0,0,0,Medium
+211,Daniel,Muñoz,Crystal Palace,Defender,5.3,35,05/05/2025,1,0,0,90,0,Medium
 212,David,Ozoh,Crystal Palace,Midfielder,4.5,1,18/08/2024,0,0,0,0,0,Low
 212,David,Ozoh,Crystal Palace,Midfielder,4.5,2,24/08/2024,0,0,0,0,0,Low
 212,David,Ozoh,Crystal Palace,Midfielder,4.5,3,01/09/2024,0,0,0,0,0,Low
@@ -8984,7 +8984,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 216,Adam,Wharton,Crystal Palace,Midfielder,4.7,32,16/04/2025,1,0,0,33,0,Low
 216,Adam,Wharton,Crystal Palace,Midfielder,4.7,33,19/04/2025,3,0,0,74,1,Low
 216,Adam,Wharton,Crystal Palace,Midfielder,4.7,33,23/04/2025,5,0,1,62,0,Low
-216,Adam,Wharton,Crystal Palace,Midfielder,4.7,35,05/05/2025,0,0,0,0,0,Low
+216,Adam,Wharton,Crystal Palace,Midfielder,4.7,35,05/05/2025,3,0,0,60,1,Low
 445,Matt,Turner,Crystal Palace,Goalkeeper,3.9,1,17/08/2024,0,0,0,0,0,Low
 445,Matt,Turner,Crystal Palace,Goalkeeper,3.9,2,24/08/2024,0,0,0,0,0,Low
 445,Matt,Turner,Crystal Palace,Goalkeeper,3.9,3,01/09/2024,0,0,0,0,0,Low
@@ -9054,7 +9054,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 585,Ismaïla,Sarr,Crystal Palace,Midfielder,5.7,32,16/04/2025,2,0,0,75,0,Low
 585,Ismaïla,Sarr,Crystal Palace,Midfielder,5.7,33,19/04/2025,2,0,0,90,1,Low
 585,Ismaïla,Sarr,Crystal Palace,Midfielder,5.7,33,23/04/2025,1,0,0,27,0,Low
-585,Ismaïla,Sarr,Crystal Palace,Midfielder,5.7,35,05/05/2025,0,0,0,0,0,Low
+585,Ismaïla,Sarr,Crystal Palace,Midfielder,5.7,35,05/05/2025,2,0,0,90,0,Low
 644,Franco,Umeh-Chibueze,Crystal Palace,Midfielder,4.4,3,01/09/2024,0,0,0,0,0,Low
 644,Franco,Umeh-Chibueze,Crystal Palace,Midfielder,4.4,4,14/09/2024,0,0,0,0,0,Low
 644,Franco,Umeh-Chibueze,Crystal Palace,Midfielder,4.4,5,21/09/2024,0,0,0,0,0,Low
@@ -9218,7 +9218,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 650,Maxence,Lacroix,Crystal Palace,Defender,4.5,32,16/04/2025,0,0,0,90,0,Low
 650,Maxence,Lacroix,Crystal Palace,Defender,4.5,33,19/04/2025,6,0,0,90,1,Low
 650,Maxence,Lacroix,Crystal Palace,Defender,4.5,33,23/04/2025,1,0,0,90,0,Low
-650,Maxence,Lacroix,Crystal Palace,Defender,4.5,35,05/05/2025,0,0,0,0,0,Low
+650,Maxence,Lacroix,Crystal Palace,Defender,4.5,35,05/05/2025,2,0,0,90,0,Low
 666,Caleb,Kporha,Crystal Palace,Defender,4.0,7,05/10/2024,0,0,0,0,0,Low
 666,Caleb,Kporha,Crystal Palace,Defender,4.0,8,21/10/2024,0,0,0,0,0,Low
 666,Caleb,Kporha,Crystal Palace,Defender,4.0,9,27/10/2024,0,0,0,0,0,Low
@@ -9298,7 +9298,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 741,Oliver,Glasner,Crystal Palace,Manager,0.8,32,16/04/2025,0,0,0,0,0,Unknown
 741,Oliver,Glasner,Crystal Palace,Manager,0.8,33,19/04/2025,5,0,0,0,0,Unknown
 741,Oliver,Glasner,Crystal Palace,Manager,0.8,33,23/04/2025,10,0,0,0,0,Unknown
-741,Oliver,Glasner,Crystal Palace,Manager,0.8,35,05/05/2025,0,0,0,0,0,Unknown
+741,Oliver,Glasner,Crystal Palace,Manager,0.8,35,05/05/2025,9,0,0,0,0,Unknown
 156,Armando,Broja,Everton,Forward,5.3,1,18/08/2024,0,0,0,0,0,Low
 156,Armando,Broja,Everton,Forward,5.3,2,25/08/2024,0,0,0,0,0,Low
 156,Armando,Broja,Everton,Forward,5.3,3,31/08/2024,0,0,0,0,0,Low
@@ -18760,7 +18760,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 422,Ola,Aina,Nott'm Forest,Defender,5.2,32,12/04/2025,0,0,0,0,0,Medium
 422,Ola,Aina,Nott'm Forest,Defender,5.2,33,21/04/2025,0,0,0,0,0,Medium
 422,Ola,Aina,Nott'm Forest,Defender,5.2,34,01/05/2025,1,0,0,74,0,Medium
-422,Ola,Aina,Nott'm Forest,Defender,5.2,35,05/05/2025,0,0,0,0,0,Medium
+422,Ola,Aina,Nott'm Forest,Defender,5.2,35,05/05/2025,1,0,0,90,0,Medium
 423,Elliot,Anderson,Nott'm Forest,Midfielder,5.0,1,17/08/2024,1,0,0,18,0,Low
 423,Elliot,Anderson,Nott'm Forest,Midfielder,5.0,2,24/08/2024,3,0,0,74,1,Low
 423,Elliot,Anderson,Nott'm Forest,Midfielder,5.0,3,31/08/2024,6,0,1,90,0,Low
@@ -18795,7 +18795,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 423,Elliot,Anderson,Nott'm Forest,Midfielder,5.0,32,12/04/2025,2,0,0,90,0,Low
 423,Elliot,Anderson,Nott'm Forest,Midfielder,5.0,33,21/04/2025,10,1,0,90,0,Low
 423,Elliot,Anderson,Nott'm Forest,Midfielder,5.0,34,01/05/2025,1,0,0,60,0,Low
-423,Elliot,Anderson,Nott'm Forest,Midfielder,5.0,35,05/05/2025,0,0,0,0,0,Low
+423,Elliot,Anderson,Nott'm Forest,Midfielder,5.0,35,05/05/2025,2,0,0,90,0,Low
 424,Taiwo,Awoniyi,Nott'm Forest,Forward,5.5,1,17/08/2024,1,0,0,18,0,Low
 424,Taiwo,Awoniyi,Nott'm Forest,Forward,5.5,2,24/08/2024,1,0,0,15,0,Low
 424,Taiwo,Awoniyi,Nott'm Forest,Forward,5.5,3,31/08/2024,1,0,0,1,0,Low
@@ -19075,7 +19075,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 431,Nicolás,Domínguez,Nott'm Forest,Midfielder,4.8,32,12/04/2025,3,0,0,74,1,Low
 431,Nicolás,Domínguez,Nott'm Forest,Midfielder,4.8,33,21/04/2025,4,0,1,57,0,Low
 431,Nicolás,Domínguez,Nott'm Forest,Midfielder,4.8,34,01/05/2025,1,0,0,45,0,Low
-431,Nicolás,Domínguez,Nott'm Forest,Midfielder,4.8,35,05/05/2025,0,0,0,0,0,Low
+431,Nicolás,Domínguez,Nott'm Forest,Midfielder,4.8,35,05/05/2025,1,0,0,65,0,Low
 432,Anthony,Elanga,Nott'm Forest,Midfielder,5.4,1,17/08/2024,1,0,0,53,0,Low
 432,Anthony,Elanga,Nott'm Forest,Midfielder,5.4,2,24/08/2024,3,0,0,90,1,Low
 432,Anthony,Elanga,Nott'm Forest,Midfielder,5.4,3,31/08/2024,2,0,0,90,0,Low
@@ -19110,7 +19110,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 432,Anthony,Elanga,Nott'm Forest,Midfielder,5.4,32,12/04/2025,1,0,0,31,0,Low
 432,Anthony,Elanga,Nott'm Forest,Midfielder,5.4,33,21/04/2025,4,0,1,45,0,Low
 432,Anthony,Elanga,Nott'm Forest,Midfielder,5.4,34,01/05/2025,2,0,0,90,0,Low
-432,Anthony,Elanga,Nott'm Forest,Midfielder,5.4,35,05/05/2025,0,0,0,0,0,Low
+432,Anthony,Elanga,Nott'm Forest,Midfielder,5.4,35,05/05/2025,2,0,0,90,0,Low
 433,Morgan,Gibbs-White,Nott'm Forest,Midfielder,6.4,1,17/08/2024,2,0,0,90,0,Low
 433,Morgan,Gibbs-White,Nott'm Forest,Midfielder,6.4,2,24/08/2024,10,1,0,90,1,Low
 433,Morgan,Gibbs-White,Nott'm Forest,Midfielder,6.4,3,31/08/2024,1,0,0,90,0,Low
@@ -19145,7 +19145,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 433,Morgan,Gibbs-White,Nott'm Forest,Midfielder,6.4,32,12/04/2025,2,0,0,90,0,Low
 433,Morgan,Gibbs-White,Nott'm Forest,Midfielder,6.4,33,21/04/2025,1,0,0,90,0,Low
 433,Morgan,Gibbs-White,Nott'm Forest,Midfielder,6.4,34,01/05/2025,1,0,0,74,0,Low
-433,Morgan,Gibbs-White,Nott'm Forest,Midfielder,6.4,35,05/05/2025,0,0,0,0,0,Low
+433,Morgan,Gibbs-White,Nott'm Forest,Midfielder,6.4,35,05/05/2025,1,0,0,90,0,Low
 434,Callum,Hudson-Odoi,Nott'm Forest,Midfielder,5.1,1,17/08/2024,3,0,0,71,1,Low
 434,Callum,Hudson-Odoi,Nott'm Forest,Midfielder,5.1,2,24/08/2024,3,0,0,90,1,Low
 434,Callum,Hudson-Odoi,Nott'm Forest,Midfielder,5.1,3,31/08/2024,2,0,0,79,0,Low
@@ -19250,7 +19250,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 436,Murillo,Santiago Costa dos Santos,Nott'm Forest,Defender,4.8,32,12/04/2025,2,0,0,90,0,Low
 436,Murillo,Santiago Costa dos Santos,Nott'm Forest,Defender,4.8,33,21/04/2025,2,0,0,90,0,Low
 436,Murillo,Santiago Costa dos Santos,Nott'm Forest,Defender,4.8,34,01/05/2025,1,0,0,90,0,Low
-436,Murillo,Santiago Costa dos Santos,Nott'm Forest,Defender,4.8,35,05/05/2025,0,0,0,0,0,Low
+436,Murillo,Santiago Costa dos Santos,Nott'm Forest,Defender,4.8,35,05/05/2025,10,1,0,80,0,Low
 437,Neco,Williams,Nott'm Forest,Defender,4.5,1,17/08/2024,1,0,0,90,0,Low
 437,Neco,Williams,Nott'm Forest,Defender,4.5,2,24/08/2024,6,0,0,90,1,Low
 437,Neco,Williams,Nott'm Forest,Defender,4.5,3,31/08/2024,2,0,0,90,0,Low
@@ -19285,7 +19285,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 437,Neco,Williams,Nott'm Forest,Defender,4.5,32,12/04/2025,2,0,0,90,0,Low
 437,Neco,Williams,Nott'm Forest,Defender,4.5,33,21/04/2025,2,0,0,90,0,Low
 437,Neco,Williams,Nott'm Forest,Defender,4.5,34,01/05/2025,0,0,0,90,0,Low
-437,Neco,Williams,Nott'm Forest,Defender,4.5,35,05/05/2025,0,0,0,0,0,Low
+437,Neco,Williams,Nott'm Forest,Defender,4.5,35,05/05/2025,5,0,1,90,0,Low
 438,Omar,Richards,Nott'm Forest,Defender,4.5,1,17/08/2024,0,0,0,0,0,Low
 438,Omar,Richards,Nott'm Forest,Defender,4.5,2,24/08/2024,0,0,0,0,0,Low
 438,Omar,Richards,Nott'm Forest,Defender,4.5,3,31/08/2024,0,0,0,0,0,Low
@@ -19460,7 +19460,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 442,Ibrahim,Sangaré,Nott'm Forest,Midfielder,4.3,32,12/04/2025,0,0,0,0,0,Unknown
 442,Ibrahim,Sangaré,Nott'm Forest,Midfielder,4.3,33,21/04/2025,0,0,0,0,0,Unknown
 442,Ibrahim,Sangaré,Nott'm Forest,Midfielder,4.3,34,01/05/2025,1,0,0,15,0,Unknown
-442,Ibrahim,Sangaré,Nott'm Forest,Midfielder,4.3,35,05/05/2025,0,0,0,0,0,Unknown
+442,Ibrahim,Sangaré,Nott'm Forest,Midfielder,4.3,35,05/05/2025,1,0,0,75,0,Unknown
 443,Matz,Sels,Nott'm Forest,Goalkeeper,5.2,1,17/08/2024,3,0,0,90,0,High
 443,Matz,Sels,Nott'm Forest,Goalkeeper,5.2,2,24/08/2024,6,0,0,90,1,High
 443,Matz,Sels,Nott'm Forest,Goalkeeper,5.2,3,31/08/2024,2,0,0,90,0,High
@@ -19495,7 +19495,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 443,Matz,Sels,Nott'm Forest,Goalkeeper,5.2,32,12/04/2025,3,0,0,90,0,High
 443,Matz,Sels,Nott'm Forest,Goalkeeper,5.2,33,21/04/2025,2,0,0,90,0,High
 443,Matz,Sels,Nott'm Forest,Goalkeeper,5.2,34,01/05/2025,1,0,0,90,0,High
-443,Matz,Sels,Nott'm Forest,Goalkeeper,5.2,35,05/05/2025,0,0,0,0,0,High
+443,Matz,Sels,Nott'm Forest,Goalkeeper,5.2,35,05/05/2025,1,0,0,90,0,High
 444,Harry,Toffolo,Nott'm Forest,Defender,4.2,1,17/08/2024,1,0,0,36,0,Low
 444,Harry,Toffolo,Nott'm Forest,Defender,4.2,2,24/08/2024,0,0,0,0,0,Low
 444,Harry,Toffolo,Nott'm Forest,Defender,4.2,3,31/08/2024,0,0,0,0,0,Low
@@ -19600,7 +19600,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 447,Chris,Wood,Nott'm Forest,Forward,7.0,32,12/04/2025,2,0,0,90,0,Low
 447,Chris,Wood,Nott'm Forest,Forward,7.0,33,21/04/2025,8,1,0,75,1,Low
 447,Chris,Wood,Nott'm Forest,Forward,7.0,34,01/05/2025,2,0,0,90,0,Low
-447,Chris,Wood,Nott'm Forest,Forward,7.0,35,05/05/2025,0,0,0,0,0,Low
+447,Chris,Wood,Nott'm Forest,Forward,7.0,35,05/05/2025,2,0,0,90,0,Low
 448,Joe,Worrall,Nott'm Forest,Defender,4.5,1,17/08/2024,0,0,0,0,0,Low
 448,Joe,Worrall,Nott'm Forest,Defender,4.5,2,24/08/2024,0,0,0,0,0,Low
 448,Joe,Worrall,Nott'm Forest,Defender,4.5,3,31/08/2024,0,0,0,0,0,Low
@@ -19670,7 +19670,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 449,Ryan,Yates,Nott'm Forest,Midfielder,4.8,32,12/04/2025,1,0,0,15,0,Low
 449,Ryan,Yates,Nott'm Forest,Midfielder,4.8,33,21/04/2025,0,0,0,32,0,Low
 449,Ryan,Yates,Nott'm Forest,Midfielder,4.8,34,01/05/2025,2,0,0,84,0,Low
-449,Ryan,Yates,Nott'm Forest,Midfielder,4.8,35,05/05/2025,0,0,0,0,0,Low
+449,Ryan,Yates,Nott'm Forest,Midfielder,4.8,35,05/05/2025,0,0,0,14,0,Low
 573,Nikola,Milenković,Nott'm Forest,Defender,5.2,1,17/08/2024,0,0,0,0,0,Medium
 573,Nikola,Milenković,Nott'm Forest,Defender,5.2,2,24/08/2024,6,0,0,90,1,Medium
 573,Nikola,Milenković,Nott'm Forest,Defender,5.2,3,31/08/2024,2,0,0,90,0,Medium
@@ -19705,7 +19705,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 573,Nikola,Milenković,Nott'm Forest,Defender,5.2,32,12/04/2025,2,0,0,90,0,Medium
 573,Nikola,Milenković,Nott'm Forest,Defender,5.2,33,21/04/2025,2,0,0,90,0,Medium
 573,Nikola,Milenković,Nott'm Forest,Defender,5.2,34,01/05/2025,1,0,0,90,0,Medium
-573,Nikola,Milenković,Nott'm Forest,Defender,5.2,35,05/05/2025,0,0,0,0,0,Medium
+573,Nikola,Milenković,Nott'm Forest,Defender,5.2,35,05/05/2025,2,0,0,90,0,Medium
 596,João Pedro,Ferreira Silva,Nott'm Forest,Midfielder,5.9,1,17/08/2024,0,0,0,0,0,Low
 596,João Pedro,Ferreira Silva,Nott'm Forest,Midfielder,5.9,2,24/08/2024,1,0,0,1,0,Low
 596,João Pedro,Ferreira Silva,Nott'm Forest,Midfielder,5.9,3,31/08/2024,1,0,0,1,0,Low
@@ -19774,7 +19774,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 620,Ramón,Sosa,Nott'm Forest,Midfielder,5.5,32,12/04/2025,0,0,0,0,0,Low
 620,Ramón,Sosa,Nott'm Forest,Midfielder,5.5,33,21/04/2025,1,0,0,1,0,Low
 620,Ramón,Sosa,Nott'm Forest,Midfielder,5.5,34,01/05/2025,1,0,0,5,0,Low
-620,Ramón,Sosa,Nott'm Forest,Midfielder,5.5,35,05/05/2025,0,0,0,0,0,Low
+620,Ramón,Sosa,Nott'm Forest,Midfielder,5.5,35,05/05/2025,1,0,0,24,0,Low
 653,Felipe,Rodrigues da Silva,Nott'm Forest,Defender,4.5,4,14/09/2024,1,0,0,9,0,Low
 653,Felipe,Rodrigues da Silva,Nott'm Forest,Defender,4.5,5,22/09/2024,1,0,0,18,0,Low
 653,Felipe,Rodrigues da Silva,Nott'm Forest,Defender,4.5,6,28/09/2024,0,0,0,0,0,Low
@@ -19806,7 +19806,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 653,Felipe,Rodrigues da Silva,Nott'm Forest,Defender,4.5,32,12/04/2025,0,0,0,0,0,Low
 653,Felipe,Rodrigues da Silva,Nott'm Forest,Defender,4.5,33,21/04/2025,1,0,0,45,0,Low
 653,Felipe,Rodrigues da Silva,Nott'm Forest,Defender,4.5,34,01/05/2025,0,0,0,0,0,Low
-653,Felipe,Rodrigues da Silva,Nott'm Forest,Defender,4.5,35,05/05/2025,0,0,0,0,0,Low
+653,Felipe,Rodrigues da Silva,Nott'm Forest,Defender,4.5,35,05/05/2025,0,0,0,9,0,Low
 706,Zach,Abbott,Nott'm Forest,Defender,4.0,19,29/12/2024,0,0,0,0,0,Low
 706,Zach,Abbott,Nott'm Forest,Defender,4.0,20,06/01/2025,0,0,0,0,0,Low
 706,Zach,Abbott,Nott'm Forest,Defender,4.0,21,14/01/2025,0,0,0,0,0,Low
@@ -19851,7 +19851,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 747,Nuno Herlander,Simões Espírito Santo,Nott'm Forest,Manager,1.1,32,12/04/2025,0,0,0,0,0,Unknown
 747,Nuno Herlander,Simões Espírito Santo,Nott'm Forest,Manager,1.1,33,21/04/2025,8,0,0,0,0,Unknown
 747,Nuno Herlander,Simões Espírito Santo,Nott'm Forest,Manager,1.1,34,01/05/2025,0,0,0,0,0,Unknown
-747,Nuno Herlander,Simões Espírito Santo,Nott'm Forest,Manager,1.1,35,05/05/2025,0,0,0,0,0,Unknown
+747,Nuno Herlander,Simões Espírito Santo,Nott'm Forest,Manager,1.1,35,05/05/2025,4,0,0,0,0,Unknown
 14,Aaron,Ramsdale,Southampton,Goalkeeper,4.4,1,17/08/2024,0,0,0,0,0,Low
 14,Aaron,Ramsdale,Southampton,Goalkeeper,4.4,2,24/08/2024,0,0,0,0,0,Low
 14,Aaron,Ramsdale,Southampton,Goalkeeper,4.4,3,31/08/2024,2,0,0,90,0,Low
