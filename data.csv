@@ -50,9 +50,9 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 47,Morgan,Rogers,Aston Villa,Midfielder,7.0,1,16/08/2025,3,0,0,90,1,Low
 48,Youri,Tielemans,Aston Villa,Midfielder,6.0,1,16/08/2025,3,0,0,90,1,Low
 49,Leon,Bailey,Aston Villa,Midfielder,5.5,1,16/08/2025,0,0,0,0,0,Low
-50,Emiliano,Buendía Stati,Aston Villa,Midfielder,5.5,1,16/08/2025,0,0,0,0,0,Low
+50,Emiliano,Buendía Stati,Aston Villa,Midfielder,5.4,1,16/08/2025,0,0,0,0,0,Low
 51,Samuel,Iling-Junior,Aston Villa,Midfielder,5.5,1,16/08/2025,0,0,0,0,0,Low
-53,Donyell,Malen,Aston Villa,Midfielder,5.5,1,16/08/2025,1,0,0,6,0,Low
+53,Donyell,Malen,Aston Villa,Midfielder,5.4,1,16/08/2025,1,0,0,6,0,Low
 54,John,McGinn,Aston Villa,Midfielder,5.5,1,16/08/2025,3,0,0,83,1,Low
 55,Ross,Barkley,Aston Villa,Midfielder,5.0,1,16/08/2025,0,0,0,0,0,Low
 56,Enzo,Barrenechea,Aston Villa,Midfielder,5.0,1,16/08/2025,0,0,0,0,0,Low
@@ -428,7 +428,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 410,Rico,Lewis,Man City,Defender,5.0,1,16/08/2025,11,0,1,65,1,Medium
 411,Nico,O'Reilly,Man City,Defender,5.0,1,16/08/2025,0,0,0,24,0,Medium
 412,Vitor,de Oliveira Nunes dos Reis,Man City,Defender,5.0,1,16/08/2025,0,0,0,0,0,Medium
-413,Omar,Marmoush,Man City,Midfielder,8.5,1,16/08/2025,1,0,0,24,0,Medium
+413,Omar,Marmoush,Man City,Midfielder,8.4,1,16/08/2025,1,0,0,24,0,Medium
 414,Phil,Foden,Man City,Midfielder,8.0,1,16/08/2025,0,0,0,0,0,Medium
 415,Sávio,Moreira de Oliveira,Man City,Midfielder,7.0,1,16/08/2025,0,0,0,0,0,Low
 416,Bernardo,Mota Veiga de Carvalho e Silva,Man City,Midfielder,6.5,1,16/08/2025,3,0,0,65,1,Low
@@ -439,7 +439,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 422,Mateo,Kovačić,Man City,Midfielder,6.0,1,16/08/2025,0,0,0,0,0,Low
 423,Nico,González Iglesias,Man City,Midfielder,6.0,1,16/08/2025,3,0,0,90,1,Low
 424,Oscar,Bobb,Man City,Midfielder,5.5,1,16/08/2025,6,0,1,90,1,Low
-425,Claudio,Echeverri,Man City,Midfielder,5.5,1,16/08/2025,0,0,0,0,0,Low
+425,Claudio,Echeverri,Man City,Midfielder,5.4,1,16/08/2025,0,0,0,0,0,Low
 427,Tijjani,Reijnders,Man City,Midfielder,5.6,1,16/08/2025,10,1,1,90,1,Low
 428,Sverre,Nypan,Man City,Midfielder,5.0,1,16/08/2025,0,0,0,0,0,Low
 429,Kalvin,Phillips,Man City,Midfielder,5.0,1,16/08/2025,0,0,0,0,0,Low
@@ -513,7 +513,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 496,Garang,Kuol,Newcastle,Midfielder,4.5,1,16/08/2025,0,0,0,0,0,Low
 497,Lewis,Miley,Newcastle,Midfielder,4.5,1,16/08/2025,1,0,0,7,0,Low
 498,Joe,White,Newcastle,Midfielder,4.5,1,16/08/2025,0,0,0,0,0,Low
-499,Alexander,Isak,Newcastle,Forward,10.5,1,16/08/2025,0,0,0,0,0,Medium
+499,Alexander,Isak,Newcastle,Forward,10.4,1,16/08/2025,0,0,0,0,0,Medium
 500,William,Osula,Newcastle,Forward,5.5,1,16/08/2025,1,0,0,1,0,Low
 501,Sean,Neave,Newcastle,Forward,4.5,1,16/08/2025,0,0,0,0,0,Low
 674,Aaron,Ramsdale,Newcastle,Goalkeeper,5.0,1,16/08/2025,0,0,0,0,0,High
@@ -552,7 +552,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 528,Anthony,Patterson,Sunderland,Goalkeeper,4.5,1,16/08/2025,0,0,0,0,0,Medium
 529,Simon,Moore,Sunderland,Goalkeeper,4.0,1,16/08/2025,0,0,0,0,0,Low
 530,Blondy,Nna Noukeu,Sunderland,Goalkeeper,4.0,1,16/08/2025,0,0,0,0,0,Low
-531,Daniel,Ballard,Sunderland,Defender,4.5,1,16/08/2025,17,1,0,90,1,Low
+531,Daniel,Ballard,Sunderland,Defender,4.6,1,16/08/2025,17,1,0,90,1,Low
 532,Trai,Hume,Sunderland,Defender,4.5,1,16/08/2025,6,0,0,90,1,Low
 533,Aji,Alese,Sunderland,Defender,4.0,1,16/08/2025,0,0,0,0,0,Low
 534,Joe,Anderson,Sunderland,Defender,4.0,1,16/08/2025,0,0,0,0,0,Low
@@ -609,7 +609,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 581,James,Maddison,Spurs,Midfielder,7.0,1,16/08/2025,0,0,0,0,0,Low
 582,Mohammed,Kudus,Spurs,Midfielder,6.5,1,16/08/2025,10,0,2,84,1,Low
 583,Dejan,Kulusevski,Spurs,Midfielder,6.5,1,16/08/2025,0,0,0,0,0,Low
-584,Mathys,Tel,Spurs,Midfielder,6.5,1,16/08/2025,1,0,0,5,0,Low
+584,Mathys,Tel,Spurs,Midfielder,6.4,1,16/08/2025,1,0,0,5,0,Low
 585,Rodrigo,Bentancur,Spurs,Midfielder,5.5,1,16/08/2025,1,0,0,19,0,Low
 586,Lucas,Bergvall,Spurs,Midfielder,5.5,1,16/08/2025,3,0,0,79,1,Low
 587,Yves,Bissouma,Spurs,Midfielder,5.5,1,16/08/2025,0,0,0,0,0,Low
@@ -621,7 +621,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 593,Pape Matar,Sarr,Spurs,Midfielder,5.0,1,16/08/2025,6,0,1,90,1,Low
 594,Yang,Min-hyeok,Spurs,Midfielder,4.5,1,16/08/2025,0,0,0,0,0,Low
 595,Callum,Olusesi,Spurs,Midfielder,4.5,1,16/08/2025,0,0,0,0,0,Low
-596,Dominic,Solanke-Mitchell,Spurs,Forward,7.5,1,16/08/2025,1,0,0,19,0,Low
+596,Dominic,Solanke-Mitchell,Spurs,Forward,7.4,1,16/08/2025,1,0,0,19,0,Low
 597,Richarlison,de Andrade,Spurs,Forward,6.5,1,16/08/2025,13,2,0,71,1,Low
 598,Will,Lankshear,Spurs,Forward,4.5,1,16/08/2025,0,0,0,0,0,Low
 599,Dane,Scarlett,Spurs,Forward,4.5,1,16/08/2025,0,0,0,0,0,Low
