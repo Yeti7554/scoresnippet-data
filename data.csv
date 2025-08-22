@@ -141,7 +141,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 98,Enes,Ünal,Bournemouth,Forward,5.5,1,15/08/2025,0,0,0,0,0,Low
 99,Daniel,Adu-Adjei,Bournemouth,Forward,4.5,1,15/08/2025,0,0,0,0,0,Low
 100,Eli Junior,Kroupi,Bournemouth,Forward,4.5,1,15/08/2025,1,0,0,1,0,Low
-391,Ben,Doak,Bournemouth,Midfielder,5.0,1,15/08/2025,0,0,0,0,0,Low
+391,Ben,Gannon-Doak,Bournemouth,Midfielder,5.0,1,15/08/2025,0,0,0,0,0,Low
 685,Bafodé,Diakité,Bournemouth,Defender,4.5,1,15/08/2025,0,0,0,90,0,Low
 687,Remy,Rees-Dottin,Bournemouth,Midfielder,4.5,1,15/08/2025,0,0,0,0,0,Low
 83,Dango,Ouattara,Brentford,Midfielder,6.0,1,15/08/2025,0,0,0,0,0,Low
@@ -418,7 +418,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 400,Stefan,Ortega Moreno,Man City,Goalkeeper,5.0,1,16/08/2025,0,0,0,0,0,High
 401,Marcus,Bettinelli,Man City,Goalkeeper,4.0,1,16/08/2025,0,0,0,0,0,Low
 402,Rayan,Aït-Nouri,Man City,Defender,6.0,1,16/08/2025,9,0,0,90,1,High
-403,Joško,Gvardiol,Man City,Defender,6.0,1,16/08/2025,0,0,0,0,0,High
+403,Joško,Gvardiol,Man City,Defender,5.9,1,16/08/2025,0,0,0,0,0,Medium
 404,Manuel,Akanji,Man City,Defender,5.5,1,16/08/2025,0,0,0,0,0,Medium
 405,Nathan,Aké,Man City,Defender,5.5,1,16/08/2025,0,0,0,0,0,Medium
 406,Abdukodir,Khusanov,Man City,Defender,5.5,1,16/08/2025,1,0,0,8,0,Medium
@@ -434,7 +434,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 416,Bernardo,Mota Veiga de Carvalho e Silva,Man City,Midfielder,6.5,1,16/08/2025,3,0,0,65,1,Low
 417,Rayan,Cherki,Man City,Midfielder,6.5,1,16/08/2025,6,1,0,17,0,Low
 418,Jérémy,Doku,Man City,Midfielder,6.5,1,16/08/2025,3,0,0,65,1,Low
-420,İlkay,Gündoğan,Man City,Midfielder,6.5,1,16/08/2025,0,0,0,0,0,Low
+420,İlkay,Gündoğan,Man City,Midfielder,6.4,1,16/08/2025,0,0,0,0,0,Low
 421,Rodrigo 'Rodri',Hernandez Cascante,Man City,Midfielder,6.5,1,16/08/2025,0,0,0,0,0,Low
 422,Mateo,Kovačić,Man City,Midfielder,6.0,1,16/08/2025,0,0,0,0,0,Low
 423,Nico,González Iglesias,Man City,Midfielder,6.0,1,16/08/2025,3,0,0,90,1,Low
@@ -504,7 +504,7 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 486,Anthony,Elanga,Newcastle,Midfielder,7.0,1,16/08/2025,3,0,0,77,1,Low
 487,Harvey,Barnes,Newcastle,Midfielder,6.5,1,16/08/2025,3,0,0,89,1,Low
 488,Bruno,Guimarães Rodriguez Moura,Newcastle,Midfielder,6.5,1,16/08/2025,3,0,0,90,1,Low
-489,Jacob,Murphy,Newcastle,Midfielder,6.5,1,16/08/2025,1,0,0,12,0,Low
+489,Jacob,Murphy,Newcastle,Midfielder,6.4,1,16/08/2025,1,0,0,12,0,Low
 490,Joelinton Cássio,Apolinário de Lira,Newcastle,Midfielder,6.0,1,16/08/2025,2,0,0,82,1,Low
 491,Sandro,Tonali,Newcastle,Midfielder,5.5,1,16/08/2025,3,0,0,90,1,Low
 492,Antoñito,Cordero Campillo,Newcastle,Midfielder,5.0,1,16/08/2025,0,0,0,0,0,Low
@@ -638,8 +638,8 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 609,Jean-Clair,Todibo,West Ham,Defender,4.5,1,16/08/2025,1,0,0,81,0,Low
 610,Aaron,Wan-Bissaka,West Ham,Defender,4.5,1,16/08/2025,1,0,0,90,0,Low
 611,Kaelan,Casey,West Ham,Defender,4.0,1,16/08/2025,0,0,0,0,0,Low
-612,Lucas,Tolentino Coelho de Lima,West Ham,Midfielder,6.0,1,16/08/2025,2,0,0,90,0,Low
-613,Tomáš,Souček,West Ham,Midfielder,6.0,1,16/08/2025,1,0,0,19,0,Low
+612,Lucas,Tolentino Coelho de Lima,West Ham,Midfielder,5.9,1,16/08/2025,2,0,0,90,0,Low
+613,Tomáš,Souček,West Ham,Midfielder,5.9,1,16/08/2025,1,0,0,19,0,Low
 614,James,Ward-Prowse,West Ham,Midfielder,6.0,1,16/08/2025,2,0,0,70,0,Low
 615,Crysencio,Summerville,West Ham,Midfielder,5.5,1,16/08/2025,0,0,0,0,0,Low
 616,Edson,Álvarez Velázquez,West Ham,Midfielder,5.0,1,16/08/2025,0,0,0,0,0,Low
