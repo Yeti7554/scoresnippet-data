@@ -542,9 +542,9 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 130,Romelle,Donovan,Brentford,Midfielder,4.5,1,17/08/2025,0,0,0,0,0,Low
 130,Romelle,Donovan,Brentford,Midfielder,4.5,2,23/08/2025,0,0,0,0,0,Low
 130,Romelle,Donovan,Brentford,Midfielder,4.5,3,30/08/2025,0,0,0,0,0,Low
-131,Yunus Emre,Konak,Brentford,Midfielder,4.5,1,17/08/2025,0,0,0,0,0,Low
-131,Yunus Emre,Konak,Brentford,Midfielder,4.5,2,23/08/2025,0,0,0,0,0,Low
-131,Yunus Emre,Konak,Brentford,Midfielder,4.5,3,30/08/2025,0,0,0,0,0,Low
+131,Yunus Emre,Konak,Brentford,Midfielder,4.4,1,17/08/2025,0,0,0,0,0,Low
+131,Yunus Emre,Konak,Brentford,Midfielder,4.4,2,23/08/2025,0,0,0,0,0,Low
+131,Yunus Emre,Konak,Brentford,Midfielder,4.4,3,30/08/2025,0,0,0,0,0,Low
 132,Paris,Maghoma,Brentford,Midfielder,4.5,1,17/08/2025,0,0,0,0,0,Low
 132,Paris,Maghoma,Brentford,Midfielder,4.5,2,23/08/2025,0,0,0,0,0,Low
 132,Paris,Maghoma,Brentford,Midfielder,4.5,3,30/08/2025,0,0,0,0,0,Low
@@ -632,9 +632,9 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 162,Brajan,Gruda,Brighton,Midfielder,5.4,1,16/08/2025,1,0,0,7,0,Low
 162,Brajan,Gruda,Brighton,Midfielder,5.4,2,24/08/2025,1,0,0,5,0,Low
 162,Brajan,Gruda,Brighton,Midfielder,5.4,3,31/08/2025,8,1,0,29,0,Low
-163,Jack,Hinshelwood,Brighton,Midfielder,5.4,1,16/08/2025,0,0,0,0,0,Low
-163,Jack,Hinshelwood,Brighton,Midfielder,5.4,2,24/08/2025,1,0,0,45,0,Low
-163,Jack,Hinshelwood,Brighton,Midfielder,5.4,3,31/08/2025,2,0,0,60,0,Low
+163,Jack,Hinshelwood,Brighton,Midfielder,5.3,1,16/08/2025,0,0,0,0,0,Low
+163,Jack,Hinshelwood,Brighton,Midfielder,5.3,2,24/08/2025,1,0,0,45,0,Low
+163,Jack,Hinshelwood,Brighton,Midfielder,5.3,3,31/08/2025,2,0,0,60,0,Low
 164,Matt,O'Riley,Brighton,Midfielder,5.5,1,16/08/2025,10,1,0,87,1,Low
 164,Matt,O'Riley,Brighton,Midfielder,5.5,2,24/08/2025,2,0,0,90,0,Low
 164,Matt,O'Riley,Brighton,Midfielder,5.5,3,31/08/2025,0,0,0,0,0,Low
@@ -776,9 +776,9 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 249,João Pedro,Junqueira de Jesus,Chelsea,Forward,7.7,1,17/08/2025,2,0,0,72,1,Low
 249,João Pedro,Junqueira de Jesus,Chelsea,Forward,7.7,2,22/08/2025,15,1,2,90,0,Low
 249,João Pedro,Junqueira de Jesus,Chelsea,Forward,7.7,3,30/08/2025,9,1,0,90,1,Low
-250,Liam,Delap,Chelsea,Forward,6.4,1,17/08/2025,1,0,0,17,0,Low
-250,Liam,Delap,Chelsea,Forward,6.4,2,22/08/2025,2,0,0,61,0,Low
-250,Liam,Delap,Chelsea,Forward,6.4,3,30/08/2025,1,0,0,13,0,Low
+250,Liam,Delap,Chelsea,Forward,6.3,1,17/08/2025,1,0,0,17,0,Low
+250,Liam,Delap,Chelsea,Forward,6.3,2,22/08/2025,2,0,0,61,0,Low
+250,Liam,Delap,Chelsea,Forward,6.3,3,30/08/2025,1,0,0,13,0,Low
 251,Nicolas,Jackson,Chelsea,Forward,6.5,1,17/08/2025,0,0,0,0,0,Low
 251,Nicolas,Jackson,Chelsea,Forward,6.5,2,22/08/2025,0,0,0,0,0,Low
 251,Nicolas,Jackson,Chelsea,Forward,6.5,3,30/08/2025,0,0,0,0,0,Low
@@ -1207,9 +1207,9 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 379,Rhys,Williams,Liverpool,Defender,3.9,1,15/08/2025,0,0,0,0,0,Low
 379,Rhys,Williams,Liverpool,Defender,3.9,2,25/08/2025,0,0,0,0,0,Low
 379,Rhys,Williams,Liverpool,Defender,3.9,3,31/08/2025,0,0,0,0,0,Low
-380,Calvin,Ramsay,Liverpool,Defender,4.0,1,15/08/2025,0,0,0,0,0,Low
-380,Calvin,Ramsay,Liverpool,Defender,4.0,2,25/08/2025,0,0,0,0,0,Low
-380,Calvin,Ramsay,Liverpool,Defender,4.0,3,31/08/2025,0,0,0,0,0,Low
+380,Calvin,Ramsay,Liverpool,Defender,3.9,1,15/08/2025,0,0,0,0,0,Low
+380,Calvin,Ramsay,Liverpool,Defender,3.9,2,25/08/2025,0,0,0,0,0,Low
+380,Calvin,Ramsay,Liverpool,Defender,3.9,3,31/08/2025,0,0,0,0,0,Low
 381,Mohamed,Salah,Liverpool,Midfielder,14.5,1,15/08/2025,8,1,0,90,0,Unknown
 381,Mohamed,Salah,Liverpool,Midfielder,14.5,2,25/08/2025,5,0,1,90,0,Unknown
 381,Mohamed,Salah,Liverpool,Midfielder,14.5,3,31/08/2025,3,0,0,90,1,Unknown
@@ -1988,9 +1988,9 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 624,Jarrod,Bowen,West Ham,Forward,7.8,1,16/08/2025,2,0,0,90,0,Low
 624,Jarrod,Bowen,West Ham,Forward,7.8,2,22/08/2025,2,0,0,90,0,Low
 624,Jarrod,Bowen,West Ham,Forward,7.8,3,31/08/2025,9,1,0,90,1,Low
-625,Niclas,Füllkrug,West Ham,Forward,5.9,1,16/08/2025,2,0,0,90,0,Low
-625,Niclas,Füllkrug,West Ham,Forward,5.9,2,22/08/2025,1,0,0,45,0,Low
-625,Niclas,Füllkrug,West Ham,Forward,5.9,3,31/08/2025,2,0,0,63,1,Low
+625,Niclas,Füllkrug,West Ham,Forward,5.8,1,16/08/2025,2,0,0,90,0,Low
+625,Niclas,Füllkrug,West Ham,Forward,5.8,2,22/08/2025,1,0,0,45,0,Low
+625,Niclas,Füllkrug,West Ham,Forward,5.8,3,31/08/2025,2,0,0,63,1,Low
 626,Callum,Marshall,West Ham,Forward,4.4,1,16/08/2025,0,0,0,0,0,Unknown
 626,Callum,Marshall,West Ham,Forward,4.4,2,22/08/2025,0,0,0,0,0,Unknown
 626,Callum,Marshall,West Ham,Forward,4.4,3,31/08/2025,0,0,0,0,0,Unknown
