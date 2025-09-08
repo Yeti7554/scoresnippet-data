@@ -1476,9 +1476,9 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 681,Benjamin,Sesko,Man Utd,Forward,7.4,1,17/08/2025,1,0,0,25,0,Low
 681,Benjamin,Sesko,Man Utd,Forward,7.4,2,24/08/2025,1,0,0,37,0,Low
 681,Benjamin,Sesko,Man Utd,Forward,7.4,3,30/08/2025,1,0,0,18,0,Low
-52,Jacob,Ramsey,Newcastle,Midfielder,5.5,1,16/08/2025,0,0,0,0,0,Low
-52,Jacob,Ramsey,Newcastle,Midfielder,5.5,2,25/08/2025,1,0,0,14,0,Low
-52,Jacob,Ramsey,Newcastle,Midfielder,5.5,3,30/08/2025,1,0,0,45,0,Low
+52,Jacob,Ramsey,Newcastle,Midfielder,5.4,1,16/08/2025,0,0,0,0,0,Low
+52,Jacob,Ramsey,Newcastle,Midfielder,5.4,2,25/08/2025,1,0,0,14,0,Low
+52,Jacob,Ramsey,Newcastle,Midfielder,5.4,3,30/08/2025,1,0,0,45,0,Low
 135,Yoane,Wissa,Newcastle,Forward,7.5,1,17/08/2025,0,0,0,0,0,Low
 135,Yoane,Wissa,Newcastle,Forward,7.5,2,23/08/2025,0,0,0,0,0,Low
 135,Yoane,Wissa,Newcastle,Forward,7.5,3,30/08/2025,0,0,0,0,0,Low
@@ -1767,9 +1767,9 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 557,Harrison,Jones,Sunderland,Midfielder,4.5,1,16/08/2025,0,0,0,0,0,Low
 557,Harrison,Jones,Sunderland,Midfielder,4.5,2,23/08/2025,0,0,0,0,0,Low
 557,Harrison,Jones,Sunderland,Midfielder,4.5,3,30/08/2025,0,0,0,0,0,Low
-558,Jay,Matete,Sunderland,Midfielder,4.5,1,16/08/2025,0,0,0,0,0,Low
-558,Jay,Matete,Sunderland,Midfielder,4.5,2,23/08/2025,0,0,0,0,0,Low
-558,Jay,Matete,Sunderland,Midfielder,4.5,3,30/08/2025,0,0,0,0,0,Low
+558,Jay,Matete,Sunderland,Midfielder,4.4,1,16/08/2025,0,0,0,0,0,Low
+558,Jay,Matete,Sunderland,Midfielder,4.4,2,23/08/2025,0,0,0,0,0,Low
+558,Jay,Matete,Sunderland,Midfielder,4.4,3,30/08/2025,0,0,0,0,0,Low
 559,Nectarios,Triantis,Sunderland,Midfielder,4.4,1,16/08/2025,0,0,0,0,0,Low
 559,Nectarios,Triantis,Sunderland,Midfielder,4.4,2,23/08/2025,0,0,0,0,0,Low
 559,Nectarios,Triantis,Sunderland,Midfielder,4.4,3,30/08/2025,0,0,0,0,0,Low
@@ -2094,9 +2094,9 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 657,Leon,Chiwome,Wolves,Forward,4.5,1,16/08/2025,0,0,0,0,0,Low
 657,Leon,Chiwome,Wolves,Forward,4.5,2,23/08/2025,0,0,0,0,0,Low
 657,Leon,Chiwome,Wolves,Forward,4.5,3,30/08/2025,0,0,0,0,0,Low
-658,Nathan,Fraser,Wolves,Forward,4.5,1,16/08/2025,0,0,0,0,0,Low
-658,Nathan,Fraser,Wolves,Forward,4.5,2,23/08/2025,0,0,0,0,0,Low
-658,Nathan,Fraser,Wolves,Forward,4.5,3,30/08/2025,0,0,0,0,0,Low
+658,Nathan,Fraser,Wolves,Forward,4.4,1,16/08/2025,0,0,0,0,0,Unknown
+658,Nathan,Fraser,Wolves,Forward,4.4,2,23/08/2025,0,0,0,0,0,Unknown
+658,Nathan,Fraser,Wolves,Forward,4.4,3,30/08/2025,0,0,0,0,0,Unknown
 663,Jhon,Arias,Wolves,Midfielder,5.4,1,16/08/2025,1,0,0,17,0,Low
 663,Jhon,Arias,Wolves,Midfielder,5.4,2,23/08/2025,1,0,0,55,0,Low
 663,Jhon,Arias,Wolves,Midfielder,5.4,3,30/08/2025,2,0,0,63,0,Low
