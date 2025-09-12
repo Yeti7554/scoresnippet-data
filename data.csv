@@ -128,9 +128,9 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 41,Pau,Torres,Aston Villa,Defender,4.5,1,16/08/2025,0,0,0,0,0,Low
 41,Pau,Torres,Aston Villa,Defender,4.5,2,23/08/2025,2,0,0,90,0,Low
 41,Pau,Torres,Aston Villa,Defender,4.5,3,31/08/2025,1,0,0,16,0,Low
-42,Andrés,García,Aston Villa,Defender,4.0,1,16/08/2025,0,0,0,0,0,Low
-42,Andrés,García,Aston Villa,Defender,4.0,2,23/08/2025,0,0,0,0,0,Low
-42,Andrés,García,Aston Villa,Defender,4.0,3,31/08/2025,0,0,0,0,0,Low
+42,Andrés,García,Aston Villa,Defender,3.9,1,16/08/2025,0,0,0,0,0,Low
+42,Andrés,García,Aston Villa,Defender,3.9,2,23/08/2025,0,0,0,0,0,Low
+42,Andrés,García,Aston Villa,Defender,3.9,3,31/08/2025,0,0,0,0,0,Low
 43,Álex,Moreno Lopera,Aston Villa,Defender,4.0,1,16/08/2025,0,0,0,0,0,Low
 43,Álex,Moreno Lopera,Aston Villa,Defender,4.0,2,23/08/2025,0,0,0,0,0,Low
 43,Álex,Moreno Lopera,Aston Villa,Defender,4.0,3,31/08/2025,0,0,0,0,0,Low
@@ -1261,9 +1261,9 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 499,Alexander,Isak,Liverpool,Forward,10.4,1,16/08/2025,0,0,0,0,0,Medium
 499,Alexander,Isak,Liverpool,Forward,10.4,2,25/08/2025,0,0,0,0,0,Medium
 499,Alexander,Isak,Liverpool,Forward,10.4,3,30/08/2025,0,0,0,0,0,Medium
-661,Hugo,Ekitiké,Liverpool,Forward,8.7,1,15/08/2025,11,1,1,71,0,Medium
-661,Hugo,Ekitiké,Liverpool,Forward,8.7,2,25/08/2025,9,1,0,79,0,Medium
-661,Hugo,Ekitiké,Liverpool,Forward,8.7,3,31/08/2025,2,0,0,78,1,Medium
+661,Hugo,Ekitiké,Liverpool,Forward,8.8,1,15/08/2025,11,1,1,71,0,Medium
+661,Hugo,Ekitiké,Liverpool,Forward,8.8,2,25/08/2025,9,1,0,79,0,Medium
+661,Hugo,Ekitiké,Liverpool,Forward,8.8,3,31/08/2025,2,0,0,78,1,Medium
 686,Rio,Ngumoha,Liverpool,Midfielder,4.5,1,15/08/2025,0,0,0,0,0,Low
 686,Rio,Ngumoha,Liverpool,Midfielder,4.5,2,25/08/2025,6,1,0,1,0,Low
 686,Rio,Ngumoha,Liverpool,Midfielder,4.5,3,31/08/2025,0,0,0,0,0,Low
@@ -1398,9 +1398,9 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 441,Patrick,Dorgu,Man Utd,Defender,4.5,1,17/08/2025,1,0,0,90,0,Low
 441,Patrick,Dorgu,Man Utd,Defender,4.5,2,24/08/2025,2,0,0,90,0,Low
 441,Patrick,Dorgu,Man Utd,Defender,4.5,3,30/08/2025,0,0,0,0,0,Low
-442,Harry,Maguire,Man Utd,Defender,4.5,1,17/08/2025,1,0,0,10,0,Low
-442,Harry,Maguire,Man Utd,Defender,4.5,2,24/08/2025,1,0,0,3,0,Low
-442,Harry,Maguire,Man Utd,Defender,4.5,3,30/08/2025,0,0,0,0,0,Low
+442,Harry,Maguire,Man Utd,Defender,4.4,1,17/08/2025,1,0,0,10,0,Low
+442,Harry,Maguire,Man Utd,Defender,4.4,2,24/08/2025,1,0,0,3,0,Low
+442,Harry,Maguire,Man Utd,Defender,4.4,3,30/08/2025,0,0,0,0,0,Low
 443,Luke,Shaw,Man Utd,Defender,4.5,1,17/08/2025,2,0,0,79,0,Low
 443,Luke,Shaw,Man Utd,Defender,4.5,2,24/08/2025,2,0,0,86,0,Low
 443,Luke,Shaw,Man Utd,Defender,4.5,3,30/08/2025,1,0,0,90,0,Low
@@ -1895,9 +1895,9 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 595,Callum,Olusesi,Spurs,Midfielder,4.4,1,16/08/2025,0,0,0,0,0,Low
 595,Callum,Olusesi,Spurs,Midfielder,4.4,2,23/08/2025,0,0,0,0,0,Low
 595,Callum,Olusesi,Spurs,Midfielder,4.4,3,30/08/2025,0,0,0,0,0,Low
-596,Dominic,Solanke-Mitchell,Spurs,Forward,7.3,1,16/08/2025,1,0,0,19,0,Low
-596,Dominic,Solanke-Mitchell,Spurs,Forward,7.3,2,23/08/2025,1,0,0,12,0,Low
-596,Dominic,Solanke-Mitchell,Spurs,Forward,7.3,3,30/08/2025,0,0,0,0,0,Low
+596,Dominic,Solanke-Mitchell,Spurs,Forward,7.2,1,16/08/2025,1,0,0,19,0,Low
+596,Dominic,Solanke-Mitchell,Spurs,Forward,7.2,2,23/08/2025,1,0,0,12,0,Low
+596,Dominic,Solanke-Mitchell,Spurs,Forward,7.2,3,30/08/2025,0,0,0,0,0,Low
 597,Richarlison,de Andrade,Spurs,Forward,6.7,1,16/08/2025,13,2,0,71,1,Low
 597,Richarlison,de Andrade,Spurs,Forward,6.7,2,23/08/2025,4,0,1,77,1,Low
 597,Richarlison,de Andrade,Spurs,Forward,6.7,3,30/08/2025,2,0,0,90,0,Low
