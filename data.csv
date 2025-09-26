@@ -1,9 +1,9 @@
 player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_scored,assists,minutes,clean_sheets,cost_bin
-1,David,Raya Martín,Arsenal,Goalkeeper,5.5,1,17/08/2025,10,0,0,90,1,High
-1,David,Raya Martín,Arsenal,Goalkeeper,5.5,2,23/08/2025,6,0,0,90,1,High
-1,David,Raya Martín,Arsenal,Goalkeeper,5.5,3,31/08/2025,2,0,0,90,0,High
-1,David,Raya Martín,Arsenal,Goalkeeper,5.5,4,13/09/2025,6,0,0,90,1,High
-1,David,Raya Martín,Arsenal,Goalkeeper,5.5,5,21/09/2025,2,0,0,90,0,High
+1,David,Raya Martín,Arsenal,Goalkeeper,5.6,1,17/08/2025,10,0,0,90,1,Unknown
+1,David,Raya Martín,Arsenal,Goalkeeper,5.6,2,23/08/2025,6,0,0,90,1,Unknown
+1,David,Raya Martín,Arsenal,Goalkeeper,5.6,3,31/08/2025,2,0,0,90,0,Unknown
+1,David,Raya Martín,Arsenal,Goalkeeper,5.6,4,13/09/2025,6,0,0,90,1,Unknown
+1,David,Raya Martín,Arsenal,Goalkeeper,5.6,5,21/09/2025,2,0,0,90,0,Unknown
 2,Kepa,Arrizabalaga Revuelta,Arsenal,Goalkeeper,4.4,1,17/08/2025,0,0,0,0,0,Low
 2,Kepa,Arrizabalaga Revuelta,Arsenal,Goalkeeper,4.4,2,23/08/2025,0,0,0,0,0,Low
 2,Kepa,Arrizabalaga Revuelta,Arsenal,Goalkeeper,4.4,3,31/08/2025,0,0,0,0,0,Low
@@ -607,11 +607,11 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 72,Marcos,Senesi Barón,Bournemouth,Defender,4.8,3,30/08/2025,14,0,1,90,1,Low
 72,Marcos,Senesi Barón,Bournemouth,Defender,4.8,4,13/09/2025,3,0,0,90,0,Low
 72,Marcos,Senesi Barón,Bournemouth,Defender,4.8,5,21/09/2025,9,0,0,90,1,Low
-73,Adam,Smith,Bournemouth,Defender,4.5,1,15/08/2025,1,0,0,89,0,Low
-73,Adam,Smith,Bournemouth,Defender,4.5,2,23/08/2025,6,0,0,90,1,Low
-73,Adam,Smith,Bournemouth,Defender,4.5,3,30/08/2025,1,0,0,25,0,Low
-73,Adam,Smith,Bournemouth,Defender,4.5,4,13/09/2025,0,0,0,0,0,Low
-73,Adam,Smith,Bournemouth,Defender,4.5,5,21/09/2025,0,0,0,0,0,Low
+73,Adam,Smith,Bournemouth,Defender,4.4,1,15/08/2025,1,0,0,89,0,Low
+73,Adam,Smith,Bournemouth,Defender,4.4,2,23/08/2025,6,0,0,90,1,Low
+73,Adam,Smith,Bournemouth,Defender,4.4,3,30/08/2025,1,0,0,25,0,Low
+73,Adam,Smith,Bournemouth,Defender,4.4,4,13/09/2025,0,0,0,0,0,Low
+73,Adam,Smith,Bournemouth,Defender,4.4,5,21/09/2025,0,0,0,0,0,Low
 74,Adrien,Truffert,Bournemouth,Defender,4.5,1,15/08/2025,0,0,0,90,0,Low
 74,Adrien,Truffert,Bournemouth,Defender,4.5,2,23/08/2025,6,0,0,90,1,Low
 74,Adrien,Truffert,Bournemouth,Defender,4.5,3,30/08/2025,7,0,0,90,1,Low
@@ -1195,11 +1195,11 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 225,Reece,James,Chelsea,Defender,5.4,3,30/08/2025,1,0,0,9,0,Medium
 225,Reece,James,Chelsea,Defender,5.4,4,13/09/2025,1,0,0,45,0,Medium
 225,Reece,James,Chelsea,Defender,5.4,5,20/09/2025,4,0,1,90,0,Medium
-226,Trevoh,Chalobah,Chelsea,Defender,5.1,1,17/08/2025,6,0,0,90,1,Medium
-226,Trevoh,Chalobah,Chelsea,Defender,5.1,2,22/08/2025,8,1,0,68,0,Medium
-226,Trevoh,Chalobah,Chelsea,Defender,5.1,3,30/08/2025,13,0,1,90,1,Medium
-226,Trevoh,Chalobah,Chelsea,Defender,5.1,4,13/09/2025,3,0,0,90,0,Medium
-226,Trevoh,Chalobah,Chelsea,Defender,5.1,5,20/09/2025,8,1,0,90,0,Medium
+226,Trevoh,Chalobah,Chelsea,Defender,5.2,1,17/08/2025,6,0,0,90,1,Medium
+226,Trevoh,Chalobah,Chelsea,Defender,5.2,2,22/08/2025,8,1,0,68,0,Medium
+226,Trevoh,Chalobah,Chelsea,Defender,5.2,3,30/08/2025,13,0,1,90,1,Medium
+226,Trevoh,Chalobah,Chelsea,Defender,5.2,4,13/09/2025,3,0,0,90,0,Medium
+226,Trevoh,Chalobah,Chelsea,Defender,5.2,5,20/09/2025,8,1,0,90,0,Medium
 227,Levi,Samuels Colwill,Chelsea,Defender,4.8,1,17/08/2025,0,0,0,0,0,Low
 227,Levi,Samuels Colwill,Chelsea,Defender,4.8,2,22/08/2025,0,0,0,0,0,Low
 227,Levi,Samuels Colwill,Chelsea,Defender,4.8,3,30/08/2025,0,0,0,0,0,Low
@@ -1841,11 +1841,11 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 343,Pascal,Struijk,Leeds,Defender,4.5,3,30/08/2025,6,0,0,90,1,Low
 343,Pascal,Struijk,Leeds,Defender,4.5,4,13/09/2025,2,0,0,90,0,Low
 343,Pascal,Struijk,Leeds,Defender,4.5,5,20/09/2025,4,0,0,90,0,Low
-344,Jaka,Bijol,Leeds,Defender,4.0,1,18/08/2025,0,0,0,0,0,Low
-344,Jaka,Bijol,Leeds,Defender,4.0,2,23/08/2025,0,0,0,0,0,Low
-344,Jaka,Bijol,Leeds,Defender,4.0,3,30/08/2025,0,0,0,0,0,Low
-344,Jaka,Bijol,Leeds,Defender,4.0,4,13/09/2025,0,0,0,0,0,Low
-344,Jaka,Bijol,Leeds,Defender,4.0,5,20/09/2025,0,0,0,0,0,Low
+344,Jaka,Bijol,Leeds,Defender,3.9,1,18/08/2025,0,0,0,0,0,Low
+344,Jaka,Bijol,Leeds,Defender,3.9,2,23/08/2025,0,0,0,0,0,Low
+344,Jaka,Bijol,Leeds,Defender,3.9,3,30/08/2025,0,0,0,0,0,Low
+344,Jaka,Bijol,Leeds,Defender,3.9,4,13/09/2025,0,0,0,0,0,Low
+344,Jaka,Bijol,Leeds,Defender,3.9,5,20/09/2025,0,0,0,0,0,Low
 345,Sebastiaan,Bornauw,Leeds,Defender,3.9,1,18/08/2025,0,0,0,0,0,Low
 345,Sebastiaan,Bornauw,Leeds,Defender,3.9,2,23/08/2025,0,0,0,0,0,Low
 345,Sebastiaan,Bornauw,Leeds,Defender,3.9,3,30/08/2025,0,0,0,0,0,Low
@@ -2687,11 +2687,11 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 12,Oleksandr,Zinchenko,Nott'm Forest,Defender,4.9,3,31/08/2025,0,0,0,0,0,Low
 12,Oleksandr,Zinchenko,Nott'm Forest,Defender,4.9,4,13/09/2025,0,0,0,0,0,Low
 12,Oleksandr,Zinchenko,Nott'm Forest,Defender,4.9,5,20/09/2025,2,0,0,90,0,Low
-426,James,McAtee,Nott'm Forest,Midfielder,5.4,1,16/08/2025,0,0,0,0,0,Low
-426,James,McAtee,Nott'm Forest,Midfielder,5.4,2,24/08/2025,1,0,0,18,0,Low
-426,James,McAtee,Nott'm Forest,Midfielder,5.4,3,31/08/2025,1,0,0,32,0,Low
-426,James,McAtee,Nott'm Forest,Midfielder,5.4,4,13/09/2025,1,0,0,17,0,Low
-426,James,McAtee,Nott'm Forest,Midfielder,5.4,5,20/09/2025,0,0,0,0,0,Low
+426,James,McAtee,Nott'm Forest,Midfielder,5.3,1,16/08/2025,0,0,0,0,0,Low
+426,James,McAtee,Nott'm Forest,Midfielder,5.3,2,24/08/2025,1,0,0,18,0,Low
+426,James,McAtee,Nott'm Forest,Midfielder,5.3,3,31/08/2025,1,0,0,32,0,Low
+426,James,McAtee,Nott'm Forest,Midfielder,5.3,4,13/09/2025,1,0,0,17,0,Low
+426,James,McAtee,Nott'm Forest,Midfielder,5.3,5,20/09/2025,0,0,0,0,0,Low
 502,Matz,Sels,Nott'm Forest,Goalkeeper,5.0,1,17/08/2025,2,0,0,90,0,High
 502,Matz,Sels,Nott'm Forest,Goalkeeper,5.0,2,24/08/2025,2,0,0,90,0,High
 502,Matz,Sels,Nott'm Forest,Goalkeeper,5.0,3,31/08/2025,2,0,0,90,0,High
@@ -3177,11 +3177,11 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 586,Lucas,Bergvall,Spurs,Midfielder,5.4,3,30/08/2025,1,0,0,36,0,Low
 586,Lucas,Bergvall,Spurs,Midfielder,5.4,4,13/09/2025,11,1,1,79,1,Low
 586,Lucas,Bergvall,Spurs,Midfielder,5.4,5,20/09/2025,4,0,0,88,0,Low
-587,Yves,Bissouma,Spurs,Midfielder,5.3,1,16/08/2025,0,0,0,0,0,Low
-587,Yves,Bissouma,Spurs,Midfielder,5.3,2,23/08/2025,0,0,0,0,0,Low
-587,Yves,Bissouma,Spurs,Midfielder,5.3,3,30/08/2025,0,0,0,0,0,Low
-587,Yves,Bissouma,Spurs,Midfielder,5.3,4,13/09/2025,0,0,0,0,0,Low
-587,Yves,Bissouma,Spurs,Midfielder,5.3,5,20/09/2025,0,0,0,0,0,Low
+587,Yves,Bissouma,Spurs,Midfielder,5.2,1,16/08/2025,0,0,0,0,0,Low
+587,Yves,Bissouma,Spurs,Midfielder,5.2,2,23/08/2025,0,0,0,0,0,Low
+587,Yves,Bissouma,Spurs,Midfielder,5.2,3,30/08/2025,0,0,0,0,0,Low
+587,Yves,Bissouma,Spurs,Midfielder,5.2,4,13/09/2025,0,0,0,0,0,Low
+587,Yves,Bissouma,Spurs,Midfielder,5.2,5,20/09/2025,0,0,0,0,0,Low
 588,Wilson,Odobert,Spurs,Midfielder,5.3,1,16/08/2025,1,0,0,10,0,Low
 588,Wilson,Odobert,Spurs,Midfielder,5.3,2,23/08/2025,1,0,0,12,0,Low
 588,Wilson,Odobert,Spurs,Midfielder,5.3,3,30/08/2025,1,0,0,36,0,Low
