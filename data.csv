@@ -750,12 +750,12 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 75,Matai,Akinmboni,Bournemouth,Defender,4.0,4,13/09/2025,0,0,0,0,0,Low
 75,Matai,Akinmboni,Bournemouth,Defender,4.0,5,21/09/2025,0,0,0,0,0,Low
 75,Matai,Akinmboni,Bournemouth,Defender,4.0,6,27/09/2025,0,0,0,0,0,Low
-76,Owen,Bevan,Bournemouth,Defender,4.0,1,15/08/2025,0,0,0,0,0,Low
-76,Owen,Bevan,Bournemouth,Defender,4.0,2,23/08/2025,0,0,0,0,0,Low
-76,Owen,Bevan,Bournemouth,Defender,4.0,3,30/08/2025,0,0,0,0,0,Low
-76,Owen,Bevan,Bournemouth,Defender,4.0,4,13/09/2025,0,0,0,0,0,Low
-76,Owen,Bevan,Bournemouth,Defender,4.0,5,21/09/2025,0,0,0,0,0,Low
-76,Owen,Bevan,Bournemouth,Defender,4.0,6,27/09/2025,0,0,0,0,0,Low
+76,Owen,Bevan,Bournemouth,Defender,3.9,1,15/08/2025,0,0,0,0,0,Low
+76,Owen,Bevan,Bournemouth,Defender,3.9,2,23/08/2025,0,0,0,0,0,Low
+76,Owen,Bevan,Bournemouth,Defender,3.9,3,30/08/2025,0,0,0,0,0,Low
+76,Owen,Bevan,Bournemouth,Defender,3.9,4,13/09/2025,0,0,0,0,0,Low
+76,Owen,Bevan,Bournemouth,Defender,3.9,5,21/09/2025,0,0,0,0,0,Low
+76,Owen,Bevan,Bournemouth,Defender,3.9,6,27/09/2025,0,0,0,0,0,Low
 77,James,Hill,Bournemouth,Defender,4.0,1,15/08/2025,1,0,0,1,0,Low
 77,James,Hill,Bournemouth,Defender,4.0,2,23/08/2025,1,0,0,2,0,Low
 77,James,Hill,Bournemouth,Defender,4.0,3,30/08/2025,5,0,0,64,1,Low
@@ -906,12 +906,12 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 685,Bafodé,Diakité,Bournemouth,Defender,4.5,4,13/09/2025,0,0,0,0,0,Low
 685,Bafodé,Diakité,Bournemouth,Defender,4.5,5,21/09/2025,5,0,0,90,1,Low
 685,Bafodé,Diakité,Bournemouth,Defender,4.5,6,27/09/2025,3,0,0,90,0,Low
-687,Remy,Rees-Dottin,Bournemouth,Midfielder,4.5,1,15/08/2025,0,0,0,0,0,Low
-687,Remy,Rees-Dottin,Bournemouth,Midfielder,4.5,2,23/08/2025,0,0,0,0,0,Low
-687,Remy,Rees-Dottin,Bournemouth,Midfielder,4.5,3,30/08/2025,0,0,0,0,0,Low
-687,Remy,Rees-Dottin,Bournemouth,Midfielder,4.5,4,13/09/2025,0,0,0,0,0,Low
-687,Remy,Rees-Dottin,Bournemouth,Midfielder,4.5,5,21/09/2025,0,0,0,0,0,Low
-687,Remy,Rees-Dottin,Bournemouth,Midfielder,4.5,6,27/09/2025,0,0,0,0,0,Low
+687,Remy,Rees-Dottin,Bournemouth,Midfielder,4.4,1,15/08/2025,0,0,0,0,0,Low
+687,Remy,Rees-Dottin,Bournemouth,Midfielder,4.4,2,23/08/2025,0,0,0,0,0,Low
+687,Remy,Rees-Dottin,Bournemouth,Midfielder,4.4,3,30/08/2025,0,0,0,0,0,Low
+687,Remy,Rees-Dottin,Bournemouth,Midfielder,4.4,4,13/09/2025,0,0,0,0,0,Low
+687,Remy,Rees-Dottin,Bournemouth,Midfielder,4.4,5,21/09/2025,0,0,0,0,0,Low
+687,Remy,Rees-Dottin,Bournemouth,Midfielder,4.4,6,27/09/2025,0,0,0,0,0,Low
 697,Amine,Adli,Bournemouth,Midfielder,5.5,2,23/08/2025,1,0,0,24,0,Low
 697,Amine,Adli,Bournemouth,Midfielder,5.5,3,30/08/2025,1,0,0,26,0,Low
 697,Amine,Adli,Bournemouth,Midfielder,5.5,4,13/09/2025,1,0,0,23,0,Low
@@ -1905,12 +1905,12 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 299,Iliman,Ndiaye,Everton,Midfielder,6.5,4,13/09/2025,5,0,0,90,1,Low
 299,Iliman,Ndiaye,Everton,Midfielder,6.5,5,20/09/2025,6,0,1,85,0,Low
 299,Iliman,Ndiaye,Everton,Midfielder,6.5,6,29/09/2025,2,0,0,80,0,Low
-300,Dwight,McNeil,Everton,Midfielder,5.7,1,18/08/2025,0,0,0,0,0,Low
-300,Dwight,McNeil,Everton,Midfielder,5.7,2,24/08/2025,1,0,0,19,0,Low
-300,Dwight,McNeil,Everton,Midfielder,5.7,3,30/08/2025,0,0,0,0,0,Low
-300,Dwight,McNeil,Everton,Midfielder,5.7,4,13/09/2025,0,0,0,0,0,Low
-300,Dwight,McNeil,Everton,Midfielder,5.7,5,20/09/2025,0,0,0,0,0,Low
-300,Dwight,McNeil,Everton,Midfielder,5.7,6,29/09/2025,0,0,0,0,0,Low
+300,Dwight,McNeil,Everton,Midfielder,5.6,1,18/08/2025,0,0,0,0,0,Low
+300,Dwight,McNeil,Everton,Midfielder,5.6,2,24/08/2025,1,0,0,19,0,Low
+300,Dwight,McNeil,Everton,Midfielder,5.6,3,30/08/2025,0,0,0,0,0,Low
+300,Dwight,McNeil,Everton,Midfielder,5.6,4,13/09/2025,0,0,0,0,0,Low
+300,Dwight,McNeil,Everton,Midfielder,5.6,5,20/09/2025,0,0,0,0,0,Low
+300,Dwight,McNeil,Everton,Midfielder,5.6,6,29/09/2025,0,0,0,0,0,Low
 301,Carlos,Alcaraz Durán,Everton,Midfielder,5.3,1,18/08/2025,1,0,0,85,0,Low
 301,Carlos,Alcaraz Durán,Everton,Midfielder,5.3,2,24/08/2025,1,0,0,26,0,Low
 301,Carlos,Alcaraz Durán,Everton,Midfielder,5.3,3,30/08/2025,1,0,0,2,0,Low
@@ -2618,12 +2618,12 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 401,Marcus,Bettinelli,Man City,Goalkeeper,4.0,4,14/09/2025,0,0,0,0,0,Low
 401,Marcus,Bettinelli,Man City,Goalkeeper,4.0,5,21/09/2025,0,0,0,0,0,Low
 401,Marcus,Bettinelli,Man City,Goalkeeper,4.0,6,27/09/2025,0,0,0,0,0,Low
-402,Rayan,Aït-Nouri,Man City,Defender,5.9,1,16/08/2025,9,0,0,90,1,Medium
-402,Rayan,Aït-Nouri,Man City,Defender,5.9,2,23/08/2025,1,0,0,22,0,Medium
-402,Rayan,Aït-Nouri,Man City,Defender,5.9,3,31/08/2025,0,0,0,90,0,Medium
-402,Rayan,Aït-Nouri,Man City,Defender,5.9,4,14/09/2025,0,0,0,0,0,Medium
-402,Rayan,Aït-Nouri,Man City,Defender,5.9,5,21/09/2025,0,0,0,0,0,Medium
-402,Rayan,Aït-Nouri,Man City,Defender,5.9,6,27/09/2025,0,0,0,0,0,Medium
+402,Rayan,Aït-Nouri,Man City,Defender,5.8,1,16/08/2025,9,0,0,90,1,Medium
+402,Rayan,Aït-Nouri,Man City,Defender,5.8,2,23/08/2025,1,0,0,22,0,Medium
+402,Rayan,Aït-Nouri,Man City,Defender,5.8,3,31/08/2025,0,0,0,90,0,Medium
+402,Rayan,Aït-Nouri,Man City,Defender,5.8,4,14/09/2025,0,0,0,0,0,Medium
+402,Rayan,Aït-Nouri,Man City,Defender,5.8,5,21/09/2025,0,0,0,0,0,Medium
+402,Rayan,Aït-Nouri,Man City,Defender,5.8,6,27/09/2025,0,0,0,0,0,Medium
 403,Joško,Gvardiol,Man City,Defender,5.8,1,16/08/2025,0,0,0,0,0,Medium
 403,Joško,Gvardiol,Man City,Defender,5.8,2,23/08/2025,0,0,0,0,0,Medium
 403,Joško,Gvardiol,Man City,Defender,5.8,3,31/08/2025,0,0,0,0,0,Medium
@@ -3000,12 +3000,12 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 466,Joshua,Zirkzee,Man Utd,Forward,5.9,4,14/09/2025,1,0,0,10,0,Low
 466,Joshua,Zirkzee,Man Utd,Forward,5.9,5,20/09/2025,0,0,0,0,0,Low
 466,Joshua,Zirkzee,Man Utd,Forward,5.9,6,27/09/2025,1,0,0,5,0,Low
-467,Chido,Obi,Man Utd,Forward,4.4,1,17/08/2025,0,0,0,0,0,Unknown
-467,Chido,Obi,Man Utd,Forward,4.4,2,24/08/2025,0,0,0,0,0,Unknown
-467,Chido,Obi,Man Utd,Forward,4.4,3,30/08/2025,0,0,0,0,0,Unknown
-467,Chido,Obi,Man Utd,Forward,4.4,4,14/09/2025,0,0,0,0,0,Unknown
-467,Chido,Obi,Man Utd,Forward,4.4,5,20/09/2025,0,0,0,0,0,Unknown
-467,Chido,Obi,Man Utd,Forward,4.4,6,27/09/2025,0,0,0,0,0,Unknown
+467,Chido,Obi,Man Utd,Forward,4.3,1,17/08/2025,0,0,0,0,0,Unknown
+467,Chido,Obi,Man Utd,Forward,4.3,2,24/08/2025,0,0,0,0,0,Unknown
+467,Chido,Obi,Man Utd,Forward,4.3,3,30/08/2025,0,0,0,0,0,Unknown
+467,Chido,Obi,Man Utd,Forward,4.3,4,14/09/2025,0,0,0,0,0,Unknown
+467,Chido,Obi,Man Utd,Forward,4.3,5,20/09/2025,0,0,0,0,0,Unknown
+467,Chido,Obi,Man Utd,Forward,4.3,6,27/09/2025,0,0,0,0,0,Unknown
 468,Ethan,Wheatley,Man Utd,Forward,4.5,1,17/08/2025,0,0,0,0,0,Low
 468,Ethan,Wheatley,Man Utd,Forward,4.5,2,24/08/2025,0,0,0,0,0,Low
 468,Ethan,Wheatley,Man Utd,Forward,4.5,3,30/08/2025,0,0,0,0,0,Low
@@ -4125,12 +4125,12 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 627,Sam,Johnstone,Wolves,Goalkeeper,4.5,4,13/09/2025,3,0,0,90,0,Medium
 627,Sam,Johnstone,Wolves,Goalkeeper,4.5,5,20/09/2025,0,0,0,0,0,Medium
 627,Sam,Johnstone,Wolves,Goalkeeper,4.5,6,27/09/2025,2,0,0,90,0,Medium
-628,José,Malheiro de Sá,Wolves,Goalkeeper,4.5,1,16/08/2025,0,0,0,90,0,Medium
-628,José,Malheiro de Sá,Wolves,Goalkeeper,4.5,2,23/08/2025,3,0,0,90,0,Medium
-628,José,Malheiro de Sá,Wolves,Goalkeeper,4.5,3,30/08/2025,1,0,0,90,0,Medium
-628,José,Malheiro de Sá,Wolves,Goalkeeper,4.5,4,13/09/2025,0,0,0,0,0,Medium
-628,José,Malheiro de Sá,Wolves,Goalkeeper,4.5,5,20/09/2025,1,0,0,90,0,Medium
-628,José,Malheiro de Sá,Wolves,Goalkeeper,4.5,6,27/09/2025,0,0,0,0,0,Medium
+628,José,Malheiro de Sá,Wolves,Goalkeeper,4.4,1,16/08/2025,0,0,0,90,0,Low
+628,José,Malheiro de Sá,Wolves,Goalkeeper,4.4,2,23/08/2025,3,0,0,90,0,Low
+628,José,Malheiro de Sá,Wolves,Goalkeeper,4.4,3,30/08/2025,1,0,0,90,0,Low
+628,José,Malheiro de Sá,Wolves,Goalkeeper,4.4,4,13/09/2025,0,0,0,0,0,Low
+628,José,Malheiro de Sá,Wolves,Goalkeeper,4.4,5,20/09/2025,1,0,0,90,0,Low
+628,José,Malheiro de Sá,Wolves,Goalkeeper,4.4,6,27/09/2025,0,0,0,0,0,Low
 629,Daniel,Bentley,Wolves,Goalkeeper,4.0,1,16/08/2025,0,0,0,0,0,Low
 629,Daniel,Bentley,Wolves,Goalkeeper,4.0,2,23/08/2025,0,0,0,0,0,Low
 629,Daniel,Bentley,Wolves,Goalkeeper,4.0,3,30/08/2025,0,0,0,0,0,Low
