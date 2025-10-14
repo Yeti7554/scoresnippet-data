@@ -3031,12 +3031,12 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 686,Rio,Ngumoha,Liverpool,Midfielder,4.5,5,20/09/2025,0,0,0,0,0,Low
 686,Rio,Ngumoha,Liverpool,Midfielder,4.5,6,27/09/2025,1,0,0,6,0,Low
 686,Rio,Ngumoha,Liverpool,Midfielder,4.5,7,04/10/2025,0,0,0,0,0,Low
-692,Giovanni,Leoni,Liverpool,Defender,5.0,2,25/08/2025,0,0,0,0,0,Medium
-692,Giovanni,Leoni,Liverpool,Defender,5.0,3,31/08/2025,0,0,0,0,0,Medium
-692,Giovanni,Leoni,Liverpool,Defender,5.0,4,14/09/2025,0,0,0,0,0,Medium
-692,Giovanni,Leoni,Liverpool,Defender,5.0,5,20/09/2025,0,0,0,0,0,Medium
-692,Giovanni,Leoni,Liverpool,Defender,5.0,6,27/09/2025,0,0,0,0,0,Medium
-692,Giovanni,Leoni,Liverpool,Defender,5.0,7,04/10/2025,0,0,0,0,0,Medium
+692,Giovanni,Leoni,Liverpool,Defender,4.9,2,25/08/2025,0,0,0,0,0,Low
+692,Giovanni,Leoni,Liverpool,Defender,4.9,3,31/08/2025,0,0,0,0,0,Low
+692,Giovanni,Leoni,Liverpool,Defender,4.9,4,14/09/2025,0,0,0,0,0,Low
+692,Giovanni,Leoni,Liverpool,Defender,4.9,5,20/09/2025,0,0,0,0,0,Low
+692,Giovanni,Leoni,Liverpool,Defender,4.9,6,27/09/2025,0,0,0,0,0,Low
+692,Giovanni,Leoni,Liverpool,Defender,4.9,7,04/10/2025,0,0,0,0,0,Low
 182,James,Trafford,Man City,Goalkeeper,4.8,1,16/08/2025,7,0,0,90,1,Medium
 182,James,Trafford,Man City,Goalkeeper,4.8,2,23/08/2025,2,0,0,90,0,Medium
 182,James,Trafford,Man City,Goalkeeper,4.8,3,31/08/2025,2,0,0,90,0,Medium
@@ -3345,13 +3345,13 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 440,Diogo,Dalot Teixeira,Man Utd,Defender,4.4,5,20/09/2025,0,0,0,0,0,Low
 440,Diogo,Dalot Teixeira,Man Utd,Defender,4.4,6,27/09/2025,1,0,0,90,0,Low
 440,Diogo,Dalot Teixeira,Man Utd,Defender,4.4,7,04/10/2025,9,0,1,63,1,Low
-441,Patrick,Dorgu,Man Utd,Defender,4.5,1,17/08/2025,1,0,0,90,0,Low
-441,Patrick,Dorgu,Man Utd,Defender,4.5,2,24/08/2025,2,0,0,90,0,Low
-441,Patrick,Dorgu,Man Utd,Defender,4.5,3,30/08/2025,0,0,0,0,0,Low
-441,Patrick,Dorgu,Man Utd,Defender,4.5,4,14/09/2025,1,0,0,90,0,Low
-441,Patrick,Dorgu,Man Utd,Defender,4.5,5,20/09/2025,5,0,1,90,0,Low
-441,Patrick,Dorgu,Man Utd,Defender,4.5,6,27/09/2025,0,0,0,84,0,Low
-441,Patrick,Dorgu,Man Utd,Defender,4.5,7,04/10/2025,1,0,0,26,0,Low
+441,Patrick,Dorgu,Man Utd,Defender,4.4,1,17/08/2025,1,0,0,90,0,Low
+441,Patrick,Dorgu,Man Utd,Defender,4.4,2,24/08/2025,2,0,0,90,0,Low
+441,Patrick,Dorgu,Man Utd,Defender,4.4,3,30/08/2025,0,0,0,0,0,Low
+441,Patrick,Dorgu,Man Utd,Defender,4.4,4,14/09/2025,1,0,0,90,0,Low
+441,Patrick,Dorgu,Man Utd,Defender,4.4,5,20/09/2025,5,0,1,90,0,Low
+441,Patrick,Dorgu,Man Utd,Defender,4.4,6,27/09/2025,0,0,0,84,0,Low
+441,Patrick,Dorgu,Man Utd,Defender,4.4,7,04/10/2025,1,0,0,26,0,Low
 442,Harry,Maguire,Man Utd,Defender,4.4,1,17/08/2025,1,0,0,10,0,Low
 442,Harry,Maguire,Man Utd,Defender,4.4,2,24/08/2025,1,0,0,3,0,Low
 442,Harry,Maguire,Man Utd,Defender,4.4,3,30/08/2025,0,0,0,0,0,Low
@@ -3762,13 +3762,13 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 501,Sean,Neave,Newcastle,Forward,4.4,5,21/09/2025,0,0,0,0,0,Unknown
 501,Sean,Neave,Newcastle,Forward,4.4,6,28/09/2025,0,0,0,0,0,Unknown
 501,Sean,Neave,Newcastle,Forward,4.4,7,05/10/2025,0,0,0,0,0,Unknown
-674,Aaron,Ramsdale,Newcastle,Goalkeeper,4.9,1,16/08/2025,0,0,0,0,0,Medium
-674,Aaron,Ramsdale,Newcastle,Goalkeeper,4.9,2,25/08/2025,0,0,0,0,0,Medium
-674,Aaron,Ramsdale,Newcastle,Goalkeeper,4.9,3,30/08/2025,0,0,0,0,0,Medium
-674,Aaron,Ramsdale,Newcastle,Goalkeeper,4.9,4,13/09/2025,0,0,0,0,0,Medium
-674,Aaron,Ramsdale,Newcastle,Goalkeeper,4.9,5,21/09/2025,0,0,0,0,0,Medium
-674,Aaron,Ramsdale,Newcastle,Goalkeeper,4.9,6,28/09/2025,0,0,0,0,0,Medium
-674,Aaron,Ramsdale,Newcastle,Goalkeeper,4.9,7,05/10/2025,0,0,0,0,0,Medium
+674,Aaron,Ramsdale,Newcastle,Goalkeeper,4.8,1,16/08/2025,0,0,0,0,0,Medium
+674,Aaron,Ramsdale,Newcastle,Goalkeeper,4.8,2,25/08/2025,0,0,0,0,0,Medium
+674,Aaron,Ramsdale,Newcastle,Goalkeeper,4.8,3,30/08/2025,0,0,0,0,0,Medium
+674,Aaron,Ramsdale,Newcastle,Goalkeeper,4.8,4,13/09/2025,0,0,0,0,0,Medium
+674,Aaron,Ramsdale,Newcastle,Goalkeeper,4.8,5,21/09/2025,0,0,0,0,0,Medium
+674,Aaron,Ramsdale,Newcastle,Goalkeeper,4.8,6,28/09/2025,0,0,0,0,0,Medium
+674,Aaron,Ramsdale,Newcastle,Goalkeeper,4.8,7,05/10/2025,0,0,0,0,0,Medium
 684,Malick,Thiaw,Newcastle,Defender,4.9,1,16/08/2025,0,0,0,0,0,Low
 684,Malick,Thiaw,Newcastle,Defender,4.9,2,25/08/2025,1,0,0,9,0,Low
 684,Malick,Thiaw,Newcastle,Defender,4.9,3,30/08/2025,0,0,0,0,0,Low
