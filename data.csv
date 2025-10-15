@@ -160,13 +160,13 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 24,Christian,Nørgaard,Arsenal,Midfielder,5.3,5,21/09/2025,0,0,0,0,0,Low
 24,Christian,Nørgaard,Arsenal,Midfielder,5.3,6,28/09/2025,0,0,0,0,0,Low
 24,Christian,Nørgaard,Arsenal,Midfielder,5.3,7,04/10/2025,0,0,0,0,0,Low
-25,Ethan,Nwaneri,Arsenal,Midfielder,5.3,1,17/08/2025,0,0,0,0,0,Low
-25,Ethan,Nwaneri,Arsenal,Midfielder,5.3,2,23/08/2025,1,0,0,52,0,Low
-25,Ethan,Nwaneri,Arsenal,Midfielder,5.3,3,31/08/2025,0,0,0,0,0,Low
-25,Ethan,Nwaneri,Arsenal,Midfielder,5.3,4,13/09/2025,3,0,0,72,1,Low
-25,Ethan,Nwaneri,Arsenal,Midfielder,5.3,5,21/09/2025,1,0,0,6,0,Low
-25,Ethan,Nwaneri,Arsenal,Midfielder,5.3,6,28/09/2025,0,0,0,0,0,Low
-25,Ethan,Nwaneri,Arsenal,Midfielder,5.3,7,04/10/2025,1,0,0,15,0,Low
+25,Ethan,Nwaneri,Arsenal,Midfielder,5.2,1,17/08/2025,0,0,0,0,0,Low
+25,Ethan,Nwaneri,Arsenal,Midfielder,5.2,2,23/08/2025,1,0,0,52,0,Low
+25,Ethan,Nwaneri,Arsenal,Midfielder,5.2,3,31/08/2025,0,0,0,0,0,Low
+25,Ethan,Nwaneri,Arsenal,Midfielder,5.2,4,13/09/2025,3,0,0,72,1,Low
+25,Ethan,Nwaneri,Arsenal,Midfielder,5.2,5,21/09/2025,1,0,0,6,0,Low
+25,Ethan,Nwaneri,Arsenal,Midfielder,5.2,6,28/09/2025,0,0,0,0,0,Low
+25,Ethan,Nwaneri,Arsenal,Midfielder,5.2,7,04/10/2025,1,0,0,15,0,Low
 26,Martín,Zubimendi Ibáñez,Arsenal,Midfielder,5.5,1,17/08/2025,5,0,0,90,1,Low
 26,Martín,Zubimendi Ibáñez,Arsenal,Midfielder,5.5,2,23/08/2025,3,0,0,90,1,Low
 26,Martín,Zubimendi Ibáñez,Arsenal,Midfielder,5.5,3,31/08/2025,1,0,0,90,0,Low
@@ -3962,13 +3962,13 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 524,Marko,Stamenić,Nott'm Forest,Midfielder,4.5,5,20/09/2025,0,0,0,0,0,Low
 524,Marko,Stamenić,Nott'm Forest,Midfielder,4.5,6,27/09/2025,0,0,0,0,0,Low
 524,Marko,Stamenić,Nott'm Forest,Midfielder,4.5,7,05/10/2025,0,0,0,0,0,Low
-525,Chris,Wood,Nott'm Forest,Forward,7.4,1,17/08/2025,13,2,0,78,0,Low
-525,Chris,Wood,Nott'm Forest,Forward,7.4,2,24/08/2025,2,0,0,87,0,Low
-525,Chris,Wood,Nott'm Forest,Forward,7.4,3,31/08/2025,2,0,0,72,1,Low
-525,Chris,Wood,Nott'm Forest,Forward,7.4,4,13/09/2025,1,0,0,59,0,Low
-525,Chris,Wood,Nott'm Forest,Forward,7.4,5,20/09/2025,2,0,0,74,0,Low
-525,Chris,Wood,Nott'm Forest,Forward,7.4,6,27/09/2025,2,0,0,89,0,Low
-525,Chris,Wood,Nott'm Forest,Forward,7.4,7,05/10/2025,2,0,0,63,0,Low
+525,Chris,Wood,Nott'm Forest,Forward,7.3,1,17/08/2025,13,2,0,78,0,Low
+525,Chris,Wood,Nott'm Forest,Forward,7.3,2,24/08/2025,2,0,0,87,0,Low
+525,Chris,Wood,Nott'm Forest,Forward,7.3,3,31/08/2025,2,0,0,72,1,Low
+525,Chris,Wood,Nott'm Forest,Forward,7.3,4,13/09/2025,1,0,0,59,0,Low
+525,Chris,Wood,Nott'm Forest,Forward,7.3,5,20/09/2025,2,0,0,74,0,Low
+525,Chris,Wood,Nott'm Forest,Forward,7.3,6,27/09/2025,2,0,0,89,0,Low
+525,Chris,Wood,Nott'm Forest,Forward,7.3,7,05/10/2025,2,0,0,63,0,Low
 526,Igor Jesus,Maciel da Cruz,Nott'm Forest,Forward,5.8,1,17/08/2025,1,0,0,11,0,Low
 526,Igor Jesus,Maciel da Cruz,Nott'm Forest,Forward,5.8,2,24/08/2025,1,0,0,2,0,Low
 526,Igor Jesus,Maciel da Cruz,Nott'm Forest,Forward,5.8,3,31/08/2025,1,0,0,17,0,Low
@@ -4455,13 +4455,13 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 581,James,Maddison,Spurs,Midfielder,6.9,5,20/09/2025,0,0,0,0,0,Low
 581,James,Maddison,Spurs,Midfielder,6.9,6,27/09/2025,0,0,0,0,0,Low
 581,James,Maddison,Spurs,Midfielder,6.9,7,04/10/2025,0,0,0,0,0,Low
-582,Mohammed,Kudus,Spurs,Midfielder,6.7,1,16/08/2025,10,0,2,84,1,Low
-582,Mohammed,Kudus,Spurs,Midfielder,6.7,2,23/08/2025,3,0,0,85,1,Low
-582,Mohammed,Kudus,Spurs,Midfielder,6.7,3,30/08/2025,2,0,0,90,0,Low
-582,Mohammed,Kudus,Spurs,Midfielder,6.7,4,13/09/2025,3,0,0,90,1,Low
-582,Mohammed,Kudus,Spurs,Midfielder,6.7,5,20/09/2025,7,0,2,90,0,Low
-582,Mohammed,Kudus,Spurs,Midfielder,6.7,6,27/09/2025,2,0,0,90,0,Low
-582,Mohammed,Kudus,Spurs,Midfielder,6.7,7,04/10/2025,12,1,1,89,0,Low
+582,Mohammed,Kudus,Spurs,Midfielder,6.8,1,16/08/2025,10,0,2,84,1,Low
+582,Mohammed,Kudus,Spurs,Midfielder,6.8,2,23/08/2025,3,0,0,85,1,Low
+582,Mohammed,Kudus,Spurs,Midfielder,6.8,3,30/08/2025,2,0,0,90,0,Low
+582,Mohammed,Kudus,Spurs,Midfielder,6.8,4,13/09/2025,3,0,0,90,1,Low
+582,Mohammed,Kudus,Spurs,Midfielder,6.8,5,20/09/2025,7,0,2,90,0,Low
+582,Mohammed,Kudus,Spurs,Midfielder,6.8,6,27/09/2025,2,0,0,90,0,Low
+582,Mohammed,Kudus,Spurs,Midfielder,6.8,7,04/10/2025,12,1,1,89,0,Low
 583,Dejan,Kulusevski,Spurs,Midfielder,6.4,1,16/08/2025,0,0,0,0,0,Low
 583,Dejan,Kulusevski,Spurs,Midfielder,6.4,2,23/08/2025,0,0,0,0,0,Low
 583,Dejan,Kulusevski,Spurs,Midfielder,6.4,3,30/08/2025,0,0,0,0,0,Low
