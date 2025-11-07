@@ -239,16 +239,16 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 25,Ethan,Nwaneri,Arsenal,Midfielder,5.2,8,18/10/2025,0,0,0,0,0,Low
 25,Ethan,Nwaneri,Arsenal,Midfielder,5.2,9,26/10/2025,0,0,0,0,0,Low
 25,Ethan,Nwaneri,Arsenal,Midfielder,5.2,10,01/11/2025,1,0,0,18,0,Low
-26,Martín,Zubimendi Ibáñez,Arsenal,Midfielder,5.5,1,17/08/2025,5,0,0,90,1,Low
-26,Martín,Zubimendi Ibáñez,Arsenal,Midfielder,5.5,2,23/08/2025,3,0,0,90,1,Low
-26,Martín,Zubimendi Ibáñez,Arsenal,Midfielder,5.5,3,31/08/2025,1,0,0,90,0,Low
-26,Martín,Zubimendi Ibáñez,Arsenal,Midfielder,5.5,4,13/09/2025,16,2,0,90,1,Low
-26,Martín,Zubimendi Ibáñez,Arsenal,Midfielder,5.5,5,21/09/2025,2,0,0,90,0,Low
-26,Martín,Zubimendi Ibáñez,Arsenal,Midfielder,5.5,6,28/09/2025,2,0,0,81,0,Low
-26,Martín,Zubimendi Ibáñez,Arsenal,Midfielder,5.5,7,04/10/2025,3,0,0,60,1,Low
-26,Martín,Zubimendi Ibáñez,Arsenal,Midfielder,5.5,8,18/10/2025,3,0,0,90,1,Low
-26,Martín,Zubimendi Ibáñez,Arsenal,Midfielder,5.5,9,26/10/2025,5,0,0,90,1,Low
-26,Martín,Zubimendi Ibáñez,Arsenal,Midfielder,5.5,10,01/11/2025,3,0,0,76,1,Low
+26,Martín,Zubimendi Ibáñez,Arsenal,Midfielder,5.4,1,17/08/2025,5,0,0,90,1,Low
+26,Martín,Zubimendi Ibáñez,Arsenal,Midfielder,5.4,2,23/08/2025,3,0,0,90,1,Low
+26,Martín,Zubimendi Ibáñez,Arsenal,Midfielder,5.4,3,31/08/2025,1,0,0,90,0,Low
+26,Martín,Zubimendi Ibáñez,Arsenal,Midfielder,5.4,4,13/09/2025,16,2,0,90,1,Low
+26,Martín,Zubimendi Ibáñez,Arsenal,Midfielder,5.4,5,21/09/2025,2,0,0,90,0,Low
+26,Martín,Zubimendi Ibáñez,Arsenal,Midfielder,5.4,6,28/09/2025,2,0,0,81,0,Low
+26,Martín,Zubimendi Ibáñez,Arsenal,Midfielder,5.4,7,04/10/2025,3,0,0,60,1,Low
+26,Martín,Zubimendi Ibáñez,Arsenal,Midfielder,5.4,8,18/10/2025,3,0,0,90,1,Low
+26,Martín,Zubimendi Ibáñez,Arsenal,Midfielder,5.4,9,26/10/2025,5,0,0,90,1,Low
+26,Martín,Zubimendi Ibáñez,Arsenal,Midfielder,5.4,10,01/11/2025,3,0,0,76,1,Low
 28,Ismeal,Kabia,Arsenal,Midfielder,4.5,1,17/08/2025,0,0,0,0,0,Low
 28,Ismeal,Kabia,Arsenal,Midfielder,4.5,2,23/08/2025,0,0,0,0,0,Low
 28,Ismeal,Kabia,Arsenal,Midfielder,4.5,3,31/08/2025,0,0,0,0,0,Low
@@ -1492,16 +1492,16 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 99,Daniel,Adu-Adjei,Bournemouth,Forward,4.4,8,18/10/2025,0,0,0,0,0,Unknown
 99,Daniel,Adu-Adjei,Bournemouth,Forward,4.4,9,26/10/2025,0,0,0,0,0,Unknown
 99,Daniel,Adu-Adjei,Bournemouth,Forward,4.4,10,02/11/2025,0,0,0,0,0,Unknown
-100,Eli Junior,Kroupi,Bournemouth,Forward,4.6,1,15/08/2025,1,0,0,1,0,Low
-100,Eli Junior,Kroupi,Bournemouth,Forward,4.6,2,23/08/2025,1,0,0,2,0,Low
-100,Eli Junior,Kroupi,Bournemouth,Forward,4.6,3,30/08/2025,1,0,0,9,0,Low
-100,Eli Junior,Kroupi,Bournemouth,Forward,4.6,4,13/09/2025,0,0,0,0,0,Low
-100,Eli Junior,Kroupi,Bournemouth,Forward,4.6,5,21/09/2025,0,0,0,0,0,Low
-100,Eli Junior,Kroupi,Bournemouth,Forward,4.6,6,27/09/2025,6,1,0,9,0,Low
-100,Eli Junior,Kroupi,Bournemouth,Forward,4.6,7,03/10/2025,0,0,0,0,0,Low
-100,Eli Junior,Kroupi,Bournemouth,Forward,4.6,8,18/10/2025,12,2,0,74,0,Low
-100,Eli Junior,Kroupi,Bournemouth,Forward,4.6,9,26/10/2025,6,1,0,68,1,Low
-100,Eli Junior,Kroupi,Bournemouth,Forward,4.6,10,02/11/2025,2,0,0,61,0,Low
+100,Junior,Kroupi,Bournemouth,Forward,4.6,1,15/08/2025,1,0,0,1,0,Low
+100,Junior,Kroupi,Bournemouth,Forward,4.6,2,23/08/2025,1,0,0,2,0,Low
+100,Junior,Kroupi,Bournemouth,Forward,4.6,3,30/08/2025,1,0,0,9,0,Low
+100,Junior,Kroupi,Bournemouth,Forward,4.6,4,13/09/2025,0,0,0,0,0,Low
+100,Junior,Kroupi,Bournemouth,Forward,4.6,5,21/09/2025,0,0,0,0,0,Low
+100,Junior,Kroupi,Bournemouth,Forward,4.6,6,27/09/2025,6,1,0,9,0,Low
+100,Junior,Kroupi,Bournemouth,Forward,4.6,7,03/10/2025,0,0,0,0,0,Low
+100,Junior,Kroupi,Bournemouth,Forward,4.6,8,18/10/2025,12,2,0,74,0,Low
+100,Junior,Kroupi,Bournemouth,Forward,4.6,9,26/10/2025,6,1,0,68,1,Low
+100,Junior,Kroupi,Bournemouth,Forward,4.6,10,02/11/2025,2,0,0,61,0,Low
 391,Ben,Gannon-Doak,Bournemouth,Midfielder,4.9,1,15/08/2025,0,0,0,0,0,Low
 391,Ben,Gannon-Doak,Bournemouth,Midfielder,4.9,2,23/08/2025,0,0,0,0,0,Low
 391,Ben,Gannon-Doak,Bournemouth,Midfielder,4.9,3,30/08/2025,0,0,0,0,0,Low
@@ -4230,16 +4230,16 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 386,Alexis,Mac Allister,Liverpool,Midfielder,6.3,8,19/10/2025,2,0,0,61,0,Low
 386,Alexis,Mac Allister,Liverpool,Midfielder,6.3,9,25/10/2025,1,0,0,28,0,Low
 386,Alexis,Mac Allister,Liverpool,Midfielder,6.3,10,01/11/2025,6,0,1,90,1,Low
-387,Dominik,Szoboszlai,Liverpool,Midfielder,6.5,1,15/08/2025,2,0,0,90,0,Low
-387,Dominik,Szoboszlai,Liverpool,Midfielder,6.5,2,25/08/2025,2,0,0,90,0,Low
-387,Dominik,Szoboszlai,Liverpool,Midfielder,6.5,3,31/08/2025,13,1,0,90,1,Low
-387,Dominik,Szoboszlai,Liverpool,Midfielder,6.5,4,14/09/2025,3,0,0,90,1,Low
-387,Dominik,Szoboszlai,Liverpool,Midfielder,6.5,5,20/09/2025,1,0,0,90,0,Low
-387,Dominik,Szoboszlai,Liverpool,Midfielder,6.5,6,27/09/2025,5,0,0,90,0,Low
-387,Dominik,Szoboszlai,Liverpool,Midfielder,6.5,7,04/10/2025,1,0,0,90,0,Low
-387,Dominik,Szoboszlai,Liverpool,Midfielder,6.5,8,19/10/2025,4,0,0,90,0,Low
-387,Dominik,Szoboszlai,Liverpool,Midfielder,6.5,9,25/10/2025,10,0,1,90,0,Low
-387,Dominik,Szoboszlai,Liverpool,Midfielder,6.5,10,01/11/2025,2,0,0,90,1,Low
+387,Dominik,Szoboszlai,Liverpool,Midfielder,6.6,1,15/08/2025,2,0,0,90,0,Low
+387,Dominik,Szoboszlai,Liverpool,Midfielder,6.6,2,25/08/2025,2,0,0,90,0,Low
+387,Dominik,Szoboszlai,Liverpool,Midfielder,6.6,3,31/08/2025,13,1,0,90,1,Low
+387,Dominik,Szoboszlai,Liverpool,Midfielder,6.6,4,14/09/2025,3,0,0,90,1,Low
+387,Dominik,Szoboszlai,Liverpool,Midfielder,6.6,5,20/09/2025,1,0,0,90,0,Low
+387,Dominik,Szoboszlai,Liverpool,Midfielder,6.6,6,27/09/2025,5,0,0,90,0,Low
+387,Dominik,Szoboszlai,Liverpool,Midfielder,6.6,7,04/10/2025,1,0,0,90,0,Low
+387,Dominik,Szoboszlai,Liverpool,Midfielder,6.6,8,19/10/2025,4,0,0,90,0,Low
+387,Dominik,Szoboszlai,Liverpool,Midfielder,6.6,9,25/10/2025,10,0,1,90,0,Low
+387,Dominik,Szoboszlai,Liverpool,Midfielder,6.6,10,01/11/2025,2,0,0,90,1,Low
 388,Curtis,Jones,Liverpool,Midfielder,5.4,1,15/08/2025,1,0,0,18,0,Low
 388,Curtis,Jones,Liverpool,Midfielder,5.4,2,25/08/2025,2,0,0,90,0,Low
 388,Curtis,Jones,Liverpool,Midfielder,5.4,3,31/08/2025,4,0,1,29,0,Low
