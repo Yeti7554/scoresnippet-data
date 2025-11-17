@@ -832,17 +832,17 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 719,Victor,Lindelöf,Aston Villa,Defender,4.5,9,26/10/2025,0,0,0,0,0,Low
 719,Victor,Lindelöf,Aston Villa,Defender,4.5,10,01/11/2025,0,0,0,0,0,Low
 719,Victor,Lindelöf,Aston Villa,Defender,4.5,11,09/11/2025,0,0,0,0,0,Low
-183,Max,Weiß,Burnley,Goalkeeper,4.4,1,16/08/2025,0,0,0,0,0,Low
-183,Max,Weiß,Burnley,Goalkeeper,4.4,2,23/08/2025,0,0,0,0,0,Low
-183,Max,Weiß,Burnley,Goalkeeper,4.4,3,30/08/2025,0,0,0,0,0,Low
-183,Max,Weiß,Burnley,Goalkeeper,4.4,4,14/09/2025,0,0,0,0,0,Low
-183,Max,Weiß,Burnley,Goalkeeper,4.4,5,20/09/2025,0,0,0,0,0,Low
-183,Max,Weiß,Burnley,Goalkeeper,4.4,6,27/09/2025,0,0,0,0,0,Low
-183,Max,Weiß,Burnley,Goalkeeper,4.4,7,05/10/2025,0,0,0,0,0,Low
-183,Max,Weiß,Burnley,Goalkeeper,4.4,8,18/10/2025,0,0,0,0,0,Low
-183,Max,Weiß,Burnley,Goalkeeper,4.4,9,26/10/2025,0,0,0,0,0,Low
-183,Max,Weiß,Burnley,Goalkeeper,4.4,10,01/11/2025,0,0,0,0,0,Low
-183,Max,Weiß,Burnley,Goalkeeper,4.4,11,08/11/2025,0,0,0,0,0,Low
+183,Max,Weiß,Burnley,Goalkeeper,4.3,1,16/08/2025,0,0,0,0,0,Low
+183,Max,Weiß,Burnley,Goalkeeper,4.3,2,23/08/2025,0,0,0,0,0,Low
+183,Max,Weiß,Burnley,Goalkeeper,4.3,3,30/08/2025,0,0,0,0,0,Low
+183,Max,Weiß,Burnley,Goalkeeper,4.3,4,14/09/2025,0,0,0,0,0,Low
+183,Max,Weiß,Burnley,Goalkeeper,4.3,5,20/09/2025,0,0,0,0,0,Low
+183,Max,Weiß,Burnley,Goalkeeper,4.3,6,27/09/2025,0,0,0,0,0,Low
+183,Max,Weiß,Burnley,Goalkeeper,4.3,7,05/10/2025,0,0,0,0,0,Low
+183,Max,Weiß,Burnley,Goalkeeper,4.3,8,18/10/2025,0,0,0,0,0,Low
+183,Max,Weiß,Burnley,Goalkeeper,4.3,9,26/10/2025,0,0,0,0,0,Low
+183,Max,Weiß,Burnley,Goalkeeper,4.3,10,01/11/2025,0,0,0,0,0,Low
+183,Max,Weiß,Burnley,Goalkeeper,4.3,11,08/11/2025,0,0,0,0,0,Low
 184,Etienne,Green,Burnley,Goalkeeper,4.0,1,16/08/2025,0,0,0,0,0,Low
 184,Etienne,Green,Burnley,Goalkeeper,4.0,2,23/08/2025,0,0,0,0,0,Low
 184,Etienne,Green,Burnley,Goalkeeper,4.0,3,30/08/2025,0,0,0,0,0,Low
@@ -920,17 +920,17 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 190,Hjalmar,Ekdal,Burnley,Defender,4.0,9,26/10/2025,1,0,0,1,0,Low
 190,Hjalmar,Ekdal,Burnley,Defender,4.0,10,01/11/2025,0,0,0,0,0,Low
 190,Hjalmar,Ekdal,Burnley,Defender,4.0,11,08/11/2025,0,0,0,0,0,Low
-191,Maxime,Estève,Burnley,Defender,4.0,1,16/08/2025,1,0,0,90,0,Low
-191,Maxime,Estève,Burnley,Defender,4.0,2,23/08/2025,6,0,0,82,1,Low
-191,Maxime,Estève,Burnley,Defender,4.0,3,30/08/2025,1,0,0,90,0,Low
-191,Maxime,Estève,Burnley,Defender,4.0,4,14/09/2025,4,0,0,90,0,Low
-191,Maxime,Estève,Burnley,Defender,4.0,5,20/09/2025,4,0,0,90,0,Low
-191,Maxime,Estève,Burnley,Defender,4.0,6,27/09/2025,-2,0,0,90,0,Low
-191,Maxime,Estève,Burnley,Defender,4.0,7,05/10/2025,1,0,0,90,0,Low
-191,Maxime,Estève,Burnley,Defender,4.0,8,18/10/2025,8,0,0,90,1,Low
-191,Maxime,Estève,Burnley,Defender,4.0,9,26/10/2025,1,0,0,90,0,Low
-191,Maxime,Estève,Burnley,Defender,4.0,10,01/11/2025,1,0,0,90,0,Low
-191,Maxime,Estève,Burnley,Defender,4.0,11,08/11/2025,3,0,0,90,0,Low
+191,Maxime,Estève,Burnley,Defender,3.9,1,16/08/2025,1,0,0,90,0,Low
+191,Maxime,Estève,Burnley,Defender,3.9,2,23/08/2025,6,0,0,82,1,Low
+191,Maxime,Estève,Burnley,Defender,3.9,3,30/08/2025,1,0,0,90,0,Low
+191,Maxime,Estève,Burnley,Defender,3.9,4,14/09/2025,4,0,0,90,0,Low
+191,Maxime,Estève,Burnley,Defender,3.9,5,20/09/2025,4,0,0,90,0,Low
+191,Maxime,Estève,Burnley,Defender,3.9,6,27/09/2025,-2,0,0,90,0,Low
+191,Maxime,Estève,Burnley,Defender,3.9,7,05/10/2025,1,0,0,90,0,Low
+191,Maxime,Estève,Burnley,Defender,3.9,8,18/10/2025,8,0,0,90,1,Low
+191,Maxime,Estève,Burnley,Defender,3.9,9,26/10/2025,1,0,0,90,0,Low
+191,Maxime,Estève,Burnley,Defender,3.9,10,01/11/2025,1,0,0,90,0,Low
+191,Maxime,Estève,Burnley,Defender,3.9,11,08/11/2025,3,0,0,90,0,Low
 192,Quilindschy,Hartman,Burnley,Defender,4.0,1,16/08/2025,1,0,0,90,0,Low
 192,Quilindschy,Hartman,Burnley,Defender,4.0,2,23/08/2025,6,0,0,90,1,Low
 192,Quilindschy,Hartman,Burnley,Defender,4.0,3,30/08/2025,1,0,0,90,0,Low
@@ -7825,17 +7825,17 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 641,Alfie,Pond,Wolves,Defender,3.9,9,26/10/2025,0,0,0,0,0,Low
 641,Alfie,Pond,Wolves,Defender,3.9,10,01/11/2025,0,0,0,0,0,Low
 641,Alfie,Pond,Wolves,Defender,3.9,11,08/11/2025,0,0,0,0,0,Low
-642,Hwang,Hee-chan,Wolves,Midfielder,5.8,1,16/08/2025,1,0,0,8,0,Low
-642,Hwang,Hee-chan,Wolves,Midfielder,5.8,2,23/08/2025,1,0,0,12,0,Low
-642,Hwang,Hee-chan,Wolves,Midfielder,5.8,3,30/08/2025,7,1,0,75,0,Low
-642,Hwang,Hee-chan,Wolves,Midfielder,5.8,4,13/09/2025,2,0,0,76,0,Low
-642,Hwang,Hee-chan,Wolves,Midfielder,5.8,5,20/09/2025,0,0,0,0,0,Low
-642,Hwang,Hee-chan,Wolves,Midfielder,5.8,6,27/09/2025,1,0,0,45,0,Low
-642,Hwang,Hee-chan,Wolves,Midfielder,5.8,7,05/10/2025,1,0,0,59,0,Low
-642,Hwang,Hee-chan,Wolves,Midfielder,5.8,8,18/10/2025,0,0,0,0,0,Low
-642,Hwang,Hee-chan,Wolves,Midfielder,5.8,9,26/10/2025,1,0,0,22,0,Low
-642,Hwang,Hee-chan,Wolves,Midfielder,5.8,10,01/11/2025,0,0,0,0,0,Low
-642,Hwang,Hee-chan,Wolves,Midfielder,5.8,11,08/11/2025,2,0,0,69,0,Low
+642,Hwang,Hee-chan,Wolves,Midfielder,5.7,1,16/08/2025,1,0,0,8,0,Low
+642,Hwang,Hee-chan,Wolves,Midfielder,5.7,2,23/08/2025,1,0,0,12,0,Low
+642,Hwang,Hee-chan,Wolves,Midfielder,5.7,3,30/08/2025,7,1,0,75,0,Low
+642,Hwang,Hee-chan,Wolves,Midfielder,5.7,4,13/09/2025,2,0,0,76,0,Low
+642,Hwang,Hee-chan,Wolves,Midfielder,5.7,5,20/09/2025,0,0,0,0,0,Low
+642,Hwang,Hee-chan,Wolves,Midfielder,5.7,6,27/09/2025,1,0,0,45,0,Low
+642,Hwang,Hee-chan,Wolves,Midfielder,5.7,7,05/10/2025,1,0,0,59,0,Low
+642,Hwang,Hee-chan,Wolves,Midfielder,5.7,8,18/10/2025,0,0,0,0,0,Low
+642,Hwang,Hee-chan,Wolves,Midfielder,5.7,9,26/10/2025,1,0,0,22,0,Low
+642,Hwang,Hee-chan,Wolves,Midfielder,5.7,10,01/11/2025,0,0,0,0,0,Low
+642,Hwang,Hee-chan,Wolves,Midfielder,5.7,11,08/11/2025,2,0,0,69,0,Low
 643,André,Trindade da Costa Neto,Wolves,Midfielder,5.3,1,16/08/2025,4,0,0,71,0,Low
 643,André,Trindade da Costa Neto,Wolves,Midfielder,5.3,2,23/08/2025,1,0,0,45,0,Low
 643,André,Trindade da Costa Neto,Wolves,Midfielder,5.3,3,30/08/2025,2,0,0,63,0,Low
@@ -8023,17 +8023,17 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 663,Jhon,Arias,Wolves,Midfielder,5.1,9,26/10/2025,2,0,0,67,0,Low
 663,Jhon,Arias,Wolves,Midfielder,5.1,10,01/11/2025,1,0,0,45,0,Low
 663,Jhon,Arias,Wolves,Midfielder,5.1,11,08/11/2025,0,0,0,0,0,Low
-682,David,Møller Wolfe,Wolves,Defender,4.4,1,16/08/2025,1,0,0,71,0,Low
-682,David,Møller Wolfe,Wolves,Defender,4.4,2,23/08/2025,1,0,0,45,0,Low
-682,David,Møller Wolfe,Wolves,Defender,4.4,3,30/08/2025,4,0,1,15,0,Low
-682,David,Møller Wolfe,Wolves,Defender,4.4,4,13/09/2025,0,0,0,0,0,Low
-682,David,Møller Wolfe,Wolves,Defender,4.4,5,20/09/2025,0,0,0,0,0,Low
-682,David,Møller Wolfe,Wolves,Defender,4.4,6,27/09/2025,0,0,0,0,0,Low
-682,David,Møller Wolfe,Wolves,Defender,4.4,7,05/10/2025,1,0,0,13,0,Low
-682,David,Møller Wolfe,Wolves,Defender,4.4,8,18/10/2025,0,0,0,0,0,Low
-682,David,Møller Wolfe,Wolves,Defender,4.4,9,26/10/2025,1,0,0,5,0,Low
-682,David,Møller Wolfe,Wolves,Defender,4.4,10,01/11/2025,0,0,0,0,0,Low
-682,David,Møller Wolfe,Wolves,Defender,4.4,11,08/11/2025,0,0,0,0,0,Low
+682,David,Møller Wolfe,Wolves,Defender,4.3,1,16/08/2025,1,0,0,71,0,Low
+682,David,Møller Wolfe,Wolves,Defender,4.3,2,23/08/2025,1,0,0,45,0,Low
+682,David,Møller Wolfe,Wolves,Defender,4.3,3,30/08/2025,4,0,1,15,0,Low
+682,David,Møller Wolfe,Wolves,Defender,4.3,4,13/09/2025,0,0,0,0,0,Low
+682,David,Møller Wolfe,Wolves,Defender,4.3,5,20/09/2025,0,0,0,0,0,Low
+682,David,Møller Wolfe,Wolves,Defender,4.3,6,27/09/2025,0,0,0,0,0,Low
+682,David,Møller Wolfe,Wolves,Defender,4.3,7,05/10/2025,1,0,0,13,0,Low
+682,David,Møller Wolfe,Wolves,Defender,4.3,8,18/10/2025,0,0,0,0,0,Low
+682,David,Møller Wolfe,Wolves,Defender,4.3,9,26/10/2025,1,0,0,5,0,Low
+682,David,Møller Wolfe,Wolves,Defender,4.3,10,01/11/2025,0,0,0,0,0,Low
+682,David,Møller Wolfe,Wolves,Defender,4.3,11,08/11/2025,0,0,0,0,0,Low
 695,Jackson,Tchatchoua,Wolves,Defender,4.5,2,23/08/2025,1,0,0,55,0,Low
 695,Jackson,Tchatchoua,Wolves,Defender,4.5,3,30/08/2025,1,0,0,62,0,Low
 695,Jackson,Tchatchoua,Wolves,Defender,4.5,4,13/09/2025,1,0,0,13,0,Low
