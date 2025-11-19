@@ -1768,17 +1768,17 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 103,Matthew,Cox,Brentford,Goalkeeper,4.0,9,25/10/2025,0,0,0,0,0,Low
 103,Matthew,Cox,Brentford,Goalkeeper,4.0,10,01/11/2025,0,0,0,0,0,Low
 103,Matthew,Cox,Brentford,Goalkeeper,4.0,11,09/11/2025,0,0,0,0,0,Low
-104,Julian,Eyestone,Brentford,Goalkeeper,4.0,1,17/08/2025,0,0,0,0,0,Low
-104,Julian,Eyestone,Brentford,Goalkeeper,4.0,2,23/08/2025,0,0,0,0,0,Low
-104,Julian,Eyestone,Brentford,Goalkeeper,4.0,3,30/08/2025,0,0,0,0,0,Low
-104,Julian,Eyestone,Brentford,Goalkeeper,4.0,4,13/09/2025,0,0,0,0,0,Low
-104,Julian,Eyestone,Brentford,Goalkeeper,4.0,5,20/09/2025,0,0,0,0,0,Low
-104,Julian,Eyestone,Brentford,Goalkeeper,4.0,6,27/09/2025,0,0,0,0,0,Low
-104,Julian,Eyestone,Brentford,Goalkeeper,4.0,7,05/10/2025,0,0,0,0,0,Low
-104,Julian,Eyestone,Brentford,Goalkeeper,4.0,8,20/10/2025,0,0,0,0,0,Low
-104,Julian,Eyestone,Brentford,Goalkeeper,4.0,9,25/10/2025,0,0,0,0,0,Low
-104,Julian,Eyestone,Brentford,Goalkeeper,4.0,10,01/11/2025,0,0,0,0,0,Low
-104,Julian,Eyestone,Brentford,Goalkeeper,4.0,11,09/11/2025,0,0,0,0,0,Low
+104,Julian,Eyestone,Brentford,Goalkeeper,3.9,1,17/08/2025,0,0,0,0,0,Low
+104,Julian,Eyestone,Brentford,Goalkeeper,3.9,2,23/08/2025,0,0,0,0,0,Low
+104,Julian,Eyestone,Brentford,Goalkeeper,3.9,3,30/08/2025,0,0,0,0,0,Low
+104,Julian,Eyestone,Brentford,Goalkeeper,3.9,4,13/09/2025,0,0,0,0,0,Low
+104,Julian,Eyestone,Brentford,Goalkeeper,3.9,5,20/09/2025,0,0,0,0,0,Low
+104,Julian,Eyestone,Brentford,Goalkeeper,3.9,6,27/09/2025,0,0,0,0,0,Low
+104,Julian,Eyestone,Brentford,Goalkeeper,3.9,7,05/10/2025,0,0,0,0,0,Low
+104,Julian,Eyestone,Brentford,Goalkeeper,3.9,8,20/10/2025,0,0,0,0,0,Low
+104,Julian,Eyestone,Brentford,Goalkeeper,3.9,9,25/10/2025,0,0,0,0,0,Low
+104,Julian,Eyestone,Brentford,Goalkeeper,3.9,10,01/11/2025,0,0,0,0,0,Low
+104,Julian,Eyestone,Brentford,Goalkeeper,3.9,11,09/11/2025,0,0,0,0,0,Low
 105,Hákon Rafn,Valdimarsson,Brentford,Goalkeeper,3.9,1,17/08/2025,0,0,0,0,0,Low
 105,Hákon Rafn,Valdimarsson,Brentford,Goalkeeper,3.9,2,23/08/2025,0,0,0,0,0,Low
 105,Hákon Rafn,Valdimarsson,Brentford,Goalkeeper,3.9,3,30/08/2025,0,0,0,0,0,Low
@@ -3010,17 +3010,17 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 255,Remi,Matthews,Crystal Palace,Goalkeeper,3.9,9,26/10/2025,0,0,0,0,0,Low
 255,Remi,Matthews,Crystal Palace,Goalkeeper,3.9,10,01/11/2025,0,0,0,0,0,Low
 255,Remi,Matthews,Crystal Palace,Goalkeeper,3.9,11,09/11/2025,0,0,0,0,0,Low
-256,Daniel,Muñoz Mejía,Crystal Palace,Defender,5.7,1,17/08/2025,5,0,0,90,1,Medium
-256,Daniel,Muñoz Mejía,Crystal Palace,Defender,5.7,2,24/08/2025,5,0,1,90,0,Medium
-256,Daniel,Muñoz Mejía,Crystal Palace,Defender,5.7,3,31/08/2025,9,0,0,90,1,Medium
-256,Daniel,Muñoz Mejía,Crystal Palace,Defender,5.7,4,13/09/2025,5,0,0,90,1,Medium
-256,Daniel,Muñoz Mejía,Crystal Palace,Defender,5.7,5,20/09/2025,2,0,0,90,0,Medium
-256,Daniel,Muñoz Mejía,Crystal Palace,Defender,5.7,6,27/09/2025,2,0,0,90,0,Medium
-256,Daniel,Muñoz Mejía,Crystal Palace,Defender,5.7,7,05/10/2025,8,1,0,90,0,Medium
-256,Daniel,Muñoz Mejía,Crystal Palace,Defender,5.7,8,18/10/2025,10,0,2,90,0,Medium
-256,Daniel,Muñoz Mejía,Crystal Palace,Defender,5.7,9,26/10/2025,2,0,0,90,0,Medium
-256,Daniel,Muñoz Mejía,Crystal Palace,Defender,5.7,10,01/11/2025,6,0,0,90,1,Medium
-256,Daniel,Muñoz Mejía,Crystal Palace,Defender,5.7,11,09/11/2025,6,0,0,90,1,Medium
+256,Daniel,Muñoz Mejía,Crystal Palace,Defender,5.8,1,17/08/2025,5,0,0,90,1,Medium
+256,Daniel,Muñoz Mejía,Crystal Palace,Defender,5.8,2,24/08/2025,5,0,1,90,0,Medium
+256,Daniel,Muñoz Mejía,Crystal Palace,Defender,5.8,3,31/08/2025,9,0,0,90,1,Medium
+256,Daniel,Muñoz Mejía,Crystal Palace,Defender,5.8,4,13/09/2025,5,0,0,90,1,Medium
+256,Daniel,Muñoz Mejía,Crystal Palace,Defender,5.8,5,20/09/2025,2,0,0,90,0,Medium
+256,Daniel,Muñoz Mejía,Crystal Palace,Defender,5.8,6,27/09/2025,2,0,0,90,0,Medium
+256,Daniel,Muñoz Mejía,Crystal Palace,Defender,5.8,7,05/10/2025,8,1,0,90,0,Medium
+256,Daniel,Muñoz Mejía,Crystal Palace,Defender,5.8,8,18/10/2025,10,0,2,90,0,Medium
+256,Daniel,Muñoz Mejía,Crystal Palace,Defender,5.8,9,26/10/2025,2,0,0,90,0,Medium
+256,Daniel,Muñoz Mejía,Crystal Palace,Defender,5.8,10,01/11/2025,6,0,0,90,1,Medium
+256,Daniel,Muñoz Mejía,Crystal Palace,Defender,5.8,11,09/11/2025,6,0,0,90,1,Medium
 257,Maxence,Lacroix,Crystal Palace,Defender,5.0,1,17/08/2025,8,0,0,90,1,Medium
 257,Maxence,Lacroix,Crystal Palace,Defender,5.0,2,24/08/2025,3,0,0,90,0,Medium
 257,Maxence,Lacroix,Crystal Palace,Defender,5.0,3,31/08/2025,11,0,1,90,1,Medium
@@ -4414,15 +4414,15 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 698,Noah,Okafor,Leeds,Midfielder,5.5,9,24/10/2025,4,0,1,45,0,Low
 698,Noah,Okafor,Leeds,Midfielder,5.5,10,01/11/2025,2,0,0,76,0,Low
 698,Noah,Okafor,Leeds,Midfielder,5.5,11,09/11/2025,2,0,0,90,0,Low
-706,James,Justin,Leeds,Defender,4.0,3,30/08/2025,1,0,0,10,0,Low
-706,James,Justin,Leeds,Defender,4.0,4,13/09/2025,0,0,0,0,0,Low
-706,James,Justin,Leeds,Defender,4.0,5,20/09/2025,1,0,0,7,0,Low
-706,James,Justin,Leeds,Defender,4.0,6,27/09/2025,0,0,0,0,0,Low
-706,James,Justin,Leeds,Defender,4.0,7,04/10/2025,1,0,0,1,0,Low
-706,James,Justin,Leeds,Defender,4.0,8,18/10/2025,0,0,0,0,0,Low
-706,James,Justin,Leeds,Defender,4.0,9,24/10/2025,0,0,0,46,0,Low
-706,James,Justin,Leeds,Defender,4.0,10,01/11/2025,1,0,0,13,0,Low
-706,James,Justin,Leeds,Defender,4.0,11,09/11/2025,0,0,0,0,0,Low
+706,James,Justin,Leeds,Defender,3.9,3,30/08/2025,1,0,0,10,0,Low
+706,James,Justin,Leeds,Defender,3.9,4,13/09/2025,0,0,0,0,0,Low
+706,James,Justin,Leeds,Defender,3.9,5,20/09/2025,1,0,0,7,0,Low
+706,James,Justin,Leeds,Defender,3.9,6,27/09/2025,0,0,0,0,0,Low
+706,James,Justin,Leeds,Defender,3.9,7,04/10/2025,1,0,0,1,0,Low
+706,James,Justin,Leeds,Defender,3.9,8,18/10/2025,0,0,0,0,0,Low
+706,James,Justin,Leeds,Defender,3.9,9,24/10/2025,0,0,0,46,0,Low
+706,James,Justin,Leeds,Defender,3.9,10,01/11/2025,1,0,0,13,0,Low
+706,James,Justin,Leeds,Defender,3.9,11,09/11/2025,0,0,0,0,0,Low
 741,Harry,Gray,Leeds,Forward,4.5,5,20/09/2025,0,0,0,0,0,Low
 741,Harry,Gray,Leeds,Forward,4.5,6,27/09/2025,0,0,0,0,0,Low
 741,Harry,Gray,Leeds,Forward,4.5,7,04/10/2025,0,0,0,0,0,Low
