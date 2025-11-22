@@ -5037,17 +5037,17 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 417,Rayan,Cherki,Man City,Midfielder,6.3,9,26/10/2025,1,0,0,14,0,Low
 417,Rayan,Cherki,Man City,Midfielder,6.3,10,02/11/2025,10,0,2,72,0,Low
 417,Rayan,Cherki,Man City,Midfielder,6.3,11,09/11/2025,1,0,0,52,0,Low
-418,Jérémy,Doku,Man City,Midfielder,6.4,1,16/08/2025,3,0,0,65,1,Low
-418,Jérémy,Doku,Man City,Midfielder,6.4,2,23/08/2025,1,0,0,36,0,Low
-418,Jérémy,Doku,Man City,Midfielder,6.4,3,31/08/2025,1,0,0,18,0,Low
-418,Jérémy,Doku,Man City,Midfielder,6.4,4,14/09/2025,10,0,2,76,1,Low
-418,Jérémy,Doku,Man City,Midfielder,6.4,5,21/09/2025,3,0,0,86,1,Low
-418,Jérémy,Doku,Man City,Midfielder,6.4,6,27/09/2025,10,0,2,90,0,Low
-418,Jérémy,Doku,Man City,Midfielder,6.4,7,05/10/2025,1,0,0,14,0,Low
-418,Jérémy,Doku,Man City,Midfielder,6.4,8,18/10/2025,1,0,0,58,0,Low
-418,Jérémy,Doku,Man City,Midfielder,6.4,9,26/10/2025,1,0,0,29,0,Low
-418,Jérémy,Doku,Man City,Midfielder,6.4,10,02/11/2025,2,0,0,72,0,Low
-418,Jérémy,Doku,Man City,Midfielder,6.4,11,09/11/2025,11,1,0,73,1,Low
+418,Jérémy,Doku,Man City,Midfielder,6.5,1,16/08/2025,3,0,0,65,1,Low
+418,Jérémy,Doku,Man City,Midfielder,6.5,2,23/08/2025,1,0,0,36,0,Low
+418,Jérémy,Doku,Man City,Midfielder,6.5,3,31/08/2025,1,0,0,18,0,Low
+418,Jérémy,Doku,Man City,Midfielder,6.5,4,14/09/2025,10,0,2,76,1,Low
+418,Jérémy,Doku,Man City,Midfielder,6.5,5,21/09/2025,3,0,0,86,1,Low
+418,Jérémy,Doku,Man City,Midfielder,6.5,6,27/09/2025,10,0,2,90,0,Low
+418,Jérémy,Doku,Man City,Midfielder,6.5,7,05/10/2025,1,0,0,14,0,Low
+418,Jérémy,Doku,Man City,Midfielder,6.5,8,18/10/2025,1,0,0,58,0,Low
+418,Jérémy,Doku,Man City,Midfielder,6.5,9,26/10/2025,1,0,0,29,0,Low
+418,Jérémy,Doku,Man City,Midfielder,6.5,10,02/11/2025,2,0,0,72,0,Low
+418,Jérémy,Doku,Man City,Midfielder,6.5,11,09/11/2025,11,1,0,73,1,Low
 420,İlkay,Gündoğan,Man City,Midfielder,6.3,1,16/08/2025,0,0,0,0,0,Low
 420,İlkay,Gündoğan,Man City,Midfielder,6.3,2,23/08/2025,0,0,0,0,0,Low
 420,İlkay,Gündoğan,Man City,Midfielder,6.3,3,31/08/2025,0,0,0,0,0,Low
@@ -5801,28 +5801,28 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 484,Matt,Targett,Newcastle,Defender,4.0,9,25/10/2025,0,0,0,0,0,Low
 484,Matt,Targett,Newcastle,Defender,4.0,10,02/11/2025,0,0,0,0,0,Low
 484,Matt,Targett,Newcastle,Defender,4.0,11,09/11/2025,0,0,0,0,0,Low
-485,Anthony,Gordon,Newcastle,Midfielder,7.4,1,16/08/2025,3,0,0,90,1,Medium
-485,Anthony,Gordon,Newcastle,Midfielder,7.4,2,25/08/2025,-2,0,0,47,0,Medium
-485,Anthony,Gordon,Newcastle,Midfielder,7.4,3,30/08/2025,0,0,0,0,0,Medium
-485,Anthony,Gordon,Newcastle,Midfielder,7.4,4,13/09/2025,0,0,0,0,0,Medium
-485,Anthony,Gordon,Newcastle,Midfielder,7.4,5,21/09/2025,0,0,0,0,0,Medium
-485,Anthony,Gordon,Newcastle,Midfielder,7.4,6,28/09/2025,3,0,0,66,1,Medium
-485,Anthony,Gordon,Newcastle,Midfielder,7.4,7,05/10/2025,3,0,0,69,1,Medium
-485,Anthony,Gordon,Newcastle,Midfielder,7.4,8,18/10/2025,2,0,0,69,0,Medium
-485,Anthony,Gordon,Newcastle,Midfielder,7.4,9,25/10/2025,2,0,0,75,0,Medium
-485,Anthony,Gordon,Newcastle,Midfielder,7.4,10,02/11/2025,1,0,0,45,0,Medium
-485,Anthony,Gordon,Newcastle,Midfielder,7.4,11,09/11/2025,0,0,0,0,0,Medium
-486,Anthony,Elanga,Newcastle,Midfielder,6.7,1,16/08/2025,3,0,0,77,1,Low
-486,Anthony,Elanga,Newcastle,Midfielder,6.7,2,25/08/2025,2,0,0,90,0,Low
-486,Anthony,Elanga,Newcastle,Midfielder,6.7,3,30/08/2025,1,0,0,28,0,Low
-486,Anthony,Elanga,Newcastle,Midfielder,6.7,4,13/09/2025,1,0,0,10,0,Low
-486,Anthony,Elanga,Newcastle,Midfielder,6.7,5,21/09/2025,1,0,0,28,0,Low
-486,Anthony,Elanga,Newcastle,Midfielder,6.7,6,28/09/2025,1,0,0,24,0,Low
-486,Anthony,Elanga,Newcastle,Midfielder,6.7,7,05/10/2025,3,0,0,69,1,Low
-486,Anthony,Elanga,Newcastle,Midfielder,6.7,8,18/10/2025,1,0,0,45,0,Low
-486,Anthony,Elanga,Newcastle,Midfielder,6.7,9,25/10/2025,1,0,0,14,0,Low
-486,Anthony,Elanga,Newcastle,Midfielder,6.7,10,02/11/2025,1,0,0,13,0,Low
-486,Anthony,Elanga,Newcastle,Midfielder,6.7,11,09/11/2025,1,0,0,13,0,Low
+485,Anthony,Gordon,Newcastle,Midfielder,7.3,1,16/08/2025,3,0,0,90,1,Low
+485,Anthony,Gordon,Newcastle,Midfielder,7.3,2,25/08/2025,-2,0,0,47,0,Low
+485,Anthony,Gordon,Newcastle,Midfielder,7.3,3,30/08/2025,0,0,0,0,0,Low
+485,Anthony,Gordon,Newcastle,Midfielder,7.3,4,13/09/2025,0,0,0,0,0,Low
+485,Anthony,Gordon,Newcastle,Midfielder,7.3,5,21/09/2025,0,0,0,0,0,Low
+485,Anthony,Gordon,Newcastle,Midfielder,7.3,6,28/09/2025,3,0,0,66,1,Low
+485,Anthony,Gordon,Newcastle,Midfielder,7.3,7,05/10/2025,3,0,0,69,1,Low
+485,Anthony,Gordon,Newcastle,Midfielder,7.3,8,18/10/2025,2,0,0,69,0,Low
+485,Anthony,Gordon,Newcastle,Midfielder,7.3,9,25/10/2025,2,0,0,75,0,Low
+485,Anthony,Gordon,Newcastle,Midfielder,7.3,10,02/11/2025,1,0,0,45,0,Low
+485,Anthony,Gordon,Newcastle,Midfielder,7.3,11,09/11/2025,0,0,0,0,0,Low
+486,Anthony,Elanga,Newcastle,Midfielder,6.6,1,16/08/2025,3,0,0,77,1,Low
+486,Anthony,Elanga,Newcastle,Midfielder,6.6,2,25/08/2025,2,0,0,90,0,Low
+486,Anthony,Elanga,Newcastle,Midfielder,6.6,3,30/08/2025,1,0,0,28,0,Low
+486,Anthony,Elanga,Newcastle,Midfielder,6.6,4,13/09/2025,1,0,0,10,0,Low
+486,Anthony,Elanga,Newcastle,Midfielder,6.6,5,21/09/2025,1,0,0,28,0,Low
+486,Anthony,Elanga,Newcastle,Midfielder,6.6,6,28/09/2025,1,0,0,24,0,Low
+486,Anthony,Elanga,Newcastle,Midfielder,6.6,7,05/10/2025,3,0,0,69,1,Low
+486,Anthony,Elanga,Newcastle,Midfielder,6.6,8,18/10/2025,1,0,0,45,0,Low
+486,Anthony,Elanga,Newcastle,Midfielder,6.6,9,25/10/2025,1,0,0,14,0,Low
+486,Anthony,Elanga,Newcastle,Midfielder,6.6,10,02/11/2025,1,0,0,13,0,Low
+486,Anthony,Elanga,Newcastle,Midfielder,6.6,11,09/11/2025,1,0,0,13,0,Low
 487,Harvey,Barnes,Newcastle,Midfielder,6.3,1,16/08/2025,3,0,0,89,1,Low
 487,Harvey,Barnes,Newcastle,Midfielder,6.3,2,25/08/2025,2,0,0,75,0,Low
 487,Harvey,Barnes,Newcastle,Midfielder,6.3,3,30/08/2025,1,0,0,22,0,Low
