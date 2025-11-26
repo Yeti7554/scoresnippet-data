@@ -347,18 +347,18 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 31,Gabriel,Fernando de Jesus,Arsenal,Forward,6.4,10,01/11/2025,0,0,0,0,0,Low
 31,Gabriel,Fernando de Jesus,Arsenal,Forward,6.4,11,08/11/2025,0,0,0,0,0,Low
 31,Gabriel,Fernando de Jesus,Arsenal,Forward,6.4,12,23/11/2025,0,0,0,0,0,Low
-266,Eberechi,Eze,Arsenal,Midfielder,7.6,1,17/08/2025,3,0,0,83,1,Medium
-266,Eberechi,Eze,Arsenal,Midfielder,7.6,2,24/08/2025,0,0,0,0,0,Medium
-266,Eberechi,Eze,Arsenal,Midfielder,7.6,3,31/08/2025,1,0,0,20,0,Medium
-266,Eberechi,Eze,Arsenal,Midfielder,7.6,4,13/09/2025,6,0,1,78,1,Medium
-266,Eberechi,Eze,Arsenal,Midfielder,7.6,5,21/09/2025,4,0,1,45,0,Medium
-266,Eberechi,Eze,Arsenal,Midfielder,7.6,6,28/09/2025,2,0,0,90,0,Medium
-266,Eberechi,Eze,Arsenal,Midfielder,7.6,7,04/10/2025,6,0,1,78,1,Medium
-266,Eberechi,Eze,Arsenal,Midfielder,7.6,8,18/10/2025,3,0,0,61,1,Medium
-266,Eberechi,Eze,Arsenal,Midfielder,7.6,9,26/10/2025,11,1,0,87,1,Medium
-266,Eberechi,Eze,Arsenal,Midfielder,7.6,10,01/11/2025,3,0,0,71,1,Medium
-266,Eberechi,Eze,Arsenal,Midfielder,7.6,11,08/11/2025,2,0,0,87,0,Medium
-266,Eberechi,Eze,Arsenal,Midfielder,7.6,12,23/11/2025,20,3,0,90,0,Medium
+266,Eberechi,Eze,Arsenal,Midfielder,7.7,1,17/08/2025,3,0,0,83,1,Medium
+266,Eberechi,Eze,Arsenal,Midfielder,7.7,2,24/08/2025,0,0,0,0,0,Medium
+266,Eberechi,Eze,Arsenal,Midfielder,7.7,3,31/08/2025,1,0,0,20,0,Medium
+266,Eberechi,Eze,Arsenal,Midfielder,7.7,4,13/09/2025,6,0,1,78,1,Medium
+266,Eberechi,Eze,Arsenal,Midfielder,7.7,5,21/09/2025,4,0,1,45,0,Medium
+266,Eberechi,Eze,Arsenal,Midfielder,7.7,6,28/09/2025,2,0,0,90,0,Medium
+266,Eberechi,Eze,Arsenal,Midfielder,7.7,7,04/10/2025,6,0,1,78,1,Medium
+266,Eberechi,Eze,Arsenal,Midfielder,7.7,8,18/10/2025,3,0,0,61,1,Medium
+266,Eberechi,Eze,Arsenal,Midfielder,7.7,9,26/10/2025,11,1,0,87,1,Medium
+266,Eberechi,Eze,Arsenal,Midfielder,7.7,10,01/11/2025,3,0,0,71,1,Medium
+266,Eberechi,Eze,Arsenal,Midfielder,7.7,11,08/11/2025,2,0,0,87,0,Medium
+266,Eberechi,Eze,Arsenal,Midfielder,7.7,12,23/11/2025,20,3,0,90,0,Medium
 662,Cristhian,Mosquera,Arsenal,Defender,5.4,1,17/08/2025,0,0,0,0,0,Medium
 662,Cristhian,Mosquera,Arsenal,Defender,5.4,2,23/08/2025,1,0,0,26,0,Medium
 662,Cristhian,Mosquera,Arsenal,Defender,5.4,3,31/08/2025,2,0,0,85,0,Medium
@@ -1054,18 +1054,18 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 194,Jordan,Beyer,Burnley,Defender,4.0,10,01/11/2025,0,0,0,0,0,Low
 194,Jordan,Beyer,Burnley,Defender,4.0,11,08/11/2025,0,0,0,0,0,Low
 194,Jordan,Beyer,Burnley,Defender,4.0,12,22/11/2025,0,0,0,0,0,Low
-195,Lucas,Pires Silva,Burnley,Defender,3.9,1,16/08/2025,0,0,0,0,0,Low
-195,Lucas,Pires Silva,Burnley,Defender,3.9,2,23/08/2025,0,0,0,0,0,Low
-195,Lucas,Pires Silva,Burnley,Defender,3.9,3,30/08/2025,0,0,0,0,0,Low
-195,Lucas,Pires Silva,Burnley,Defender,3.9,4,14/09/2025,0,0,0,0,0,Low
-195,Lucas,Pires Silva,Burnley,Defender,3.9,5,20/09/2025,0,0,0,0,0,Low
-195,Lucas,Pires Silva,Burnley,Defender,3.9,6,27/09/2025,0,0,0,0,0,Low
-195,Lucas,Pires Silva,Burnley,Defender,3.9,7,05/10/2025,0,0,0,0,0,Low
-195,Lucas,Pires Silva,Burnley,Defender,3.9,8,18/10/2025,0,0,0,0,0,Low
-195,Lucas,Pires Silva,Burnley,Defender,3.9,9,26/10/2025,0,0,0,0,0,Low
-195,Lucas,Pires Silva,Burnley,Defender,3.9,10,01/11/2025,0,0,0,0,0,Low
-195,Lucas,Pires Silva,Burnley,Defender,3.9,11,08/11/2025,1,0,0,9,0,Low
-195,Lucas,Pires Silva,Burnley,Defender,3.9,12,22/11/2025,0,0,0,0,0,Low
+195,Lucas,Pires Silva,Burnley,Defender,3.8,1,16/08/2025,0,0,0,0,0,Unknown
+195,Lucas,Pires Silva,Burnley,Defender,3.8,2,23/08/2025,0,0,0,0,0,Unknown
+195,Lucas,Pires Silva,Burnley,Defender,3.8,3,30/08/2025,0,0,0,0,0,Unknown
+195,Lucas,Pires Silva,Burnley,Defender,3.8,4,14/09/2025,0,0,0,0,0,Unknown
+195,Lucas,Pires Silva,Burnley,Defender,3.8,5,20/09/2025,0,0,0,0,0,Unknown
+195,Lucas,Pires Silva,Burnley,Defender,3.8,6,27/09/2025,0,0,0,0,0,Unknown
+195,Lucas,Pires Silva,Burnley,Defender,3.8,7,05/10/2025,0,0,0,0,0,Unknown
+195,Lucas,Pires Silva,Burnley,Defender,3.8,8,18/10/2025,0,0,0,0,0,Unknown
+195,Lucas,Pires Silva,Burnley,Defender,3.8,9,26/10/2025,0,0,0,0,0,Unknown
+195,Lucas,Pires Silva,Burnley,Defender,3.8,10,01/11/2025,0,0,0,0,0,Unknown
+195,Lucas,Pires Silva,Burnley,Defender,3.8,11,08/11/2025,1,0,0,9,0,Unknown
+195,Lucas,Pires Silva,Burnley,Defender,3.8,12,22/11/2025,0,0,0,0,0,Unknown
 196,Shurandy,Sambo,Burnley,Defender,4.0,1,16/08/2025,0,0,0,0,0,Low
 196,Shurandy,Sambo,Burnley,Defender,4.0,2,23/08/2025,0,0,0,0,0,Low
 196,Shurandy,Sambo,Burnley,Defender,4.0,3,30/08/2025,0,0,0,0,0,Low
@@ -1968,18 +1968,18 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 106,Nathan,Collins,Brentford,Defender,4.9,10,01/11/2025,0,0,0,90,0,Low
 106,Nathan,Collins,Brentford,Defender,4.9,11,09/11/2025,2,0,0,90,0,Low
 106,Nathan,Collins,Brentford,Defender,4.9,12,22/11/2025,1,0,0,90,0,Low
-107,Keane,Lewis-Potter,Brentford,Defender,4.9,1,17/08/2025,1,0,0,68,0,Low
-107,Keane,Lewis-Potter,Brentford,Defender,4.9,2,23/08/2025,6,0,0,90,1,Low
-107,Keane,Lewis-Potter,Brentford,Defender,4.9,3,30/08/2025,6,0,0,71,1,Low
-107,Keane,Lewis-Potter,Brentford,Defender,4.9,4,13/09/2025,1,0,0,89,0,Low
-107,Keane,Lewis-Potter,Brentford,Defender,4.9,5,20/09/2025,1,0,0,65,0,Low
-107,Keane,Lewis-Potter,Brentford,Defender,4.9,6,27/09/2025,1,0,0,15,0,Low
-107,Keane,Lewis-Potter,Brentford,Defender,4.9,7,05/10/2025,0,0,0,0,0,Low
-107,Keane,Lewis-Potter,Brentford,Defender,4.9,8,20/10/2025,4,0,1,14,0,Low
-107,Keane,Lewis-Potter,Brentford,Defender,4.9,9,25/10/2025,0,0,0,11,0,Low
-107,Keane,Lewis-Potter,Brentford,Defender,4.9,10,01/11/2025,1,0,0,23,0,Low
-107,Keane,Lewis-Potter,Brentford,Defender,4.9,11,09/11/2025,0,0,0,0,0,Low
-107,Keane,Lewis-Potter,Brentford,Defender,4.9,12,22/11/2025,0,0,0,25,0,Low
+107,Keane,Lewis-Potter,Brentford,Defender,4.8,1,17/08/2025,1,0,0,68,0,Low
+107,Keane,Lewis-Potter,Brentford,Defender,4.8,2,23/08/2025,6,0,0,90,1,Low
+107,Keane,Lewis-Potter,Brentford,Defender,4.8,3,30/08/2025,6,0,0,71,1,Low
+107,Keane,Lewis-Potter,Brentford,Defender,4.8,4,13/09/2025,1,0,0,89,0,Low
+107,Keane,Lewis-Potter,Brentford,Defender,4.8,5,20/09/2025,1,0,0,65,0,Low
+107,Keane,Lewis-Potter,Brentford,Defender,4.8,6,27/09/2025,1,0,0,15,0,Low
+107,Keane,Lewis-Potter,Brentford,Defender,4.8,7,05/10/2025,0,0,0,0,0,Low
+107,Keane,Lewis-Potter,Brentford,Defender,4.8,8,20/10/2025,4,0,1,14,0,Low
+107,Keane,Lewis-Potter,Brentford,Defender,4.8,9,25/10/2025,0,0,0,11,0,Low
+107,Keane,Lewis-Potter,Brentford,Defender,4.8,10,01/11/2025,1,0,0,23,0,Low
+107,Keane,Lewis-Potter,Brentford,Defender,4.8,11,09/11/2025,0,0,0,0,0,Low
+107,Keane,Lewis-Potter,Brentford,Defender,4.8,12,22/11/2025,0,0,0,25,0,Low
 108,Kristoffer,Ajer,Brentford,Defender,4.4,1,17/08/2025,0,0,0,0,0,Low
 108,Kristoffer,Ajer,Brentford,Defender,4.4,2,23/08/2025,1,0,0,5,0,Low
 108,Kristoffer,Ajer,Brentford,Defender,4.4,3,30/08/2025,0,0,0,0,0,Low
@@ -4174,30 +4174,30 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 319,Timothy,Castagne,Fulham,Defender,4.4,10,01/11/2025,0,0,0,0,0,Low
 319,Timothy,Castagne,Fulham,Defender,4.4,11,08/11/2025,0,0,0,0,0,Low
 319,Timothy,Castagne,Fulham,Defender,4.4,12,22/11/2025,1,0,0,1,0,Low
-320,Issa,Diop,Fulham,Defender,4.4,1,16/08/2025,0,0,0,0,0,Low
-320,Issa,Diop,Fulham,Defender,4.4,2,24/08/2025,0,0,0,0,0,Low
-320,Issa,Diop,Fulham,Defender,4.4,3,30/08/2025,0,0,0,0,0,Low
-320,Issa,Diop,Fulham,Defender,4.4,4,13/09/2025,0,0,0,0,0,Low
-320,Issa,Diop,Fulham,Defender,4.4,5,20/09/2025,0,0,0,0,0,Low
-320,Issa,Diop,Fulham,Defender,4.4,6,28/09/2025,0,0,0,0,0,Low
-320,Issa,Diop,Fulham,Defender,4.4,7,03/10/2025,2,0,0,85,0,Low
-320,Issa,Diop,Fulham,Defender,4.4,8,18/10/2025,1,0,0,48,0,Low
-320,Issa,Diop,Fulham,Defender,4.4,9,25/10/2025,1,0,0,90,0,Low
-320,Issa,Diop,Fulham,Defender,4.4,10,01/11/2025,0,0,0,0,0,Low
-320,Issa,Diop,Fulham,Defender,4.4,11,08/11/2025,0,0,0,0,0,Low
-320,Issa,Diop,Fulham,Defender,4.4,12,22/11/2025,0,0,0,0,0,Low
-321,Jorge,Cuenca Barreno,Fulham,Defender,4.4,1,16/08/2025,2,0,0,83,0,Low
-321,Jorge,Cuenca Barreno,Fulham,Defender,4.4,2,24/08/2025,0,0,0,0,0,Low
-321,Jorge,Cuenca Barreno,Fulham,Defender,4.4,3,30/08/2025,0,0,0,0,0,Low
-321,Jorge,Cuenca Barreno,Fulham,Defender,4.4,4,13/09/2025,0,0,0,0,0,Low
-321,Jorge,Cuenca Barreno,Fulham,Defender,4.4,5,20/09/2025,1,0,0,4,0,Low
-321,Jorge,Cuenca Barreno,Fulham,Defender,4.4,6,28/09/2025,0,0,0,0,0,Low
-321,Jorge,Cuenca Barreno,Fulham,Defender,4.4,7,03/10/2025,0,0,0,0,0,Low
-321,Jorge,Cuenca Barreno,Fulham,Defender,4.4,8,18/10/2025,4,0,0,81,0,Low
-321,Jorge,Cuenca Barreno,Fulham,Defender,4.4,9,25/10/2025,0,0,0,0,0,Low
-321,Jorge,Cuenca Barreno,Fulham,Defender,4.4,10,01/11/2025,0,0,0,0,0,Low
-321,Jorge,Cuenca Barreno,Fulham,Defender,4.4,11,08/11/2025,0,0,0,0,0,Low
-321,Jorge,Cuenca Barreno,Fulham,Defender,4.4,12,22/11/2025,0,0,0,0,0,Low
+320,Issa,Diop,Fulham,Defender,4.3,1,16/08/2025,0,0,0,0,0,Low
+320,Issa,Diop,Fulham,Defender,4.3,2,24/08/2025,0,0,0,0,0,Low
+320,Issa,Diop,Fulham,Defender,4.3,3,30/08/2025,0,0,0,0,0,Low
+320,Issa,Diop,Fulham,Defender,4.3,4,13/09/2025,0,0,0,0,0,Low
+320,Issa,Diop,Fulham,Defender,4.3,5,20/09/2025,0,0,0,0,0,Low
+320,Issa,Diop,Fulham,Defender,4.3,6,28/09/2025,0,0,0,0,0,Low
+320,Issa,Diop,Fulham,Defender,4.3,7,03/10/2025,2,0,0,85,0,Low
+320,Issa,Diop,Fulham,Defender,4.3,8,18/10/2025,1,0,0,48,0,Low
+320,Issa,Diop,Fulham,Defender,4.3,9,25/10/2025,1,0,0,90,0,Low
+320,Issa,Diop,Fulham,Defender,4.3,10,01/11/2025,0,0,0,0,0,Low
+320,Issa,Diop,Fulham,Defender,4.3,11,08/11/2025,0,0,0,0,0,Low
+320,Issa,Diop,Fulham,Defender,4.3,12,22/11/2025,0,0,0,0,0,Low
+321,Jorge,Cuenca Barreno,Fulham,Defender,4.3,1,16/08/2025,2,0,0,83,0,Low
+321,Jorge,Cuenca Barreno,Fulham,Defender,4.3,2,24/08/2025,0,0,0,0,0,Low
+321,Jorge,Cuenca Barreno,Fulham,Defender,4.3,3,30/08/2025,0,0,0,0,0,Low
+321,Jorge,Cuenca Barreno,Fulham,Defender,4.3,4,13/09/2025,0,0,0,0,0,Low
+321,Jorge,Cuenca Barreno,Fulham,Defender,4.3,5,20/09/2025,1,0,0,4,0,Low
+321,Jorge,Cuenca Barreno,Fulham,Defender,4.3,6,28/09/2025,0,0,0,0,0,Low
+321,Jorge,Cuenca Barreno,Fulham,Defender,4.3,7,03/10/2025,0,0,0,0,0,Low
+321,Jorge,Cuenca Barreno,Fulham,Defender,4.3,8,18/10/2025,4,0,0,81,0,Low
+321,Jorge,Cuenca Barreno,Fulham,Defender,4.3,9,25/10/2025,0,0,0,0,0,Low
+321,Jorge,Cuenca Barreno,Fulham,Defender,4.3,10,01/11/2025,0,0,0,0,0,Low
+321,Jorge,Cuenca Barreno,Fulham,Defender,4.3,11,08/11/2025,0,0,0,0,0,Low
+321,Jorge,Cuenca Barreno,Fulham,Defender,4.3,12,22/11/2025,0,0,0,0,0,Low
 322,Kenny,Tete,Fulham,Defender,4.5,1,16/08/2025,2,0,0,90,0,Low
 322,Kenny,Tete,Fulham,Defender,4.5,2,24/08/2025,2,0,0,90,0,Low
 322,Kenny,Tete,Fulham,Defender,4.5,3,30/08/2025,3,0,0,90,0,Low
@@ -7391,18 +7391,18 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 560,Wilson,Isidor,Sunderland,Forward,5.6,10,03/11/2025,2,0,0,82,0,Low
 560,Wilson,Isidor,Sunderland,Forward,5.6,11,08/11/2025,2,0,0,62,0,Low
 560,Wilson,Isidor,Sunderland,Forward,5.6,12,22/11/2025,2,0,0,63,1,Low
-561,Eliezer,Mayenda Dossou,Sunderland,Forward,5.4,1,16/08/2025,8,1,0,75,1,Low
-561,Eliezer,Mayenda Dossou,Sunderland,Forward,5.4,2,23/08/2025,2,0,0,62,0,Low
-561,Eliezer,Mayenda Dossou,Sunderland,Forward,5.4,3,30/08/2025,2,0,0,64,1,Low
-561,Eliezer,Mayenda Dossou,Sunderland,Forward,5.4,4,13/09/2025,0,0,0,0,0,Low
-561,Eliezer,Mayenda Dossou,Sunderland,Forward,5.4,5,21/09/2025,1,0,0,10,0,Low
-561,Eliezer,Mayenda Dossou,Sunderland,Forward,5.4,6,27/09/2025,0,0,0,0,0,Low
-561,Eliezer,Mayenda Dossou,Sunderland,Forward,5.4,7,04/10/2025,1,0,0,32,0,Low
-561,Eliezer,Mayenda Dossou,Sunderland,Forward,5.4,8,18/10/2025,1,0,0,14,0,Low
-561,Eliezer,Mayenda Dossou,Sunderland,Forward,5.4,9,25/10/2025,0,0,0,0,0,Low
-561,Eliezer,Mayenda Dossou,Sunderland,Forward,5.4,10,03/11/2025,0,0,0,0,0,Low
-561,Eliezer,Mayenda Dossou,Sunderland,Forward,5.4,11,08/11/2025,1,0,0,3,0,Low
-561,Eliezer,Mayenda Dossou,Sunderland,Forward,5.4,12,22/11/2025,1,0,0,1,0,Low
+561,Eliezer,Mayenda Dossou,Sunderland,Forward,5.3,1,16/08/2025,8,1,0,75,1,Low
+561,Eliezer,Mayenda Dossou,Sunderland,Forward,5.3,2,23/08/2025,2,0,0,62,0,Low
+561,Eliezer,Mayenda Dossou,Sunderland,Forward,5.3,3,30/08/2025,2,0,0,64,1,Low
+561,Eliezer,Mayenda Dossou,Sunderland,Forward,5.3,4,13/09/2025,0,0,0,0,0,Low
+561,Eliezer,Mayenda Dossou,Sunderland,Forward,5.3,5,21/09/2025,1,0,0,10,0,Low
+561,Eliezer,Mayenda Dossou,Sunderland,Forward,5.3,6,27/09/2025,0,0,0,0,0,Low
+561,Eliezer,Mayenda Dossou,Sunderland,Forward,5.3,7,04/10/2025,1,0,0,32,0,Low
+561,Eliezer,Mayenda Dossou,Sunderland,Forward,5.3,8,18/10/2025,1,0,0,14,0,Low
+561,Eliezer,Mayenda Dossou,Sunderland,Forward,5.3,9,25/10/2025,0,0,0,0,0,Low
+561,Eliezer,Mayenda Dossou,Sunderland,Forward,5.3,10,03/11/2025,0,0,0,0,0,Low
+561,Eliezer,Mayenda Dossou,Sunderland,Forward,5.3,11,08/11/2025,1,0,0,3,0,Low
+561,Eliezer,Mayenda Dossou,Sunderland,Forward,5.3,12,22/11/2025,1,0,0,1,0,Low
 562,Ahmed,Abdullahi,Sunderland,Forward,4.3,1,16/08/2025,0,0,0,0,0,Unknown
 562,Ahmed,Abdullahi,Sunderland,Forward,4.3,2,23/08/2025,0,0,0,0,0,Unknown
 562,Ahmed,Abdullahi,Sunderland,Forward,4.3,3,30/08/2025,0,0,0,0,0,Unknown
