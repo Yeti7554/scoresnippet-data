@@ -934,18 +934,18 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 184,Etienne,Green,Burnley,Goalkeeper,4.0,10,01/11/2025,0,0,0,0,0,Low
 184,Etienne,Green,Burnley,Goalkeeper,4.0,11,08/11/2025,0,0,0,0,0,Low
 184,Etienne,Green,Burnley,Goalkeeper,4.0,12,22/11/2025,0,0,0,0,0,Low
-185,Václav,Hladký,Burnley,Goalkeeper,4.0,1,16/08/2025,0,0,0,0,0,Low
-185,Václav,Hladký,Burnley,Goalkeeper,4.0,2,23/08/2025,0,0,0,0,0,Low
-185,Václav,Hladký,Burnley,Goalkeeper,4.0,3,30/08/2025,0,0,0,0,0,Low
-185,Václav,Hladký,Burnley,Goalkeeper,4.0,4,14/09/2025,0,0,0,0,0,Low
-185,Václav,Hladký,Burnley,Goalkeeper,4.0,5,20/09/2025,0,0,0,0,0,Low
-185,Václav,Hladký,Burnley,Goalkeeper,4.0,6,27/09/2025,0,0,0,0,0,Low
-185,Václav,Hladký,Burnley,Goalkeeper,4.0,7,05/10/2025,0,0,0,0,0,Low
-185,Václav,Hladký,Burnley,Goalkeeper,4.0,8,18/10/2025,0,0,0,0,0,Low
-185,Václav,Hladký,Burnley,Goalkeeper,4.0,9,26/10/2025,0,0,0,0,0,Low
-185,Václav,Hladký,Burnley,Goalkeeper,4.0,10,01/11/2025,0,0,0,0,0,Low
-185,Václav,Hladký,Burnley,Goalkeeper,4.0,11,08/11/2025,0,0,0,0,0,Low
-185,Václav,Hladký,Burnley,Goalkeeper,4.0,12,22/11/2025,0,0,0,0,0,Low
+185,Václav,Hladký,Burnley,Goalkeeper,3.9,1,16/08/2025,0,0,0,0,0,Low
+185,Václav,Hladký,Burnley,Goalkeeper,3.9,2,23/08/2025,0,0,0,0,0,Low
+185,Václav,Hladký,Burnley,Goalkeeper,3.9,3,30/08/2025,0,0,0,0,0,Low
+185,Václav,Hladký,Burnley,Goalkeeper,3.9,4,14/09/2025,0,0,0,0,0,Low
+185,Václav,Hladký,Burnley,Goalkeeper,3.9,5,20/09/2025,0,0,0,0,0,Low
+185,Václav,Hladký,Burnley,Goalkeeper,3.9,6,27/09/2025,0,0,0,0,0,Low
+185,Václav,Hladký,Burnley,Goalkeeper,3.9,7,05/10/2025,0,0,0,0,0,Low
+185,Václav,Hladký,Burnley,Goalkeeper,3.9,8,18/10/2025,0,0,0,0,0,Low
+185,Václav,Hladký,Burnley,Goalkeeper,3.9,9,26/10/2025,0,0,0,0,0,Low
+185,Václav,Hladký,Burnley,Goalkeeper,3.9,10,01/11/2025,0,0,0,0,0,Low
+185,Václav,Hladký,Burnley,Goalkeeper,3.9,11,08/11/2025,0,0,0,0,0,Low
+185,Václav,Hladký,Burnley,Goalkeeper,3.9,12,22/11/2025,0,0,0,0,0,Low
 186,Connor,Roberts,Burnley,Defender,4.4,1,16/08/2025,0,0,0,0,0,Low
 186,Connor,Roberts,Burnley,Defender,4.4,2,23/08/2025,0,0,0,0,0,Low
 186,Connor,Roberts,Burnley,Defender,4.4,3,30/08/2025,0,0,0,0,0,Low
@@ -2570,18 +2570,18 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 159,Solly,March,Brighton,Midfielder,5.8,10,01/11/2025,0,0,0,0,0,Low
 159,Solly,March,Brighton,Midfielder,5.8,11,09/11/2025,0,0,0,0,0,Low
 159,Solly,March,Brighton,Midfielder,5.8,12,22/11/2025,0,0,0,0,0,Low
-160,Yankuba,Minteh,Brighton,Midfielder,6.1,1,16/08/2025,3,0,0,68,1,Low
-160,Yankuba,Minteh,Brighton,Midfielder,6.1,2,24/08/2025,2,0,0,90,0,Low
-160,Yankuba,Minteh,Brighton,Midfielder,6.1,3,31/08/2025,4,0,0,90,0,Low
-160,Yankuba,Minteh,Brighton,Midfielder,6.1,4,13/09/2025,6,0,1,90,0,Low
-160,Yankuba,Minteh,Brighton,Midfielder,6.1,5,20/09/2025,9,1,0,75,0,Low
-160,Yankuba,Minteh,Brighton,Midfielder,6.1,6,27/09/2025,5,0,1,90,0,Low
-160,Yankuba,Minteh,Brighton,Midfielder,6.1,7,05/10/2025,2,0,0,90,0,Low
-160,Yankuba,Minteh,Brighton,Midfielder,6.1,8,18/10/2025,2,0,0,89,0,Low
-160,Yankuba,Minteh,Brighton,Midfielder,6.1,9,25/10/2025,5,0,1,90,0,Low
-160,Yankuba,Minteh,Brighton,Midfielder,6.1,10,01/11/2025,9,0,2,87,1,Low
-160,Yankuba,Minteh,Brighton,Midfielder,6.1,11,09/11/2025,3,0,0,90,1,Low
-160,Yankuba,Minteh,Brighton,Midfielder,6.1,12,22/11/2025,11,0,2,88,0,Low
+160,Yankuba,Minteh,Brighton,Midfielder,6.2,1,16/08/2025,3,0,0,68,1,Low
+160,Yankuba,Minteh,Brighton,Midfielder,6.2,2,24/08/2025,2,0,0,90,0,Low
+160,Yankuba,Minteh,Brighton,Midfielder,6.2,3,31/08/2025,4,0,0,90,0,Low
+160,Yankuba,Minteh,Brighton,Midfielder,6.2,4,13/09/2025,6,0,1,90,0,Low
+160,Yankuba,Minteh,Brighton,Midfielder,6.2,5,20/09/2025,9,1,0,75,0,Low
+160,Yankuba,Minteh,Brighton,Midfielder,6.2,6,27/09/2025,5,0,1,90,0,Low
+160,Yankuba,Minteh,Brighton,Midfielder,6.2,7,05/10/2025,2,0,0,90,0,Low
+160,Yankuba,Minteh,Brighton,Midfielder,6.2,8,18/10/2025,2,0,0,89,0,Low
+160,Yankuba,Minteh,Brighton,Midfielder,6.2,9,25/10/2025,5,0,1,90,0,Low
+160,Yankuba,Minteh,Brighton,Midfielder,6.2,10,01/11/2025,9,0,2,87,1,Low
+160,Yankuba,Minteh,Brighton,Midfielder,6.2,11,09/11/2025,3,0,0,90,1,Low
+160,Yankuba,Minteh,Brighton,Midfielder,6.2,12,22/11/2025,11,0,2,88,0,Low
 161,Julio,Enciso Espínola,Brighton,Midfielder,5.4,1,16/08/2025,0,0,0,0,0,Low
 161,Julio,Enciso Espínola,Brighton,Midfielder,5.4,2,24/08/2025,0,0,0,0,0,Low
 161,Julio,Enciso Espínola,Brighton,Midfielder,5.4,3,31/08/2025,0,0,0,0,0,Low
@@ -4222,18 +4222,18 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 323,Samuel,Amissah,Fulham,Defender,3.9,10,01/11/2025,0,0,0,0,0,Low
 323,Samuel,Amissah,Fulham,Defender,3.9,11,08/11/2025,0,0,0,0,0,Low
 323,Samuel,Amissah,Fulham,Defender,3.9,12,22/11/2025,0,0,0,0,0,Low
-324,Alex,Iwobi,Fulham,Midfielder,6.5,1,16/08/2025,2,0,0,65,0,Low
-324,Alex,Iwobi,Fulham,Midfielder,6.5,2,24/08/2025,7,0,1,90,0,Low
-324,Alex,Iwobi,Fulham,Midfielder,6.5,3,30/08/2025,1,0,0,83,0,Low
-324,Alex,Iwobi,Fulham,Midfielder,6.5,4,13/09/2025,3,0,0,75,1,Low
-324,Alex,Iwobi,Fulham,Midfielder,6.5,5,20/09/2025,13,1,1,79,0,Low
-324,Alex,Iwobi,Fulham,Midfielder,6.5,6,28/09/2025,2,0,0,64,0,Low
-324,Alex,Iwobi,Fulham,Midfielder,6.5,7,03/10/2025,2,0,0,85,0,Low
-324,Alex,Iwobi,Fulham,Midfielder,6.5,8,18/10/2025,4,0,0,90,0,Low
-324,Alex,Iwobi,Fulham,Midfielder,6.5,9,25/10/2025,1,0,0,90,0,Low
-324,Alex,Iwobi,Fulham,Midfielder,6.5,10,01/11/2025,3,0,0,88,1,Low
-324,Alex,Iwobi,Fulham,Midfielder,6.5,11,08/11/2025,2,0,0,90,0,Low
-324,Alex,Iwobi,Fulham,Midfielder,6.5,12,22/11/2025,3,0,0,88,1,Low
+324,Alex,Iwobi,Fulham,Midfielder,6.4,1,16/08/2025,2,0,0,65,0,Low
+324,Alex,Iwobi,Fulham,Midfielder,6.4,2,24/08/2025,7,0,1,90,0,Low
+324,Alex,Iwobi,Fulham,Midfielder,6.4,3,30/08/2025,1,0,0,83,0,Low
+324,Alex,Iwobi,Fulham,Midfielder,6.4,4,13/09/2025,3,0,0,75,1,Low
+324,Alex,Iwobi,Fulham,Midfielder,6.4,5,20/09/2025,13,1,1,79,0,Low
+324,Alex,Iwobi,Fulham,Midfielder,6.4,6,28/09/2025,2,0,0,64,0,Low
+324,Alex,Iwobi,Fulham,Midfielder,6.4,7,03/10/2025,2,0,0,85,0,Low
+324,Alex,Iwobi,Fulham,Midfielder,6.4,8,18/10/2025,4,0,0,90,0,Low
+324,Alex,Iwobi,Fulham,Midfielder,6.4,9,25/10/2025,1,0,0,90,0,Low
+324,Alex,Iwobi,Fulham,Midfielder,6.4,10,01/11/2025,3,0,0,88,1,Low
+324,Alex,Iwobi,Fulham,Midfielder,6.4,11,08/11/2025,2,0,0,90,0,Low
+324,Alex,Iwobi,Fulham,Midfielder,6.4,12,22/11/2025,3,0,0,88,1,Low
 325,Emile,Smith Rowe,Fulham,Midfielder,5.6,1,16/08/2025,1,0,0,13,0,Low
 325,Emile,Smith Rowe,Fulham,Midfielder,5.6,2,24/08/2025,6,1,0,19,0,Low
 325,Emile,Smith Rowe,Fulham,Midfielder,5.6,3,30/08/2025,1,0,0,23,0,Low
@@ -5420,18 +5420,18 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 410,Rico,Lewis,Man City,Defender,4.8,10,02/11/2025,0,0,0,0,0,Low
 410,Rico,Lewis,Man City,Defender,4.8,11,09/11/2025,0,0,0,0,0,Low
 410,Rico,Lewis,Man City,Defender,4.8,12,22/11/2025,0,0,0,0,0,Low
-411,Nico,O'Reilly,Man City,Defender,5.0,1,16/08/2025,0,0,0,24,0,Medium
-411,Nico,O'Reilly,Man City,Defender,5.0,2,23/08/2025,0,0,0,0,0,Medium
-411,Nico,O'Reilly,Man City,Defender,5.0,3,31/08/2025,1,0,0,18,0,Medium
-411,Nico,O'Reilly,Man City,Defender,5.0,4,14/09/2025,6,0,0,90,1,Medium
-411,Nico,O'Reilly,Man City,Defender,5.0,5,21/09/2025,6,0,0,86,1,Medium
-411,Nico,O'Reilly,Man City,Defender,5.0,6,27/09/2025,2,0,0,82,0,Medium
-411,Nico,O'Reilly,Man City,Defender,5.0,7,05/10/2025,5,0,0,90,1,Medium
-411,Nico,O'Reilly,Man City,Defender,5.0,8,18/10/2025,11,0,1,84,1,Medium
-411,Nico,O'Reilly,Man City,Defender,5.0,9,26/10/2025,1,0,0,29,0,Medium
-411,Nico,O'Reilly,Man City,Defender,5.0,10,02/11/2025,8,1,0,90,0,Medium
-411,Nico,O'Reilly,Man City,Defender,5.0,11,09/11/2025,11,0,1,90,1,Medium
-411,Nico,O'Reilly,Man City,Defender,5.0,12,22/11/2025,1,0,0,90,0,Medium
+411,Nico,O'Reilly,Man City,Defender,5.1,1,16/08/2025,0,0,0,24,0,Medium
+411,Nico,O'Reilly,Man City,Defender,5.1,2,23/08/2025,0,0,0,0,0,Medium
+411,Nico,O'Reilly,Man City,Defender,5.1,3,31/08/2025,1,0,0,18,0,Medium
+411,Nico,O'Reilly,Man City,Defender,5.1,4,14/09/2025,6,0,0,90,1,Medium
+411,Nico,O'Reilly,Man City,Defender,5.1,5,21/09/2025,6,0,0,86,1,Medium
+411,Nico,O'Reilly,Man City,Defender,5.1,6,27/09/2025,2,0,0,82,0,Medium
+411,Nico,O'Reilly,Man City,Defender,5.1,7,05/10/2025,5,0,0,90,1,Medium
+411,Nico,O'Reilly,Man City,Defender,5.1,8,18/10/2025,11,0,1,84,1,Medium
+411,Nico,O'Reilly,Man City,Defender,5.1,9,26/10/2025,1,0,0,29,0,Medium
+411,Nico,O'Reilly,Man City,Defender,5.1,10,02/11/2025,8,1,0,90,0,Medium
+411,Nico,O'Reilly,Man City,Defender,5.1,11,09/11/2025,11,0,1,90,1,Medium
+411,Nico,O'Reilly,Man City,Defender,5.1,12,22/11/2025,1,0,0,90,0,Medium
 412,Vitor,de Oliveira Nunes dos Reis,Man City,Defender,5.0,1,16/08/2025,0,0,0,0,0,Medium
 412,Vitor,de Oliveira Nunes dos Reis,Man City,Defender,5.0,2,23/08/2025,0,0,0,0,0,Medium
 412,Vitor,de Oliveira Nunes dos Reis,Man City,Defender,5.0,3,31/08/2025,0,0,0,0,0,Medium
