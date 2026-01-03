@@ -948,25 +948,25 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 46,Yasin,Özcan,Aston Villa,Defender,4.0,17,21/12/2025,0,0,0,0,0,Low
 46,Yasin,Özcan,Aston Villa,Defender,4.0,18,27/12/2025,0,0,0,0,0,Low
 46,Yasin,Özcan,Aston Villa,Defender,4.0,19,30/12/2025,0,0,0,0,0,Low
-47,Morgan,Rogers,Aston Villa,Midfielder,7.4,1,16/08/2025,3,0,0,90,1,Medium
-47,Morgan,Rogers,Aston Villa,Midfielder,7.4,2,23/08/2025,2,0,0,90,0,Medium
-47,Morgan,Rogers,Aston Villa,Midfielder,7.4,3,31/08/2025,2,0,0,90,0,Medium
-47,Morgan,Rogers,Aston Villa,Midfielder,7.4,4,13/09/2025,3,0,0,90,1,Medium
-47,Morgan,Rogers,Aston Villa,Midfielder,7.4,5,21/09/2025,2,0,0,81,0,Medium
-47,Morgan,Rogers,Aston Villa,Midfielder,7.4,6,28/09/2025,5,0,1,90,0,Medium
-47,Morgan,Rogers,Aston Villa,Midfielder,7.4,7,05/10/2025,5,0,1,90,0,Medium
-47,Morgan,Rogers,Aston Villa,Midfielder,7.4,8,19/10/2025,7,1,0,90,0,Medium
-47,Morgan,Rogers,Aston Villa,Midfielder,7.4,9,26/10/2025,3,0,0,90,1,Medium
-47,Morgan,Rogers,Aston Villa,Midfielder,7.4,10,01/11/2025,1,0,0,90,0,Medium
-47,Morgan,Rogers,Aston Villa,Midfielder,7.4,11,09/11/2025,2,0,0,85,1,Medium
-47,Morgan,Rogers,Aston Villa,Midfielder,7.4,12,23/11/2025,15,2,0,90,0,Medium
-47,Morgan,Rogers,Aston Villa,Midfielder,7.4,13,30/11/2025,3,0,0,90,1,Medium
-47,Morgan,Rogers,Aston Villa,Midfielder,7.4,14,03/12/2025,6,0,1,90,0,Medium
-47,Morgan,Rogers,Aston Villa,Midfielder,7.4,15,06/12/2025,2,0,0,90,0,Medium
-47,Morgan,Rogers,Aston Villa,Midfielder,7.4,16,14/12/2025,15,2,0,90,0,Medium
-47,Morgan,Rogers,Aston Villa,Midfielder,7.4,17,21/12/2025,15,2,0,90,0,Medium
-47,Morgan,Rogers,Aston Villa,Midfielder,7.4,18,27/12/2025,1,0,0,90,0,Medium
-47,Morgan,Rogers,Aston Villa,Midfielder,7.4,19,30/12/2025,1,0,0,81,0,Medium
+47,Morgan,Rogers,Aston Villa,Midfielder,7.5,1,16/08/2025,3,0,0,90,1,Medium
+47,Morgan,Rogers,Aston Villa,Midfielder,7.5,2,23/08/2025,2,0,0,90,0,Medium
+47,Morgan,Rogers,Aston Villa,Midfielder,7.5,3,31/08/2025,2,0,0,90,0,Medium
+47,Morgan,Rogers,Aston Villa,Midfielder,7.5,4,13/09/2025,3,0,0,90,1,Medium
+47,Morgan,Rogers,Aston Villa,Midfielder,7.5,5,21/09/2025,2,0,0,81,0,Medium
+47,Morgan,Rogers,Aston Villa,Midfielder,7.5,6,28/09/2025,5,0,1,90,0,Medium
+47,Morgan,Rogers,Aston Villa,Midfielder,7.5,7,05/10/2025,5,0,1,90,0,Medium
+47,Morgan,Rogers,Aston Villa,Midfielder,7.5,8,19/10/2025,7,1,0,90,0,Medium
+47,Morgan,Rogers,Aston Villa,Midfielder,7.5,9,26/10/2025,3,0,0,90,1,Medium
+47,Morgan,Rogers,Aston Villa,Midfielder,7.5,10,01/11/2025,1,0,0,90,0,Medium
+47,Morgan,Rogers,Aston Villa,Midfielder,7.5,11,09/11/2025,2,0,0,85,1,Medium
+47,Morgan,Rogers,Aston Villa,Midfielder,7.5,12,23/11/2025,15,2,0,90,0,Medium
+47,Morgan,Rogers,Aston Villa,Midfielder,7.5,13,30/11/2025,3,0,0,90,1,Medium
+47,Morgan,Rogers,Aston Villa,Midfielder,7.5,14,03/12/2025,6,0,1,90,0,Medium
+47,Morgan,Rogers,Aston Villa,Midfielder,7.5,15,06/12/2025,2,0,0,90,0,Medium
+47,Morgan,Rogers,Aston Villa,Midfielder,7.5,16,14/12/2025,15,2,0,90,0,Medium
+47,Morgan,Rogers,Aston Villa,Midfielder,7.5,17,21/12/2025,15,2,0,90,0,Medium
+47,Morgan,Rogers,Aston Villa,Midfielder,7.5,18,27/12/2025,1,0,0,90,0,Medium
+47,Morgan,Rogers,Aston Villa,Midfielder,7.5,19,30/12/2025,1,0,0,81,0,Medium
 48,Youri,Tielemans,Aston Villa,Midfielder,5.9,1,16/08/2025,3,0,0,90,1,Low
 48,Youri,Tielemans,Aston Villa,Midfielder,5.9,2,23/08/2025,2,0,0,90,0,Low
 48,Youri,Tielemans,Aston Villa,Midfielder,5.9,3,31/08/2025,2,0,0,90,0,Low
@@ -1252,25 +1252,25 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 63,Kadan,Young,Aston Villa,Midfielder,4.3,17,21/12/2025,0,0,0,0,0,Unknown
 63,Kadan,Young,Aston Villa,Midfielder,4.3,18,27/12/2025,0,0,0,0,0,Unknown
 63,Kadan,Young,Aston Villa,Midfielder,4.3,19,30/12/2025,0,0,0,0,0,Unknown
-64,Ollie,Watkins,Aston Villa,Forward,8.5,1,16/08/2025,2,0,0,90,1,Medium
-64,Ollie,Watkins,Aston Villa,Forward,8.5,2,23/08/2025,2,0,0,90,0,Medium
-64,Ollie,Watkins,Aston Villa,Forward,8.5,3,31/08/2025,2,0,0,90,0,Medium
-64,Ollie,Watkins,Aston Villa,Forward,8.5,4,13/09/2025,2,0,0,82,1,Medium
-64,Ollie,Watkins,Aston Villa,Forward,8.5,5,21/09/2025,2,0,0,90,0,Medium
-64,Ollie,Watkins,Aston Villa,Forward,8.5,6,28/09/2025,8,1,0,90,0,Medium
-64,Ollie,Watkins,Aston Villa,Forward,8.5,7,05/10/2025,2,0,0,66,1,Medium
-64,Ollie,Watkins,Aston Villa,Forward,8.5,8,19/10/2025,1,0,0,29,0,Medium
-64,Ollie,Watkins,Aston Villa,Forward,8.5,9,26/10/2025,2,0,0,85,1,Medium
-64,Ollie,Watkins,Aston Villa,Forward,8.5,10,01/11/2025,2,0,0,74,0,Medium
-64,Ollie,Watkins,Aston Villa,Forward,8.5,11,09/11/2025,2,0,0,80,1,Medium
-64,Ollie,Watkins,Aston Villa,Forward,8.5,12,23/11/2025,2,0,0,67,0,Medium
-64,Ollie,Watkins,Aston Villa,Forward,8.5,13,30/11/2025,1,0,0,36,0,Medium
-64,Ollie,Watkins,Aston Villa,Forward,8.5,14,03/12/2025,13,2,0,85,0,Medium
-64,Ollie,Watkins,Aston Villa,Forward,8.5,15,06/12/2025,2,0,0,65,0,Medium
-64,Ollie,Watkins,Aston Villa,Forward,8.5,16,14/12/2025,5,0,1,74,0,Medium
-64,Ollie,Watkins,Aston Villa,Forward,8.5,17,21/12/2025,5,0,1,74,0,Medium
-64,Ollie,Watkins,Aston Villa,Forward,8.5,18,27/12/2025,12,2,0,32,0,Medium
-64,Ollie,Watkins,Aston Villa,Forward,8.5,19,30/12/2025,5,1,0,90,0,Medium
+64,Ollie,Watkins,Aston Villa,Forward,8.6,1,16/08/2025,2,0,0,90,1,Medium
+64,Ollie,Watkins,Aston Villa,Forward,8.6,2,23/08/2025,2,0,0,90,0,Medium
+64,Ollie,Watkins,Aston Villa,Forward,8.6,3,31/08/2025,2,0,0,90,0,Medium
+64,Ollie,Watkins,Aston Villa,Forward,8.6,4,13/09/2025,2,0,0,82,1,Medium
+64,Ollie,Watkins,Aston Villa,Forward,8.6,5,21/09/2025,2,0,0,90,0,Medium
+64,Ollie,Watkins,Aston Villa,Forward,8.6,6,28/09/2025,8,1,0,90,0,Medium
+64,Ollie,Watkins,Aston Villa,Forward,8.6,7,05/10/2025,2,0,0,66,1,Medium
+64,Ollie,Watkins,Aston Villa,Forward,8.6,8,19/10/2025,1,0,0,29,0,Medium
+64,Ollie,Watkins,Aston Villa,Forward,8.6,9,26/10/2025,2,0,0,85,1,Medium
+64,Ollie,Watkins,Aston Villa,Forward,8.6,10,01/11/2025,2,0,0,74,0,Medium
+64,Ollie,Watkins,Aston Villa,Forward,8.6,11,09/11/2025,2,0,0,80,1,Medium
+64,Ollie,Watkins,Aston Villa,Forward,8.6,12,23/11/2025,2,0,0,67,0,Medium
+64,Ollie,Watkins,Aston Villa,Forward,8.6,13,30/11/2025,1,0,0,36,0,Medium
+64,Ollie,Watkins,Aston Villa,Forward,8.6,14,03/12/2025,13,2,0,85,0,Medium
+64,Ollie,Watkins,Aston Villa,Forward,8.6,15,06/12/2025,2,0,0,65,0,Medium
+64,Ollie,Watkins,Aston Villa,Forward,8.6,16,14/12/2025,5,0,1,74,0,Medium
+64,Ollie,Watkins,Aston Villa,Forward,8.6,17,21/12/2025,5,0,1,74,0,Medium
+64,Ollie,Watkins,Aston Villa,Forward,8.6,18,27/12/2025,12,2,0,32,0,Medium
+64,Ollie,Watkins,Aston Villa,Forward,8.6,19,30/12/2025,5,1,0,90,0,Medium
 65,Zépiqueno,Redmond,Aston Villa,Forward,4.5,1,16/08/2025,0,0,0,0,0,Low
 65,Zépiqueno,Redmond,Aston Villa,Forward,4.5,2,23/08/2025,0,0,0,0,0,Low
 65,Zépiqueno,Redmond,Aston Villa,Forward,4.5,3,31/08/2025,0,0,0,0,0,Low
@@ -5836,6 +5836,25 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 286,Zach,Marsh,Crystal Palace,Forward,4.5,17,20/12/2025,0,0,0,0,0,Low
 286,Zach,Marsh,Crystal Palace,Forward,4.5,18,28/12/2025,0,0,0,0,0,Low
 286,Zach,Marsh,Crystal Palace,Forward,4.5,19,01/01/2026,0,0,0,0,0,Low
+580,Brennan,Johnson,Crystal Palace,Midfielder,6.5,1,16/08/2025,8,1,0,79,1,Low
+580,Brennan,Johnson,Crystal Palace,Midfielder,6.5,2,23/08/2025,9,1,0,77,1,Low
+580,Brennan,Johnson,Crystal Palace,Midfielder,6.5,3,30/08/2025,1,0,0,53,0,Low
+580,Brennan,Johnson,Crystal Palace,Midfielder,6.5,4,13/09/2025,1,0,0,10,0,Low
+580,Brennan,Johnson,Crystal Palace,Midfielder,6.5,5,20/09/2025,1,0,0,18,0,Low
+580,Brennan,Johnson,Crystal Palace,Midfielder,6.5,6,27/09/2025,1,0,0,28,0,Low
+580,Brennan,Johnson,Crystal Palace,Midfielder,6.5,7,04/10/2025,1,0,0,1,0,Low
+580,Brennan,Johnson,Crystal Palace,Midfielder,6.5,8,19/10/2025,1,0,0,4,0,Low
+580,Brennan,Johnson,Crystal Palace,Midfielder,6.5,9,26/10/2025,3,0,0,90,1,Low
+580,Brennan,Johnson,Crystal Palace,Midfielder,6.5,10,01/11/2025,1,0,0,17,0,Low
+580,Brennan,Johnson,Crystal Palace,Midfielder,6.5,11,08/11/2025,1,0,0,90,0,Low
+580,Brennan,Johnson,Crystal Palace,Midfielder,6.5,12,23/11/2025,1,0,0,12,0,Low
+580,Brennan,Johnson,Crystal Palace,Midfielder,6.5,13,29/11/2025,0,0,0,0,0,Low
+580,Brennan,Johnson,Crystal Palace,Midfielder,6.5,14,02/12/2025,2,0,0,76,0,Low
+580,Brennan,Johnson,Crystal Palace,Midfielder,6.5,15,06/12/2025,0,0,0,0,0,Low
+580,Brennan,Johnson,Crystal Palace,Midfielder,6.5,16,14/12/2025,1,0,0,10,0,Low
+580,Brennan,Johnson,Crystal Palace,Midfielder,6.5,17,20/12/2025,1,0,0,32,0,Low
+580,Brennan,Johnson,Crystal Palace,Midfielder,6.5,18,28/12/2025,1,0,0,5,0,Low
+580,Brennan,Johnson,Crystal Palace,Midfielder,6.5,19,01/01/2026,0,0,0,0,0,Low
 690,Rio,Cardines,Crystal Palace,Midfielder,4.4,1,17/08/2025,0,0,0,0,0,Low
 690,Rio,Cardines,Crystal Palace,Midfielder,4.4,2,24/08/2025,0,0,0,0,0,Low
 690,Rio,Cardines,Crystal Palace,Midfielder,4.4,3,31/08/2025,0,0,0,0,0,Low
@@ -12355,25 +12374,6 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 579,Son,Heung-min,Spurs,Midfielder,8.5,17,20/12/2025,0,0,0,0,0,Medium
 579,Son,Heung-min,Spurs,Midfielder,8.5,18,28/12/2025,0,0,0,0,0,Medium
 579,Son,Heung-min,Spurs,Midfielder,8.5,19,01/01/2026,0,0,0,0,0,Medium
-580,Brennan,Johnson,Spurs,Midfielder,6.5,1,16/08/2025,8,1,0,79,1,Low
-580,Brennan,Johnson,Spurs,Midfielder,6.5,2,23/08/2025,9,1,0,77,1,Low
-580,Brennan,Johnson,Spurs,Midfielder,6.5,3,30/08/2025,1,0,0,53,0,Low
-580,Brennan,Johnson,Spurs,Midfielder,6.5,4,13/09/2025,1,0,0,10,0,Low
-580,Brennan,Johnson,Spurs,Midfielder,6.5,5,20/09/2025,1,0,0,18,0,Low
-580,Brennan,Johnson,Spurs,Midfielder,6.5,6,27/09/2025,1,0,0,28,0,Low
-580,Brennan,Johnson,Spurs,Midfielder,6.5,7,04/10/2025,1,0,0,1,0,Low
-580,Brennan,Johnson,Spurs,Midfielder,6.5,8,19/10/2025,1,0,0,4,0,Low
-580,Brennan,Johnson,Spurs,Midfielder,6.5,9,26/10/2025,3,0,0,90,1,Low
-580,Brennan,Johnson,Spurs,Midfielder,6.5,10,01/11/2025,1,0,0,17,0,Low
-580,Brennan,Johnson,Spurs,Midfielder,6.5,11,08/11/2025,1,0,0,90,0,Low
-580,Brennan,Johnson,Spurs,Midfielder,6.5,12,23/11/2025,1,0,0,12,0,Low
-580,Brennan,Johnson,Spurs,Midfielder,6.5,13,29/11/2025,0,0,0,0,0,Low
-580,Brennan,Johnson,Spurs,Midfielder,6.5,14,02/12/2025,2,0,0,76,0,Low
-580,Brennan,Johnson,Spurs,Midfielder,6.5,15,06/12/2025,0,0,0,0,0,Low
-580,Brennan,Johnson,Spurs,Midfielder,6.5,16,14/12/2025,1,0,0,10,0,Low
-580,Brennan,Johnson,Spurs,Midfielder,6.5,17,20/12/2025,1,0,0,32,0,Low
-580,Brennan,Johnson,Spurs,Midfielder,6.5,18,28/12/2025,1,0,0,5,0,Low
-580,Brennan,Johnson,Spurs,Midfielder,6.5,19,01/01/2026,0,0,0,0,0,Low
 581,James,Maddison,Spurs,Midfielder,6.8,1,16/08/2025,0,0,0,0,0,Low
 581,James,Maddison,Spurs,Midfielder,6.8,2,23/08/2025,0,0,0,0,0,Low
 581,James,Maddison,Spurs,Midfielder,6.8,3,30/08/2025,0,0,0,0,0,Low
