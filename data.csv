@@ -87,28 +87,28 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 4,Tommy,Setford,Arsenal,Goalkeeper,3.9,20,03/01/2026,0,0,0,0,0,Low
 4,Tommy,Setford,Arsenal,Goalkeeper,3.9,21,08/01/2026,0,0,0,0,0,Low
 4,Tommy,Setford,Arsenal,Goalkeeper,3.9,22,17/01/2026,0,0,0,0,0,Low
-5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.8,1,17/08/2025,6,0,0,90,1,High
-5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.8,2,23/08/2025,6,0,0,90,1,High
-5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.8,3,31/08/2025,2,0,0,90,0,High
-5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.8,4,13/09/2025,9,0,0,90,1,High
-5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.8,5,21/09/2025,2,0,0,90,0,High
-5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.8,6,28/09/2025,13,1,0,90,0,High
-5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.8,7,04/10/2025,9,0,0,90,1,High
-5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.8,8,18/10/2025,12,0,1,90,1,High
-5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.8,9,26/10/2025,9,0,0,90,1,High
-5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.8,10,01/11/2025,12,0,1,90,1,High
-5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.8,11,08/11/2025,1,0,0,90,0,High
-5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.8,12,23/11/2025,0,0,0,0,0,High
-5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.8,13,30/11/2025,0,0,0,0,0,High
-5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.8,14,03/12/2025,0,0,0,0,0,High
-5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.8,15,06/12/2025,0,0,0,0,0,High
-5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.8,16,13/12/2025,0,0,0,0,0,High
-5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.8,17,20/12/2025,0,0,0,0,0,High
-5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.8,18,27/12/2025,1,0,0,19,0,High
-5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.8,19,30/12/2025,15,1,0,76,1,High
-5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.8,20,03/01/2026,9,1,0,90,0,High
-5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.8,21,08/01/2026,6,0,0,90,1,High
-5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.8,22,17/01/2026,8,0,0,90,1,High
+5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.9,1,17/08/2025,6,0,0,90,1,High
+5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.9,2,23/08/2025,6,0,0,90,1,High
+5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.9,3,31/08/2025,2,0,0,90,0,High
+5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.9,4,13/09/2025,9,0,0,90,1,High
+5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.9,5,21/09/2025,2,0,0,90,0,High
+5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.9,6,28/09/2025,13,1,0,90,0,High
+5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.9,7,04/10/2025,9,0,0,90,1,High
+5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.9,8,18/10/2025,12,0,1,90,1,High
+5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.9,9,26/10/2025,9,0,0,90,1,High
+5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.9,10,01/11/2025,12,0,1,90,1,High
+5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.9,11,08/11/2025,1,0,0,90,0,High
+5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.9,12,23/11/2025,0,0,0,0,0,High
+5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.9,13,30/11/2025,0,0,0,0,0,High
+5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.9,14,03/12/2025,0,0,0,0,0,High
+5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.9,15,06/12/2025,0,0,0,0,0,High
+5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.9,16,13/12/2025,0,0,0,0,0,High
+5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.9,17,20/12/2025,0,0,0,0,0,High
+5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.9,18,27/12/2025,1,0,0,19,0,High
+5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.9,19,30/12/2025,15,1,0,76,1,High
+5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.9,20,03/01/2026,9,1,0,90,0,High
+5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.9,21,08/01/2026,6,0,0,90,1,High
+5,Gabriel,dos Santos Magalhães,Arsenal,Defender,6.9,22,17/01/2026,8,0,0,90,1,High
 6,William,Saliba,Arsenal,Defender,6.0,1,17/08/2025,9,0,0,90,1,High
 6,William,Saliba,Arsenal,Defender,6.0,2,23/08/2025,6,0,0,90,1,High
 6,William,Saliba,Arsenal,Defender,6.0,3,31/08/2025,1,0,0,4,0,High
@@ -2998,28 +2998,28 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 84,Marcus,Tavernier,Bournemouth,Midfielder,5.5,20,03/01/2026,2,0,0,90,0,Low
 84,Marcus,Tavernier,Bournemouth,Midfielder,5.5,21,07/01/2026,5,0,1,86,0,Low
 84,Marcus,Tavernier,Bournemouth,Midfielder,5.5,22,19/01/2026,8,1,0,70,1,Low
-85,Tyler,Adams,Bournemouth,Midfielder,5.0,1,15/08/2025,4,0,0,90,0,Low
-85,Tyler,Adams,Bournemouth,Midfielder,5.0,2,23/08/2025,2,0,0,87,1,Low
-85,Tyler,Adams,Bournemouth,Midfielder,5.0,3,30/08/2025,4,0,0,90,1,Low
-85,Tyler,Adams,Bournemouth,Midfielder,5.0,4,13/09/2025,1,0,0,90,0,Low
-85,Tyler,Adams,Bournemouth,Midfielder,5.0,5,21/09/2025,3,0,0,90,1,Low
-85,Tyler,Adams,Bournemouth,Midfielder,5.0,6,27/09/2025,2,0,0,80,0,Low
-85,Tyler,Adams,Bournemouth,Midfielder,5.0,7,03/10/2025,2,0,0,77,0,Low
-85,Tyler,Adams,Bournemouth,Midfielder,5.0,8,18/10/2025,3,0,0,90,0,Low
-85,Tyler,Adams,Bournemouth,Midfielder,5.0,9,26/10/2025,6,0,1,90,1,Low
-85,Tyler,Adams,Bournemouth,Midfielder,5.0,10,02/11/2025,8,1,0,79,0,Low
-85,Tyler,Adams,Bournemouth,Midfielder,5.0,11,09/11/2025,2,0,0,90,0,Low
-85,Tyler,Adams,Bournemouth,Midfielder,5.0,12,22/11/2025,2,0,0,79,0,Low
-85,Tyler,Adams,Bournemouth,Midfielder,5.0,13,29/11/2025,9,1,0,70,0,Low
-85,Tyler,Adams,Bournemouth,Midfielder,5.0,14,02/12/2025,1,0,0,90,0,Low
-85,Tyler,Adams,Bournemouth,Midfielder,5.0,15,06/12/2025,0,0,0,0,0,Low
-85,Tyler,Adams,Bournemouth,Midfielder,5.0,16,15/12/2025,1,0,0,4,0,Low
-85,Tyler,Adams,Bournemouth,Midfielder,5.0,17,20/12/2025,0,0,0,0,0,Low
-85,Tyler,Adams,Bournemouth,Midfielder,5.0,18,27/12/2025,0,0,0,0,0,Low
-85,Tyler,Adams,Bournemouth,Midfielder,5.0,19,30/12/2025,0,0,0,0,0,Low
-85,Tyler,Adams,Bournemouth,Midfielder,5.0,20,03/01/2026,0,0,0,0,0,Low
-85,Tyler,Adams,Bournemouth,Midfielder,5.0,21,07/01/2026,0,0,0,0,0,Low
-85,Tyler,Adams,Bournemouth,Midfielder,5.0,22,19/01/2026,0,0,0,0,0,Low
+85,Tyler,Adams,Bournemouth,Midfielder,4.9,1,15/08/2025,4,0,0,90,0,Low
+85,Tyler,Adams,Bournemouth,Midfielder,4.9,2,23/08/2025,2,0,0,87,1,Low
+85,Tyler,Adams,Bournemouth,Midfielder,4.9,3,30/08/2025,4,0,0,90,1,Low
+85,Tyler,Adams,Bournemouth,Midfielder,4.9,4,13/09/2025,1,0,0,90,0,Low
+85,Tyler,Adams,Bournemouth,Midfielder,4.9,5,21/09/2025,3,0,0,90,1,Low
+85,Tyler,Adams,Bournemouth,Midfielder,4.9,6,27/09/2025,2,0,0,80,0,Low
+85,Tyler,Adams,Bournemouth,Midfielder,4.9,7,03/10/2025,2,0,0,77,0,Low
+85,Tyler,Adams,Bournemouth,Midfielder,4.9,8,18/10/2025,3,0,0,90,0,Low
+85,Tyler,Adams,Bournemouth,Midfielder,4.9,9,26/10/2025,6,0,1,90,1,Low
+85,Tyler,Adams,Bournemouth,Midfielder,4.9,10,02/11/2025,8,1,0,79,0,Low
+85,Tyler,Adams,Bournemouth,Midfielder,4.9,11,09/11/2025,2,0,0,90,0,Low
+85,Tyler,Adams,Bournemouth,Midfielder,4.9,12,22/11/2025,2,0,0,79,0,Low
+85,Tyler,Adams,Bournemouth,Midfielder,4.9,13,29/11/2025,9,1,0,70,0,Low
+85,Tyler,Adams,Bournemouth,Midfielder,4.9,14,02/12/2025,1,0,0,90,0,Low
+85,Tyler,Adams,Bournemouth,Midfielder,4.9,15,06/12/2025,0,0,0,0,0,Low
+85,Tyler,Adams,Bournemouth,Midfielder,4.9,16,15/12/2025,1,0,0,4,0,Low
+85,Tyler,Adams,Bournemouth,Midfielder,4.9,17,20/12/2025,0,0,0,0,0,Low
+85,Tyler,Adams,Bournemouth,Midfielder,4.9,18,27/12/2025,0,0,0,0,0,Low
+85,Tyler,Adams,Bournemouth,Midfielder,4.9,19,30/12/2025,0,0,0,0,0,Low
+85,Tyler,Adams,Bournemouth,Midfielder,4.9,20,03/01/2026,0,0,0,0,0,Low
+85,Tyler,Adams,Bournemouth,Midfielder,4.9,21,07/01/2026,0,0,0,0,0,Low
+85,Tyler,Adams,Bournemouth,Midfielder,4.9,22,19/01/2026,0,0,0,0,0,Low
 86,David,Brooks,Bournemouth,Midfielder,5.0,1,15/08/2025,4,0,1,83,0,Low
 86,David,Brooks,Bournemouth,Midfielder,5.0,2,23/08/2025,3,0,0,66,1,Low
 86,David,Brooks,Bournemouth,Midfielder,5.0,3,30/08/2025,4,0,0,63,1,Low
@@ -9860,28 +9860,28 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 182,James,Trafford,Man City,Goalkeeper,4.5,20,04/01/2026,0,0,0,0,0,Medium
 182,James,Trafford,Man City,Goalkeeper,4.5,21,07/01/2026,0,0,0,0,0,Medium
 182,James,Trafford,Man City,Goalkeeper,4.5,22,17/01/2026,0,0,0,0,0,Medium
-260,Marc,Guéhi,Man City,Defender,5.3,1,17/08/2025,6,0,0,90,1,Medium
-260,Marc,Guéhi,Man City,Defender,5.3,2,24/08/2025,2,0,0,90,0,Medium
-260,Marc,Guéhi,Man City,Defender,5.3,3,31/08/2025,15,1,0,90,1,Medium
-260,Marc,Guéhi,Man City,Defender,5.3,4,13/09/2025,6,0,0,90,1,Medium
-260,Marc,Guéhi,Man City,Defender,5.3,5,20/09/2025,7,0,1,90,0,Medium
-260,Marc,Guéhi,Man City,Defender,5.3,6,27/09/2025,7,0,1,90,0,Medium
-260,Marc,Guéhi,Man City,Defender,5.3,7,05/10/2025,3,0,0,90,0,Medium
-260,Marc,Guéhi,Man City,Defender,5.3,8,18/10/2025,4,0,1,90,0,Medium
-260,Marc,Guéhi,Man City,Defender,5.3,9,26/10/2025,4,0,0,90,0,Medium
-260,Marc,Guéhi,Man City,Defender,5.3,10,01/11/2025,10,0,0,90,1,Medium
-260,Marc,Guéhi,Man City,Defender,5.3,11,09/11/2025,0,0,0,0,0,Medium
-260,Marc,Guéhi,Man City,Defender,5.3,12,22/11/2025,5,0,0,90,1,Medium
-260,Marc,Guéhi,Man City,Defender,5.3,13,30/11/2025,0,0,0,90,0,Medium
-260,Marc,Guéhi,Man City,Defender,5.3,14,03/12/2025,14,0,1,90,1,Medium
-260,Marc,Guéhi,Man City,Defender,5.3,15,07/12/2025,8,1,0,90,0,Medium
-260,Marc,Guéhi,Man City,Defender,5.3,16,14/12/2025,1,0,0,90,0,Medium
-260,Marc,Guéhi,Man City,Defender,5.3,17,20/12/2025,1,0,0,90,0,Medium
-260,Marc,Guéhi,Man City,Defender,5.3,18,28/12/2025,2,0,0,90,0,Medium
-260,Marc,Guéhi,Man City,Defender,5.3,19,01/01/2026,2,0,0,90,0,Medium
-260,Marc,Guéhi,Man City,Defender,5.3,20,04/01/2026,2,0,0,90,0,Medium
-260,Marc,Guéhi,Man City,Defender,5.3,21,07/01/2026,6,0,0,90,1,Medium
-260,Marc,Guéhi,Man City,Defender,5.3,22,17/01/2026,0,0,0,0,0,Medium
+260,Marc,Guéhi,Man City,Defender,5.2,1,17/08/2025,6,0,0,90,1,Medium
+260,Marc,Guéhi,Man City,Defender,5.2,2,24/08/2025,2,0,0,90,0,Medium
+260,Marc,Guéhi,Man City,Defender,5.2,3,31/08/2025,15,1,0,90,1,Medium
+260,Marc,Guéhi,Man City,Defender,5.2,4,13/09/2025,6,0,0,90,1,Medium
+260,Marc,Guéhi,Man City,Defender,5.2,5,20/09/2025,7,0,1,90,0,Medium
+260,Marc,Guéhi,Man City,Defender,5.2,6,27/09/2025,7,0,1,90,0,Medium
+260,Marc,Guéhi,Man City,Defender,5.2,7,05/10/2025,3,0,0,90,0,Medium
+260,Marc,Guéhi,Man City,Defender,5.2,8,18/10/2025,4,0,1,90,0,Medium
+260,Marc,Guéhi,Man City,Defender,5.2,9,26/10/2025,4,0,0,90,0,Medium
+260,Marc,Guéhi,Man City,Defender,5.2,10,01/11/2025,10,0,0,90,1,Medium
+260,Marc,Guéhi,Man City,Defender,5.2,11,09/11/2025,0,0,0,0,0,Medium
+260,Marc,Guéhi,Man City,Defender,5.2,12,22/11/2025,5,0,0,90,1,Medium
+260,Marc,Guéhi,Man City,Defender,5.2,13,30/11/2025,0,0,0,90,0,Medium
+260,Marc,Guéhi,Man City,Defender,5.2,14,03/12/2025,14,0,1,90,1,Medium
+260,Marc,Guéhi,Man City,Defender,5.2,15,07/12/2025,8,1,0,90,0,Medium
+260,Marc,Guéhi,Man City,Defender,5.2,16,14/12/2025,1,0,0,90,0,Medium
+260,Marc,Guéhi,Man City,Defender,5.2,17,20/12/2025,1,0,0,90,0,Medium
+260,Marc,Guéhi,Man City,Defender,5.2,18,28/12/2025,2,0,0,90,0,Medium
+260,Marc,Guéhi,Man City,Defender,5.2,19,01/01/2026,2,0,0,90,0,Medium
+260,Marc,Guéhi,Man City,Defender,5.2,20,04/01/2026,2,0,0,90,0,Medium
+260,Marc,Guéhi,Man City,Defender,5.2,21,07/01/2026,6,0,0,90,1,Medium
+260,Marc,Guéhi,Man City,Defender,5.2,22,17/01/2026,0,0,0,0,0,Medium
 399,Ederson,Santana de Moraes,Man City,Goalkeeper,5.3,1,16/08/2025,0,0,0,0,0,High
 399,Ederson,Santana de Moraes,Man City,Goalkeeper,5.3,2,23/08/2025,0,0,0,0,0,High
 399,Ederson,Santana de Moraes,Man City,Goalkeeper,5.3,3,31/08/2025,0,0,0,0,0,High
