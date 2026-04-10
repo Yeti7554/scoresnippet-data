@@ -5058,14 +5058,14 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 806,Christos,Mandas,Bournemouth,Goalkeeper,4.0,29,03/03/2026,0,0,0,0,0,Low
 806,Christos,Mandas,Bournemouth,Goalkeeper,4.0,30,14/03/2026,0,0,0,0,0,Low
 806,Christos,Mandas,Bournemouth,Goalkeeper,4.0,31,20/03/2026,0,0,0,0,0,Low
-807,Rayan Vitor,Simplício Rocha,Bournemouth,Midfielder,5.6,24,31/01/2026,4,0,1,22,0,Low
-807,Rayan Vitor,Simplício Rocha,Bournemouth,Midfielder,5.6,25,07/02/2026,9,1,0,86,0,Low
-807,Rayan Vitor,Simplício Rocha,Bournemouth,Midfielder,5.6,26,10/02/2026,6,1,0,90,0,Low
-807,Rayan Vitor,Simplício Rocha,Bournemouth,Midfielder,5.6,27,21/02/2026,3,0,0,90,1,Low
-807,Rayan Vitor,Simplício Rocha,Bournemouth,Midfielder,5.6,28,28/02/2026,2,0,0,90,0,Low
-807,Rayan Vitor,Simplício Rocha,Bournemouth,Midfielder,5.6,29,03/03/2026,3,0,0,73,1,Low
-807,Rayan Vitor,Simplício Rocha,Bournemouth,Midfielder,5.6,30,14/03/2026,3,0,0,86,1,Low
-807,Rayan Vitor,Simplício Rocha,Bournemouth,Midfielder,5.6,31,20/03/2026,2,0,0,86,0,Low
+807,Rayan Vitor,Simplício Rocha,Bournemouth,Midfielder,5.5,24,31/01/2026,4,0,1,22,0,Low
+807,Rayan Vitor,Simplício Rocha,Bournemouth,Midfielder,5.5,25,07/02/2026,9,1,0,86,0,Low
+807,Rayan Vitor,Simplício Rocha,Bournemouth,Midfielder,5.5,26,10/02/2026,6,1,0,90,0,Low
+807,Rayan Vitor,Simplício Rocha,Bournemouth,Midfielder,5.5,27,21/02/2026,3,0,0,90,1,Low
+807,Rayan Vitor,Simplício Rocha,Bournemouth,Midfielder,5.5,28,28/02/2026,2,0,0,90,0,Low
+807,Rayan Vitor,Simplício Rocha,Bournemouth,Midfielder,5.5,29,03/03/2026,3,0,0,73,1,Low
+807,Rayan Vitor,Simplício Rocha,Bournemouth,Midfielder,5.5,30,14/03/2026,3,0,0,86,1,Low
+807,Rayan Vitor,Simplício Rocha,Bournemouth,Midfielder,5.5,31,20/03/2026,2,0,0,86,0,Low
 27,Reiss,Nelson,Brentford,Midfielder,4.8,1,17/08/2025,0,0,0,0,0,Low
 27,Reiss,Nelson,Brentford,Midfielder,4.8,2,23/08/2025,0,0,0,0,0,Low
 27,Reiss,Nelson,Brentford,Midfielder,4.8,3,31/08/2025,0,0,0,0,0,Low
@@ -5407,37 +5407,37 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 109,Rico,Henry,Brentford,Defender,4.3,29,03/03/2026,1,0,0,20,0,Low
 109,Rico,Henry,Brentford,Defender,4.3,30,16/03/2026,0,0,0,0,0,Low
 109,Rico,Henry,Brentford,Defender,4.3,31,21/03/2026,0,0,0,0,0,Low
-110,Michael,Kayode,Brentford,Defender,4.5,1,17/08/2025,1,0,0,90,0,Low
-110,Michael,Kayode,Brentford,Defender,4.5,2,23/08/2025,10,0,0,84,1,Low
-110,Michael,Kayode,Brentford,Defender,4.5,3,30/08/2025,1,0,0,90,0,Low
-110,Michael,Kayode,Brentford,Defender,4.5,4,13/09/2025,2,0,0,82,0,Low
-110,Michael,Kayode,Brentford,Defender,4.5,5,20/09/2025,1,0,0,90,0,Low
-110,Michael,Kayode,Brentford,Defender,4.5,6,27/09/2025,2,0,0,90,0,Low
-110,Michael,Kayode,Brentford,Defender,4.5,7,05/10/2025,2,0,0,90,0,Low
-110,Michael,Kayode,Brentford,Defender,4.5,8,20/10/2025,9,0,0,90,1,Low
-110,Michael,Kayode,Brentford,Defender,4.5,9,25/10/2025,1,0,0,90,0,Low
-110,Michael,Kayode,Brentford,Defender,4.5,10,01/11/2025,1,0,0,66,0,Low
-110,Michael,Kayode,Brentford,Defender,4.5,11,09/11/2025,4,0,1,90,0,Low
-110,Michael,Kayode,Brentford,Defender,4.5,12,22/11/2025,1,0,0,90,0,Low
-110,Michael,Kayode,Brentford,Defender,4.5,13,29/11/2025,2,0,0,90,0,Low
-110,Michael,Kayode,Brentford,Defender,4.5,14,03/12/2025,1,0,0,90,0,Low
-110,Michael,Kayode,Brentford,Defender,4.5,15,06/12/2025,0,0,0,75,0,Low
-110,Michael,Kayode,Brentford,Defender,4.5,16,14/12/2025,5,0,0,90,0,Low
-110,Michael,Kayode,Brentford,Defender,4.5,17,20/12/2025,5,0,0,90,1,Low
-110,Michael,Kayode,Brentford,Defender,4.5,18,27/12/2025,3,0,0,90,0,Low
-110,Michael,Kayode,Brentford,Defender,4.5,19,01/01/2026,6,0,0,90,1,Low
-110,Michael,Kayode,Brentford,Defender,4.5,20,04/01/2026,0,0,0,90,0,Low
-110,Michael,Kayode,Brentford,Defender,4.5,21,07/01/2026,6,0,0,81,1,Low
-110,Michael,Kayode,Brentford,Defender,4.5,22,17/01/2026,1,0,0,90,0,Low
-110,Michael,Kayode,Brentford,Defender,4.5,23,25/01/2026,1,0,0,80,0,Low
-110,Michael,Kayode,Brentford,Defender,4.5,24,01/02/2026,5,0,0,90,1,Low
-110,Michael,Kayode,Brentford,Defender,4.5,25,07/02/2026,1,0,0,90,0,Low
-110,Michael,Kayode,Brentford,Defender,4.5,26,12/02/2026,2,0,0,90,0,Low
-110,Michael,Kayode,Brentford,Defender,4.5,27,21/02/2026,0,0,0,0,0,Low
-110,Michael,Kayode,Brentford,Defender,4.5,28,28/02/2026,-1,0,0,90,0,Low
-110,Michael,Kayode,Brentford,Defender,4.5,29,03/03/2026,6,0,0,90,1,Low
-110,Michael,Kayode,Brentford,Defender,4.5,30,16/03/2026,8,1,0,90,0,Low
-110,Michael,Kayode,Brentford,Defender,4.5,31,21/03/2026,6,0,0,90,1,Low
+110,Michael,Kayode,Brentford,Defender,4.6,1,17/08/2025,1,0,0,90,0,Low
+110,Michael,Kayode,Brentford,Defender,4.6,2,23/08/2025,10,0,0,84,1,Low
+110,Michael,Kayode,Brentford,Defender,4.6,3,30/08/2025,1,0,0,90,0,Low
+110,Michael,Kayode,Brentford,Defender,4.6,4,13/09/2025,2,0,0,82,0,Low
+110,Michael,Kayode,Brentford,Defender,4.6,5,20/09/2025,1,0,0,90,0,Low
+110,Michael,Kayode,Brentford,Defender,4.6,6,27/09/2025,2,0,0,90,0,Low
+110,Michael,Kayode,Brentford,Defender,4.6,7,05/10/2025,2,0,0,90,0,Low
+110,Michael,Kayode,Brentford,Defender,4.6,8,20/10/2025,9,0,0,90,1,Low
+110,Michael,Kayode,Brentford,Defender,4.6,9,25/10/2025,1,0,0,90,0,Low
+110,Michael,Kayode,Brentford,Defender,4.6,10,01/11/2025,1,0,0,66,0,Low
+110,Michael,Kayode,Brentford,Defender,4.6,11,09/11/2025,4,0,1,90,0,Low
+110,Michael,Kayode,Brentford,Defender,4.6,12,22/11/2025,1,0,0,90,0,Low
+110,Michael,Kayode,Brentford,Defender,4.6,13,29/11/2025,2,0,0,90,0,Low
+110,Michael,Kayode,Brentford,Defender,4.6,14,03/12/2025,1,0,0,90,0,Low
+110,Michael,Kayode,Brentford,Defender,4.6,15,06/12/2025,0,0,0,75,0,Low
+110,Michael,Kayode,Brentford,Defender,4.6,16,14/12/2025,5,0,0,90,0,Low
+110,Michael,Kayode,Brentford,Defender,4.6,17,20/12/2025,5,0,0,90,1,Low
+110,Michael,Kayode,Brentford,Defender,4.6,18,27/12/2025,3,0,0,90,0,Low
+110,Michael,Kayode,Brentford,Defender,4.6,19,01/01/2026,6,0,0,90,1,Low
+110,Michael,Kayode,Brentford,Defender,4.6,20,04/01/2026,0,0,0,90,0,Low
+110,Michael,Kayode,Brentford,Defender,4.6,21,07/01/2026,6,0,0,81,1,Low
+110,Michael,Kayode,Brentford,Defender,4.6,22,17/01/2026,1,0,0,90,0,Low
+110,Michael,Kayode,Brentford,Defender,4.6,23,25/01/2026,1,0,0,80,0,Low
+110,Michael,Kayode,Brentford,Defender,4.6,24,01/02/2026,5,0,0,90,1,Low
+110,Michael,Kayode,Brentford,Defender,4.6,25,07/02/2026,1,0,0,90,0,Low
+110,Michael,Kayode,Brentford,Defender,4.6,26,12/02/2026,2,0,0,90,0,Low
+110,Michael,Kayode,Brentford,Defender,4.6,27,21/02/2026,0,0,0,0,0,Low
+110,Michael,Kayode,Brentford,Defender,4.6,28,28/02/2026,-1,0,0,90,0,Low
+110,Michael,Kayode,Brentford,Defender,4.6,29,03/03/2026,6,0,0,90,1,Low
+110,Michael,Kayode,Brentford,Defender,4.6,30,16/03/2026,8,1,0,90,0,Low
+110,Michael,Kayode,Brentford,Defender,4.6,31,21/03/2026,6,0,0,90,1,Low
 111,Ethan,Pinnock,Brentford,Defender,4.2,1,17/08/2025,0,0,0,0,0,Low
 111,Ethan,Pinnock,Brentford,Defender,4.2,2,23/08/2025,0,0,0,0,0,Low
 111,Ethan,Pinnock,Brentford,Defender,4.2,3,30/08/2025,0,0,0,0,0,Low
