@@ -1311,43 +1311,43 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 759,Marli,Salmon,Arsenal,Defender,4.0,35,02/05/2026,0,0,0,0,0,Low
 759,Marli,Salmon,Arsenal,Defender,4.0,36,10/05/2026,0,0,0,0,0,Low
 759,Marli,Salmon,Arsenal,Defender,4.0,37,18/05/2026,0,0,0,0,0,Low
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,1,16/08/2025,0,0,0,0,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,2,23/08/2025,2,0,0,90,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,3,31/08/2025,0,0,0,0,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,4,13/09/2025,6,0,0,90,1,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,5,21/09/2025,3,0,0,90,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,6,28/09/2025,3,0,0,90,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,7,05/10/2025,1,0,0,90,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,8,19/10/2025,2,0,0,90,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,9,26/10/2025,8,0,0,90,1,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,10,01/11/2025,1,0,0,90,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,11,09/11/2025,14,0,0,90,1,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,12,23/11/2025,3,0,0,90,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,13,30/11/2025,7,0,0,90,1,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,14,03/12/2025,0,0,0,0,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,15,06/12/2025,4,0,0,90,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,16,14/12/2025,0,0,0,0,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,17,21/12/2025,3,0,0,90,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,18,27/12/2025,2,0,0,90,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,19,30/12/2025,1,0,0,90,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,20,03/01/2026,3,0,0,90,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,21,07/01/2026,1,0,0,45,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,22,18/01/2026,2,0,0,90,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,23,25/01/2026,10,0,0,90,1,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,24,01/02/2026,2,0,0,90,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,25,07/02/2026,6,0,0,90,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,26,11/02/2026,8,0,0,90,1,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,27,21/02/2026,3,0,0,90,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,28,27/02/2026,1,0,0,90,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,29,04/03/2026,1,0,0,90,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,30,15/03/2026,2,0,0,90,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,31,22/03/2026,6,0,0,90,1,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,32,12/04/2026,0,0,0,0,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,33,19/04/2026,2,0,0,90,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,34,25/04/2026,3,0,0,90,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,35,03/05/2026,2,0,0,90,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,36,10/05/2026,6,0,1,90,0,High
-32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.1,37,15/05/2026,2,0,0,90,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,1,16/08/2025,0,0,0,0,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,2,23/08/2025,2,0,0,90,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,3,31/08/2025,0,0,0,0,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,4,13/09/2025,6,0,0,90,1,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,5,21/09/2025,3,0,0,90,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,6,28/09/2025,3,0,0,90,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,7,05/10/2025,1,0,0,90,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,8,19/10/2025,2,0,0,90,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,9,26/10/2025,8,0,0,90,1,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,10,01/11/2025,1,0,0,90,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,11,09/11/2025,14,0,0,90,1,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,12,23/11/2025,3,0,0,90,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,13,30/11/2025,7,0,0,90,1,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,14,03/12/2025,0,0,0,0,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,15,06/12/2025,4,0,0,90,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,16,14/12/2025,0,0,0,0,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,17,21/12/2025,3,0,0,90,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,18,27/12/2025,2,0,0,90,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,19,30/12/2025,1,0,0,90,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,20,03/01/2026,3,0,0,90,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,21,07/01/2026,1,0,0,45,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,22,18/01/2026,2,0,0,90,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,23,25/01/2026,10,0,0,90,1,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,24,01/02/2026,2,0,0,90,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,25,07/02/2026,6,0,0,90,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,26,11/02/2026,8,0,0,90,1,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,27,21/02/2026,3,0,0,90,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,28,27/02/2026,1,0,0,90,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,29,04/03/2026,1,0,0,90,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,30,15/03/2026,2,0,0,90,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,31,22/03/2026,6,0,0,90,1,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,32,12/04/2026,0,0,0,0,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,33,19/04/2026,2,0,0,90,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,34,25/04/2026,3,0,0,90,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,35,03/05/2026,2,0,0,90,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,36,10/05/2026,6,0,1,90,0,High
+32,Emiliano,Martínez Romero,Aston Villa,Goalkeeper,5.0,37,15/05/2026,2,0,0,90,0,High
 33,Marco,Bizot,Aston Villa,Goalkeeper,4.2,1,16/08/2025,7,0,0,90,1,Low
 33,Marco,Bizot,Aston Villa,Goalkeeper,4.2,2,23/08/2025,0,0,0,0,0,Low
 33,Marco,Bizot,Aston Villa,Goalkeeper,4.2,3,31/08/2025,0,0,0,90,0,Low
@@ -1459,43 +1459,43 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 35,Filip,Marschall,Aston Villa,Goalkeeper,4.0,35,03/05/2026,0,0,0,0,0,Low
 35,Filip,Marschall,Aston Villa,Goalkeeper,4.0,36,10/05/2026,0,0,0,0,0,Low
 35,Filip,Marschall,Aston Villa,Goalkeeper,4.0,37,15/05/2026,0,0,0,0,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,1,16/08/2025,8,0,0,90,1,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,2,23/08/2025,2,0,0,90,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,3,31/08/2025,0,0,0,73,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,4,13/09/2025,5,0,0,90,1,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,5,21/09/2025,10,1,0,90,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,6,28/09/2025,2,0,0,90,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,7,05/10/2025,2,0,0,83,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,8,19/10/2025,2,0,0,90,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,9,26/10/2025,15,1,0,90,1,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,10,01/11/2025,0,0,0,90,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,11,09/11/2025,6,0,0,90,1,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,12,23/11/2025,2,0,0,90,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,13,30/11/2025,6,0,0,90,1,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,14,03/12/2025,4,0,1,90,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,15,06/12/2025,9,1,0,86,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,16,14/12/2025,0,0,0,90,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,17,21/12/2025,2,0,0,90,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,18,27/12/2025,1,0,0,90,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,19,30/12/2025,0,0,0,0,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,20,03/01/2026,5,0,1,89,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,21,07/01/2026,6,0,0,90,1,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,22,18/01/2026,2,0,0,90,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,23,25/01/2026,6,0,0,90,1,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,24,01/02/2026,2,0,0,90,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,25,07/02/2026,2,0,0,90,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,26,11/02/2026,0,0,0,0,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,27,21/02/2026,2,0,0,86,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,28,27/02/2026,0,0,0,90,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,29,04/03/2026,-1,0,0,45,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,30,15/03/2026,0,0,0,0,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,31,22/03/2026,6,0,0,90,1,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,32,12/04/2026,1,0,0,90,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,33,19/04/2026,1,0,0,90,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,34,25/04/2026,2,0,0,90,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,35,03/05/2026,5,0,1,90,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,36,10/05/2026,1,0,0,79,0,Low
-36,Matty,Cash,Aston Villa,Defender,4.7,37,15/05/2026,0,0,0,90,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,1,16/08/2025,8,0,0,90,1,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,2,23/08/2025,2,0,0,90,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,3,31/08/2025,0,0,0,73,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,4,13/09/2025,5,0,0,90,1,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,5,21/09/2025,10,1,0,90,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,6,28/09/2025,2,0,0,90,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,7,05/10/2025,2,0,0,83,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,8,19/10/2025,2,0,0,90,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,9,26/10/2025,15,1,0,90,1,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,10,01/11/2025,0,0,0,90,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,11,09/11/2025,6,0,0,90,1,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,12,23/11/2025,2,0,0,90,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,13,30/11/2025,6,0,0,90,1,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,14,03/12/2025,4,0,1,90,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,15,06/12/2025,9,1,0,86,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,16,14/12/2025,0,0,0,90,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,17,21/12/2025,2,0,0,90,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,18,27/12/2025,1,0,0,90,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,19,30/12/2025,0,0,0,0,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,20,03/01/2026,5,0,1,89,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,21,07/01/2026,6,0,0,90,1,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,22,18/01/2026,2,0,0,90,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,23,25/01/2026,6,0,0,90,1,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,24,01/02/2026,2,0,0,90,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,25,07/02/2026,2,0,0,90,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,26,11/02/2026,0,0,0,0,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,27,21/02/2026,2,0,0,86,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,28,27/02/2026,0,0,0,90,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,29,04/03/2026,-1,0,0,45,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,30,15/03/2026,0,0,0,0,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,31,22/03/2026,6,0,0,90,1,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,32,12/04/2026,1,0,0,90,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,33,19/04/2026,1,0,0,90,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,34,25/04/2026,2,0,0,90,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,35,03/05/2026,5,0,1,90,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,36,10/05/2026,1,0,0,79,0,Low
+36,Matty,Cash,Aston Villa,Defender,4.6,37,15/05/2026,0,0,0,90,0,Low
 37,Lucas,Digne,Aston Villa,Defender,4.5,1,16/08/2025,6,0,0,90,1,Low
 37,Lucas,Digne,Aston Villa,Defender,4.5,2,23/08/2025,2,0,0,63,0,Low
 37,Lucas,Digne,Aston Villa,Defender,4.5,3,31/08/2025,1,0,0,7,0,Low
@@ -8824,43 +8824,43 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 172,Tom,Watson,Brighton,Midfielder,4.8,35,02/05/2026,0,0,0,0,0,Low
 172,Tom,Watson,Brighton,Midfielder,4.8,36,09/05/2026,0,0,0,0,0,Low
 172,Tom,Watson,Brighton,Midfielder,4.8,37,17/05/2026,0,0,0,0,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,1,16/08/2025,4,0,0,90,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,2,24/08/2025,3,0,0,84,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,3,31/08/2025,0,0,0,0,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,4,13/09/2025,0,0,0,0,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,5,20/09/2025,1,0,0,5,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,6,27/09/2025,3,0,1,35,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,7,05/10/2025,1,0,0,69,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,8,18/10/2025,7,0,1,90,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,9,25/10/2025,4,0,0,86,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,10,01/11/2025,10,0,1,90,1,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,11,09/11/2025,3,0,0,90,1,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,12,22/11/2025,4,0,0,90,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,13,30/11/2025,4,0,0,90,1,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,14,03/12/2025,8,0,1,90,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,15,07/12/2025,2,0,0,90,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,16,13/12/2025,2,0,0,90,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,17,20/12/2025,1,0,0,45,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,18,27/12/2025,1,0,0,45,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,19,30/12/2025,0,0,0,0,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,20,03/01/2026,0,0,0,0,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,21,07/01/2026,0,0,0,0,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,22,19/01/2026,0,0,0,0,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,23,24/01/2026,0,0,0,0,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,24,31/01/2026,0,0,0,0,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,25,08/02/2026,0,0,0,0,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,26,11/02/2026,0,0,0,0,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,27,21/02/2026,2,0,0,64,1,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,28,01/03/2026,1,0,0,70,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,29,04/03/2026,4,0,0,76,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,30,14/03/2026,5,0,0,90,1,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,31,21/03/2026,1,0,0,90,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,32,11/04/2026,18,2,0,90,1,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,33,18/04/2026,1,0,0,90,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,33,21/04/2026,1,0,0,45,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,35,02/05/2026,1,0,0,17,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,36,09/05/2026,0,0,0,0,0,Low
-173,Mats,Wieffer,Brighton,Midfielder,4.9,37,17/05/2026,0,0,0,0,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,1,16/08/2025,4,0,0,90,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,2,24/08/2025,3,0,0,84,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,3,31/08/2025,0,0,0,0,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,4,13/09/2025,0,0,0,0,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,5,20/09/2025,1,0,0,5,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,6,27/09/2025,3,0,1,35,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,7,05/10/2025,1,0,0,69,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,8,18/10/2025,7,0,1,90,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,9,25/10/2025,4,0,0,86,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,10,01/11/2025,10,0,1,90,1,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,11,09/11/2025,3,0,0,90,1,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,12,22/11/2025,4,0,0,90,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,13,30/11/2025,4,0,0,90,1,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,14,03/12/2025,8,0,1,90,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,15,07/12/2025,2,0,0,90,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,16,13/12/2025,2,0,0,90,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,17,20/12/2025,1,0,0,45,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,18,27/12/2025,1,0,0,45,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,19,30/12/2025,0,0,0,0,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,20,03/01/2026,0,0,0,0,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,21,07/01/2026,0,0,0,0,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,22,19/01/2026,0,0,0,0,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,23,24/01/2026,0,0,0,0,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,24,31/01/2026,0,0,0,0,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,25,08/02/2026,0,0,0,0,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,26,11/02/2026,0,0,0,0,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,27,21/02/2026,2,0,0,64,1,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,28,01/03/2026,1,0,0,70,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,29,04/03/2026,4,0,0,76,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,30,14/03/2026,5,0,0,90,1,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,31,21/03/2026,1,0,0,90,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,32,11/04/2026,18,2,0,90,1,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,33,18/04/2026,1,0,0,90,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,33,21/04/2026,1,0,0,45,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,35,02/05/2026,1,0,0,17,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,36,09/05/2026,0,0,0,0,0,Low
+173,Mats,Wieffer,Brighton,Midfielder,4.8,37,17/05/2026,0,0,0,0,0,Low
 174,Malick,Yalcouyé,Brighton,Midfielder,5.0,1,16/08/2025,0,0,0,0,0,Low
 174,Malick,Yalcouyé,Brighton,Midfielder,5.0,2,24/08/2025,0,0,0,0,0,Low
 174,Malick,Yalcouyé,Brighton,Midfielder,5.0,3,31/08/2025,0,0,0,0,0,Low
@@ -11759,43 +11759,43 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 580,Brennan,Johnson,Crystal Palace,Midfielder,6.5,36,10/05/2026,2,0,0,79,0,Low
 580,Brennan,Johnson,Crystal Palace,Midfielder,6.5,36,13/05/2026,2,0,0,74,0,Low
 580,Brennan,Johnson,Crystal Palace,Midfielder,6.5,37,17/05/2026,1,0,0,45,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,1,16/08/2025,2,0,0,81,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,2,23/08/2025,2,0,0,77,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,3,30/08/2025,0,0,0,0,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,4,13/09/2025,0,0,0,0,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,5,20/09/2025,1,0,0,45,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,6,27/09/2025,2,0,0,83,1,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,7,05/10/2025,2,0,0,76,1,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,8,18/10/2025,2,0,0,90,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,9,26/10/2025,6,1,0,90,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,10,01/11/2025,2,0,0,75,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,11,08/11/2025,2,0,0,90,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,12,22/11/2025,2,0,0,90,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,13,30/11/2025,2,0,0,90,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,14,03/12/2025,2,0,0,90,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,15,08/12/2025,1,0,0,68,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,16,13/12/2025,2,0,0,68,1,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,17,20/12/2025,0,0,0,90,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,18,27/12/2025,1,0,0,28,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,19,30/12/2025,0,0,0,26,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,20,03/01/2026,1,0,0,29,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,21,07/01/2026,4,0,1,23,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,22,18/01/2026,1,0,0,25,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,23,24/01/2026,1,0,0,45,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,24,31/01/2026,1,0,0,20,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,25,08/02/2026,1,0,0,90,1,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,26,11/02/2026,13,2,0,90,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,27,22/02/2026,2,0,0,90,1,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,28,01/03/2026,1,0,0,57,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,29,05/03/2026,5,1,0,80,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,30,15/03/2026,1,0,0,59,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,32,12/04/2026,2,0,0,64,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,33,20/04/2026,1,0,0,58,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,34,25/04/2026,1,0,0,20,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,35,03/05/2026,2,0,0,64,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,36,10/05/2026,2,0,0,64,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,36,13/05/2026,1,0,0,30,0,Low
-654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.9,37,17/05/2026,2,0,0,60,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,1,16/08/2025,2,0,0,81,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,2,23/08/2025,2,0,0,77,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,3,30/08/2025,0,0,0,0,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,4,13/09/2025,0,0,0,0,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,5,20/09/2025,1,0,0,45,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,6,27/09/2025,2,0,0,83,1,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,7,05/10/2025,2,0,0,76,1,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,8,18/10/2025,2,0,0,90,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,9,26/10/2025,6,1,0,90,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,10,01/11/2025,2,0,0,75,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,11,08/11/2025,2,0,0,90,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,12,22/11/2025,2,0,0,90,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,13,30/11/2025,2,0,0,90,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,14,03/12/2025,2,0,0,90,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,15,08/12/2025,1,0,0,68,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,16,13/12/2025,2,0,0,68,1,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,17,20/12/2025,0,0,0,90,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,18,27/12/2025,1,0,0,28,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,19,30/12/2025,0,0,0,26,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,20,03/01/2026,1,0,0,29,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,21,07/01/2026,4,0,1,23,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,22,18/01/2026,1,0,0,25,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,23,24/01/2026,1,0,0,45,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,24,31/01/2026,1,0,0,20,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,25,08/02/2026,1,0,0,90,1,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,26,11/02/2026,13,2,0,90,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,27,22/02/2026,2,0,0,90,1,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,28,01/03/2026,1,0,0,57,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,29,05/03/2026,5,1,0,80,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,30,15/03/2026,1,0,0,59,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,32,12/04/2026,2,0,0,64,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,33,20/04/2026,1,0,0,58,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,34,25/04/2026,1,0,0,20,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,35,03/05/2026,2,0,0,64,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,36,10/05/2026,2,0,0,64,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,36,13/05/2026,1,0,0,30,0,Low
+654,Jørgen,Strand Larsen,Crystal Palace,Forward,5.8,37,17/05/2026,2,0,0,60,0,Low
 677,Evann,Guessand,Crystal Palace,Midfielder,6.2,1,16/08/2025,0,0,0,0,0,Low
 677,Evann,Guessand,Crystal Palace,Midfielder,6.2,2,23/08/2025,1,0,0,15,0,Low
 677,Evann,Guessand,Crystal Palace,Midfielder,6.2,3,31/08/2025,1,0,0,45,0,Low
@@ -17175,43 +17175,43 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 832,Talla,Ndiaye,Liverpool,Defender,4.0,35,03/05/2026,0,0,0,0,0,Low
 832,Talla,Ndiaye,Liverpool,Defender,4.0,36,09/05/2026,0,0,0,0,0,Low
 832,Talla,Ndiaye,Liverpool,Defender,4.0,37,15/05/2026,0,0,0,0,0,Low
-82,Antoine,Semenyo,Man City,Midfielder,8.1,1,15/08/2025,15,2,0,90,0,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,2,23/08/2025,6,0,1,90,1,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,3,30/08/2025,2,0,0,90,1,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,4,13/09/2025,13,1,1,90,0,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,5,21/09/2025,5,0,0,90,1,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,6,27/09/2025,7,1,0,90,0,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,7,03/10/2025,18,2,1,90,0,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,8,18/10/2025,4,0,1,90,0,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,9,26/10/2025,3,0,0,90,1,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,10,02/11/2025,2,0,0,90,0,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,11,09/11/2025,0,0,0,90,0,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,12,22/11/2025,0,0,0,0,0,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,13,29/11/2025,1,0,0,90,0,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,14,02/12/2025,4,0,0,90,0,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,15,06/12/2025,3,0,0,90,1,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,16,15/12/2025,6,1,0,90,0,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,17,20/12/2025,10,1,0,90,0,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,18,27/12/2025,9,1,0,90,0,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,19,30/12/2025,5,0,1,90,0,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,20,03/01/2026,1,0,0,90,0,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,21,07/01/2026,6,1,0,90,0,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,22,17/01/2026,2,0,0,90,0,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,23,24/01/2026,8,1,0,90,1,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,24,01/02/2026,7,1,0,90,0,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,25,08/02/2026,2,0,0,90,0,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,26,11/02/2026,14,1,1,90,1,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,27,21/02/2026,4,0,0,86,0,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,28,28/02/2026,8,1,0,90,1,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,29,04/03/2026,7,1,0,90,0,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,30,14/03/2026,2,0,0,74,0,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,32,12/04/2026,2,0,0,90,1,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,33,19/04/2026,2,0,0,90,0,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,33,22/04/2026,3,0,0,64,1,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,35,04/05/2026,2,0,0,74,0,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,36,09/05/2026,3,0,0,90,1,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,36,13/05/2026,9,1,0,90,1,Medium
-82,Antoine,Semenyo,Man City,Midfielder,8.1,37,19/05/2026,1,0,0,55,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,1,15/08/2025,15,2,0,90,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,2,23/08/2025,6,0,1,90,1,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,3,30/08/2025,2,0,0,90,1,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,4,13/09/2025,13,1,1,90,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,5,21/09/2025,5,0,0,90,1,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,6,27/09/2025,7,1,0,90,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,7,03/10/2025,18,2,1,90,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,8,18/10/2025,4,0,1,90,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,9,26/10/2025,3,0,0,90,1,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,10,02/11/2025,2,0,0,90,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,11,09/11/2025,0,0,0,90,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,12,22/11/2025,0,0,0,0,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,13,29/11/2025,1,0,0,90,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,14,02/12/2025,4,0,0,90,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,15,06/12/2025,3,0,0,90,1,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,16,15/12/2025,6,1,0,90,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,17,20/12/2025,10,1,0,90,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,18,27/12/2025,9,1,0,90,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,19,30/12/2025,5,0,1,90,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,20,03/01/2026,1,0,0,90,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,21,07/01/2026,6,1,0,90,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,22,17/01/2026,2,0,0,90,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,23,24/01/2026,8,1,0,90,1,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,24,01/02/2026,7,1,0,90,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,25,08/02/2026,2,0,0,90,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,26,11/02/2026,14,1,1,90,1,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,27,21/02/2026,4,0,0,86,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,28,28/02/2026,8,1,0,90,1,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,29,04/03/2026,7,1,0,90,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,30,14/03/2026,2,0,0,74,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,32,12/04/2026,2,0,0,90,1,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,33,19/04/2026,2,0,0,90,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,33,22/04/2026,3,0,0,64,1,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,35,04/05/2026,2,0,0,74,0,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,36,09/05/2026,3,0,0,90,1,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,36,13/05/2026,9,1,0,90,1,Medium
+82,Antoine,Semenyo,Man City,Midfielder,8.0,37,19/05/2026,1,0,0,55,0,Medium
 182,James,Trafford,Man City,Goalkeeper,4.5,1,16/08/2025,7,0,0,90,1,Medium
 182,James,Trafford,Man City,Goalkeeper,4.5,2,23/08/2025,2,0,0,90,0,Medium
 182,James,Trafford,Man City,Goalkeeper,4.5,3,31/08/2025,2,0,0,90,0,Medium
@@ -22107,43 +22107,43 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 516,Callum,Hudson-Odoi,Nott'm Forest,Midfielder,5.7,35,04/05/2026,0,0,0,0,0,Low
 516,Callum,Hudson-Odoi,Nott'm Forest,Midfielder,5.7,36,10/05/2026,0,0,0,0,0,Low
 516,Callum,Hudson-Odoi,Nott'm Forest,Midfielder,5.7,37,17/05/2026,0,0,0,0,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,1,17/08/2025,6,0,1,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,2,24/08/2025,2,0,0,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,3,31/08/2025,2,0,0,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,4,13/09/2025,4,0,0,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,5,20/09/2025,4,0,0,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,6,27/09/2025,3,0,0,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,7,05/10/2025,1,0,0,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,8,18/10/2025,4,0,0,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,9,26/10/2025,2,0,0,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,10,01/11/2025,4,0,0,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,11,09/11/2025,9,1,0,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,12,22/11/2025,9,0,1,90,1,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,13,30/11/2025,6,0,0,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,14,03/12/2025,2,0,0,90,1,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,15,06/12/2025,4,0,0,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,16,14/12/2025,3,0,0,90,1,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,17,22/12/2025,4,0,0,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,18,27/12/2025,3,0,0,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,19,30/12/2025,4,0,0,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,20,03/01/2026,4,0,0,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,21,06/01/2026,7,0,1,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,22,17/01/2026,5,0,0,90,1,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,23,25/01/2026,5,0,0,90,1,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,24,01/02/2026,7,0,0,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,25,06/02/2026,4,0,0,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,26,11/02/2026,5,0,0,90,1,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,27,22/02/2026,5,0,0,76,1,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,28,01/03/2026,1,0,0,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,29,04/03/2026,12,1,0,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,30,15/03/2026,2,0,0,87,1,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,31,22/03/2026,5,0,0,90,1,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,32,12/04/2026,4,0,0,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,33,19/04/2026,2,0,0,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,34,24/04/2026,9,1,0,90,1,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,35,04/05/2026,1,0,0,45,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,36,10/05/2026,12,1,0,90,0,Low
-517,Elliot,Anderson,Nott'm Forest,Midfielder,5.6,37,17/05/2026,12,0,2,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,1,17/08/2025,6,0,1,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,2,24/08/2025,2,0,0,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,3,31/08/2025,2,0,0,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,4,13/09/2025,4,0,0,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,5,20/09/2025,4,0,0,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,6,27/09/2025,3,0,0,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,7,05/10/2025,1,0,0,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,8,18/10/2025,4,0,0,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,9,26/10/2025,2,0,0,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,10,01/11/2025,4,0,0,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,11,09/11/2025,9,1,0,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,12,22/11/2025,9,0,1,90,1,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,13,30/11/2025,6,0,0,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,14,03/12/2025,2,0,0,90,1,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,15,06/12/2025,4,0,0,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,16,14/12/2025,3,0,0,90,1,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,17,22/12/2025,4,0,0,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,18,27/12/2025,3,0,0,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,19,30/12/2025,4,0,0,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,20,03/01/2026,4,0,0,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,21,06/01/2026,7,0,1,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,22,17/01/2026,5,0,0,90,1,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,23,25/01/2026,5,0,0,90,1,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,24,01/02/2026,7,0,0,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,25,06/02/2026,4,0,0,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,26,11/02/2026,5,0,0,90,1,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,27,22/02/2026,5,0,0,76,1,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,28,01/03/2026,1,0,0,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,29,04/03/2026,12,1,0,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,30,15/03/2026,2,0,0,87,1,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,31,22/03/2026,5,0,0,90,1,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,32,12/04/2026,4,0,0,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,33,19/04/2026,2,0,0,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,34,24/04/2026,9,1,0,90,1,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,35,04/05/2026,1,0,0,45,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,36,10/05/2026,12,1,0,90,0,Low
+517,Elliot,Anderson,Nott'm Forest,Midfielder,5.7,37,17/05/2026,12,0,2,90,0,Low
 518,João Pedro,Ferreira da Silva,Nott'm Forest,Midfielder,5.4,1,17/08/2025,1,0,0,11,0,Low
 518,João Pedro,Ferreira da Silva,Nott'm Forest,Midfielder,5.4,2,24/08/2025,0,0,0,0,0,Low
 518,João Pedro,Ferreira da Silva,Nott'm Forest,Midfielder,5.4,3,31/08/2025,0,0,0,0,0,Low
