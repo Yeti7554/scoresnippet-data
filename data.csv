@@ -146,44 +146,44 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 594,Promise,David,Brighton,Forward,6.0,1,23/08/2026,0,0,0,0,0,Low
 600,Ibrahim,Osman,Brighton,Midfielder,5.0,1,23/08/2026,1,0,0,12,0,Low
 605,Malick,Yalcouyé,Brighton,Midfielder,4.5,1,23/08/2026,1,0,0,4,0,Low
-40,Morgan,Rogers,Chelsea,Midfielder,7.5,1,24/08/2026,0,0,0,0,0,Medium
+40,Morgan,Rogers,Chelsea,Midfielder,7.5,1,24/08/2026,8,1,0,81,0,Medium
 101,Jordan,Henderson,Chelsea,Midfielder,5.0,1,24/08/2026,0,0,0,0,0,Low
 136,Danny,Welbeck,Chelsea,Forward,6.0,1,24/08/2026,0,0,0,0,0,Low
-140,Robert,Lynch Sánchez,Chelsea,Goalkeeper,5.0,1,24/08/2026,0,0,0,0,0,High
+140,Robert,Lynch Sánchez,Chelsea,Goalkeeper,5.0,1,24/08/2026,2,0,0,90,0,High
 141,Filip,Jörgensen,Chelsea,Goalkeeper,5.0,1,24/08/2026,0,0,0,0,0,High
-142,Reece,James,Chelsea,Defender,5.5,1,24/08/2026,0,0,0,0,0,Medium
+142,Reece,James,Chelsea,Defender,5.5,1,24/08/2026,0,0,0,90,0,Medium
 143,Trevoh,Chalobah,Chelsea,Defender,5.5,1,24/08/2026,0,0,0,0,0,Medium
-144,Malo,Gusto,Chelsea,Defender,5.0,1,24/08/2026,0,0,0,0,0,Medium
+144,Malo,Gusto,Chelsea,Defender,5.0,1,24/08/2026,1,0,0,75,0,Medium
 145,Wesley,Fofana,Chelsea,Defender,5.0,1,24/08/2026,0,0,0,0,0,Medium
 146,Benoît,Badiashile Mukinayi,Chelsea,Defender,4.5,1,24/08/2026,0,0,0,0,0,Low
 147,Tosin,Adarabioyo,Chelsea,Defender,4.5,1,24/08/2026,0,0,0,0,0,Low
-148,Jorrel,Hato,Chelsea,Defender,4.5,1,24/08/2026,0,0,0,0,0,Low
-149,Levi,Samuels Colwill,Chelsea,Defender,5.0,1,24/08/2026,0,0,0,0,0,Medium
+148,Jorrel,Hato,Chelsea,Defender,4.5,1,24/08/2026,1,0,0,64,0,Low
+149,Levi,Samuels Colwill,Chelsea,Defender,5.0,1,24/08/2026,0,0,0,90,0,Medium
 150,Mamadou,Sarr,Chelsea,Defender,4.5,1,24/08/2026,0,0,0,0,0,Low
-151,Josh,Acheampong,Chelsea,Defender,4.5,1,24/08/2026,0,0,0,0,0,Low
+151,Josh,Acheampong,Chelsea,Defender,4.5,1,24/08/2026,3,0,0,90,0,Low
 152,Marco,Palestra,Chelsea,Defender,5.5,1,24/08/2026,0,0,0,0,0,Medium
 153,Axel,Disasi,Chelsea,Defender,4.5,1,24/08/2026,0,0,0,0,0,Low
-154,Cole,Palmer,Chelsea,Midfielder,9.5,1,24/08/2026,0,0,0,0,0,Medium
-155,Enzo,Fernández,Chelsea,Midfielder,7.0,1,24/08/2026,0,0,0,0,0,Low
-156,Pedro,Lomba Neto,Chelsea,Midfielder,6.5,1,24/08/2026,0,0,0,0,0,Low
-157,Estêvão,Almeida de Oliveira Gonçalves,Chelsea,Midfielder,6.5,1,24/08/2026,0,0,0,0,0,Low
+154,Cole,Palmer,Chelsea,Midfielder,9.5,1,24/08/2026,13,1,1,82,0,Medium
+155,Enzo,Fernández,Chelsea,Midfielder,7.0,1,24/08/2026,1,0,0,25,0,Low
+156,Pedro,Lomba Neto,Chelsea,Midfielder,6.5,1,24/08/2026,1,0,0,14,0,Low
+157,Estêvão,Almeida de Oliveira Gonçalves,Chelsea,Midfielder,6.5,1,24/08/2026,1,0,0,7,0,Low
 158,Jamie,Bynoe-Gittens,Chelsea,Midfielder,6.0,1,24/08/2026,0,0,0,0,0,Low
 159,Moisés,Caicedo Corozo,Chelsea,Midfielder,5.5,1,24/08/2026,0,0,0,0,0,Low
-161,Roméo,Lavia,Chelsea,Midfielder,5.0,1,24/08/2026,0,0,0,0,0,Low
+161,Roméo,Lavia,Chelsea,Midfielder,5.0,1,24/08/2026,1,0,0,64,0,Low
 163,Dário,Luís Essugo,Chelsea,Midfielder,4.5,1,24/08/2026,0,0,0,0,0,Low
-164,Geovany,Quenda,Chelsea,Midfielder,5.5,1,24/08/2026,0,0,0,0,0,Low
-165,João Pedro,Junqueira de Jesus,Chelsea,Forward,7.5,1,24/08/2026,0,0,0,0,0,Low
+164,Geovany,Quenda,Chelsea,Midfielder,5.5,1,24/08/2026,1,0,0,8,0,Low
+165,João Pedro,Junqueira de Jesus,Chelsea,Forward,7.5,1,24/08/2026,11,1,1,90,0,Low
 166,Nicolas,Jackson,Chelsea,Forward,6.5,1,24/08/2026,0,0,0,0,0,Low
 167,Liam,Delap,Chelsea,Forward,5.5,1,24/08/2026,0,0,0,0,0,Low
 168,Marc,Guiu Paz,Chelsea,Forward,5.0,1,24/08/2026,0,0,0,0,0,Low
 169,Shumaira,Mheuka,Chelsea,Forward,4.5,1,24/08/2026,0,0,0,0,0,Low
 170,Emmanuel,Emegha,Chelsea,Forward,5.0,1,24/08/2026,0,0,0,0,0,Low
-200,Maxence,Lacroix,Chelsea,Defender,6.0,1,24/08/2026,0,0,0,0,0,High
+200,Maxence,Lacroix,Chelsea,Defender,6.0,1,24/08/2026,6,0,1,90,0,High
 560,Mike,Penders,Chelsea,Goalkeeper,4.5,1,24/08/2026,0,0,0,0,0,Medium
 561,Aaron,Anselmino,Chelsea,Defender,4.5,1,24/08/2026,0,0,0,0,0,Low
 568,Valentín,Barco,Chelsea,Midfielder,5.5,1,24/08/2026,0,0,0,0,0,Low
 578,Mykhailo,Mudryk,Chelsea,Midfielder,5.5,1,24/08/2026,0,0,0,0,0,Low
-583,Pep,Chavarría,Chelsea,Defender,5.0,1,24/08/2026,0,0,0,0,0,Medium
+583,Pep,Chavarría,Chelsea,Defender,5.0,1,24/08/2026,1,0,0,25,0,Medium
 104,Frank,Onyeka,Coventry City,Midfielder,5.0,1,21/08/2026,2,0,0,90,0,Low
 110,Carl,Rushworth,Coventry City,Goalkeeper,4.5,1,21/08/2026,1,0,0,90,0,Medium
 171,Oliver,Dovin,Coventry City,Goalkeeper,4.0,1,21/08/2026,0,0,0,0,0,Low
@@ -273,29 +273,30 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 247,Hayden,Hackney,Everton,Midfielder,5.5,1,22/08/2026,3,0,0,78,1,Low
 248,Norberto Bercique,Gomes Betuncal,Everton,Forward,5.5,1,22/08/2026,1,0,0,11,0,Low
 249,Thierno,Barry,Everton,Forward,5.5,1,22/08/2026,8,1,0,78,1,Low
-250,Bernd,Leno,Fulham,Goalkeeper,4.5,1,24/08/2026,0,0,0,0,0,Medium
+250,Bernd,Leno,Fulham,Goalkeeper,4.5,1,24/08/2026,2,0,0,90,0,Medium
 251,Benjamin,Lecomte,Fulham,Goalkeeper,4.0,1,24/08/2026,0,0,0,0,0,Low
 252,Alfie,McNally,Fulham,Goalkeeper,4.0,1,24/08/2026,0,0,0,0,0,Low
 253,Joachim,Andersen,Fulham,Defender,5.0,1,24/08/2026,0,0,0,0,0,Medium
-254,Antonee,Robinson,Fulham,Defender,4.5,1,24/08/2026,0,0,0,0,0,Low
-255,Jorge,Cuenca Barreno,Fulham,Defender,4.5,1,24/08/2026,0,0,0,0,0,Low
+254,Antonee,Robinson,Fulham,Defender,4.5,1,24/08/2026,1,0,0,81,0,Low
+255,Jorge,Cuenca Barreno,Fulham,Defender,4.5,1,24/08/2026,3,0,0,90,0,Low
 256,Kenny,Tete,Fulham,Defender,4.5,1,24/08/2026,0,0,0,0,0,Low
-257,Calvin,Bassey,Fulham,Defender,4.5,1,24/08/2026,0,0,0,0,0,Low
-258,Timothy,Castagne,Fulham,Defender,4.5,1,24/08/2026,0,0,0,0,0,Low
-261,Alex,Iwobi,Fulham,Midfielder,5.5,1,24/08/2026,0,0,0,0,0,Low
+257,Calvin,Bassey,Fulham,Defender,4.5,1,24/08/2026,0,0,0,90,0,Low
+258,Timothy,Castagne,Fulham,Defender,4.5,1,24/08/2026,6,0,2,90,0,Low
+261,Alex,Iwobi,Fulham,Midfielder,5.5,1,24/08/2026,2,0,0,90,0,Low
 262,Emile,Smith Rowe,Fulham,Midfielder,5.5,1,24/08/2026,0,0,0,0,0,Low
-263,Kevin,Santos Lopes de Macedo,Fulham,Midfielder,5.5,1,24/08/2026,0,0,0,0,0,Low
-264,Oscar,Bobb,Fulham,Midfielder,5.5,1,24/08/2026,0,0,0,0,0,Low
-265,Sander,Berge,Fulham,Midfielder,5.0,1,24/08/2026,0,0,0,0,0,Low
+263,Kevin,Santos Lopes de Macedo,Fulham,Midfielder,5.5,1,24/08/2026,1,0,0,17,0,Low
+264,Oscar,Bobb,Fulham,Midfielder,5.5,1,24/08/2026,2,0,0,66,0,Low
+265,Sander,Berge,Fulham,Midfielder,5.0,1,24/08/2026,2,0,0,72,0,Low
 266,Tom,Cairney,Fulham,Midfielder,5.0,1,24/08/2026,0,0,0,0,0,Low
-268,Josh,King,Fulham,Midfielder,5.5,1,24/08/2026,0,0,0,0,0,Low
-269,Ryan,Sessegnon,Fulham,Defender,4.5,1,24/08/2026,0,0,0,0,0,Low
+268,Josh,King,Fulham,Midfielder,5.5,1,24/08/2026,7,1,0,90,0,Low
+269,Ryan,Sessegnon,Fulham,Defender,4.5,1,24/08/2026,1,0,0,17,0,Low
 270,Harrison,Reed,Fulham,Midfielder,4.5,1,24/08/2026,0,0,0,0,0,Low
-271,Rodrigo,Muniz Carvalho,Fulham,Forward,5.5,1,24/08/2026,0,0,0,0,0,Low
+271,Rodrigo,Muniz Carvalho,Fulham,Forward,5.5,1,24/08/2026,1,0,0,8,0,Low
 272,Jonah,Kusi-Asare,Fulham,Forward,4.5,1,24/08/2026,0,0,0,0,0,Low
-569,Gonzalo,García,Fulham,Forward,6.0,1,24/08/2026,0,0,0,0,0,Low
-570,César,Palacios,Fulham,Midfielder,5.5,1,24/08/2026,0,0,0,0,0,Low
-580,Shea,Charles,Fulham,Midfielder,5.0,1,24/08/2026,0,0,0,0,0,Low
+569,Gonzalo,García,Fulham,Forward,6.0,1,24/08/2026,6,1,0,90,0,Low
+570,César,Palacios,Fulham,Midfielder,5.5,1,24/08/2026,2,0,0,72,0,Low
+580,Shea,Charles,Fulham,Midfielder,5.0,1,24/08/2026,1,0,0,23,0,Low
+610,Luc,De Fougerolles,Fulham,Defender,4.0,1,24/08/2026,0,0,0,0,0,Low
 273,Dillon,Phillips,Hull City,Goalkeeper,4.0,1,22/08/2026,0,0,0,0,0,Low
 274,Jack,Butland,Hull City,Goalkeeper,4.5,1,22/08/2026,0,0,0,0,0,Medium
 275,Harvey,Cartwright,Hull City,Goalkeeper,4.0,1,22/08/2026,0,0,0,0,0,Low
