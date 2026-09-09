@@ -14,9 +14,9 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 5,Jurriën,Timber,Arsenal,Defender,6.5,1,21/08/2026,0,0,0,0,0,High
 5,Jurriën,Timber,Arsenal,Defender,6.5,2,31/08/2026,0,0,0,0,0,High
 5,Jurriën,Timber,Arsenal,Defender,6.5,3,06/09/2026,0,0,0,0,0,High
-6,William,Saliba,Arsenal,Defender,6.0,1,21/08/2026,0,0,0,0,0,High
-6,William,Saliba,Arsenal,Defender,6.0,2,31/08/2026,0,0,0,0,0,High
-6,William,Saliba,Arsenal,Defender,6.0,3,06/09/2026,0,0,0,0,0,High
+6,William,Saliba,Arsenal,Defender,5.9,1,21/08/2026,0,0,0,0,0,Medium
+6,William,Saliba,Arsenal,Defender,5.9,2,31/08/2026,0,0,0,0,0,Medium
+6,William,Saliba,Arsenal,Defender,5.9,3,06/09/2026,0,0,0,0,0,Medium
 7,Myles,Lewis-Skelly,Arsenal,Midfielder,5.5,1,21/08/2026,3,0,0,90,1,Low
 7,Myles,Lewis-Skelly,Arsenal,Midfielder,5.5,2,31/08/2026,3,0,0,70,1,Low
 7,Myles,Lewis-Skelly,Arsenal,Midfielder,5.5,3,06/09/2026,2,0,0,66,0,Low
@@ -456,9 +456,9 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 40,Morgan,Rogers,Chelsea,Midfielder,7.6,1,24/08/2026,8,1,0,81,0,Medium
 40,Morgan,Rogers,Chelsea,Midfielder,7.6,2,30/08/2026,5,0,1,90,0,Medium
 40,Morgan,Rogers,Chelsea,Midfielder,7.6,3,06/09/2026,6,1,0,86,0,Medium
-101,Jordan,Henderson,Chelsea,Midfielder,5.0,1,24/08/2026,0,0,0,0,0,Low
-101,Jordan,Henderson,Chelsea,Midfielder,5.0,2,30/08/2026,0,0,0,0,0,Low
-101,Jordan,Henderson,Chelsea,Midfielder,5.0,3,06/09/2026,0,0,0,0,0,Low
+101,Jordan,Henderson,Chelsea,Midfielder,4.9,1,24/08/2026,0,0,0,0,0,Low
+101,Jordan,Henderson,Chelsea,Midfielder,4.9,2,30/08/2026,0,0,0,0,0,Low
+101,Jordan,Henderson,Chelsea,Midfielder,4.9,3,06/09/2026,0,0,0,0,0,Low
 136,Danny,Welbeck,Chelsea,Forward,5.9,1,24/08/2026,0,0,0,0,0,Low
 136,Danny,Welbeck,Chelsea,Forward,5.9,2,30/08/2026,0,0,0,0,0,Low
 136,Danny,Welbeck,Chelsea,Forward,5.9,3,06/09/2026,1,0,0,3,0,Low
@@ -842,9 +842,9 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 255,Jorge,Cuenca Barreno,Fulham,Defender,4.5,1,24/08/2026,3,0,0,90,0,Low
 255,Jorge,Cuenca Barreno,Fulham,Defender,4.5,2,30/08/2026,0,0,0,0,0,Low
 255,Jorge,Cuenca Barreno,Fulham,Defender,4.5,3,05/09/2026,0,0,0,0,0,Low
-256,Kenny,Tete,Fulham,Defender,4.5,1,24/08/2026,0,0,0,0,0,Low
-256,Kenny,Tete,Fulham,Defender,4.5,2,30/08/2026,0,0,0,0,0,Low
-256,Kenny,Tete,Fulham,Defender,4.5,3,05/09/2026,0,0,0,0,0,Low
+256,Kenny,Tete,Fulham,Defender,4.4,1,24/08/2026,0,0,0,0,0,Low
+256,Kenny,Tete,Fulham,Defender,4.4,2,30/08/2026,0,0,0,0,0,Low
+256,Kenny,Tete,Fulham,Defender,4.4,3,05/09/2026,0,0,0,0,0,Low
 257,Calvin,Bassey,Fulham,Defender,4.5,1,24/08/2026,0,0,0,90,0,Low
 257,Calvin,Bassey,Fulham,Defender,4.5,2,30/08/2026,2,0,0,90,0,Low
 257,Calvin,Bassey,Fulham,Defender,4.5,3,05/09/2026,1,0,0,90,0,Low
@@ -1124,9 +1124,9 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 619,Exequiel,Palacios,Ipswich Town,Midfielder,5.0,2,30/08/2026,1,0,0,28,0,Low
 619,Exequiel,Palacios,Ipswich Town,Midfielder,5.0,3,04/09/2026,4,0,0,77,0,Low
 640,Zian,Flemming,Ipswich Town,Forward,5.5,3,04/09/2026,1,0,0,24,0,Low
-260,Harry,Wilson,Leeds,Midfielder,6.4,1,22/08/2026,3,0,0,65,1,Low
-260,Harry,Wilson,Leeds,Midfielder,6.4,2,30/08/2026,1,0,0,45,0,Low
-260,Harry,Wilson,Leeds,Midfielder,6.4,3,05/09/2026,0,0,0,17,0,Low
+260,Harry,Wilson,Leeds,Midfielder,6.3,1,22/08/2026,3,0,0,65,1,Low
+260,Harry,Wilson,Leeds,Midfielder,6.3,2,30/08/2026,1,0,0,45,0,Low
+260,Harry,Wilson,Leeds,Midfielder,6.3,3,05/09/2026,0,0,0,17,0,Low
 326,Lucas Estella,Perri,Leeds,Goalkeeper,4.5,1,22/08/2026,0,0,0,0,0,Medium
 326,Lucas Estella,Perri,Leeds,Goalkeeper,4.5,2,30/08/2026,0,0,0,0,0,Medium
 326,Lucas Estella,Perri,Leeds,Goalkeeper,4.5,3,05/09/2026,0,0,0,0,0,Medium
@@ -1754,12 +1754,12 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 513,Xavi,Simons,Spurs,Midfielder,6.0,1,22/08/2026,0,0,0,0,0,Low
 513,Xavi,Simons,Spurs,Midfielder,6.0,2,29/08/2026,0,0,0,0,0,Low
 513,Xavi,Simons,Spurs,Midfielder,6.0,3,05/09/2026,0,0,0,0,0,Low
-514,Mathys,Tel,Spurs,Midfielder,5.9,1,22/08/2026,2,0,0,90,0,Low
-514,Mathys,Tel,Spurs,Midfielder,5.9,2,29/08/2026,2,0,0,67,0,Low
-514,Mathys,Tel,Spurs,Midfielder,5.9,3,05/09/2026,3,0,0,73,1,Low
-515,James,Maddison,Spurs,Midfielder,6.4,1,22/08/2026,1,0,0,22,0,Low
-515,James,Maddison,Spurs,Midfielder,6.4,2,29/08/2026,0,0,0,0,0,Low
-515,James,Maddison,Spurs,Midfielder,6.4,3,05/09/2026,0,0,0,0,0,Low
+514,Mathys,Tel,Spurs,Midfielder,5.8,1,22/08/2026,2,0,0,90,0,Low
+514,Mathys,Tel,Spurs,Midfielder,5.8,2,29/08/2026,2,0,0,67,0,Low
+514,Mathys,Tel,Spurs,Midfielder,5.8,3,05/09/2026,3,0,0,73,1,Low
+515,James,Maddison,Spurs,Midfielder,6.3,1,22/08/2026,1,0,0,22,0,Low
+515,James,Maddison,Spurs,Midfielder,6.3,2,29/08/2026,0,0,0,0,0,Low
+515,James,Maddison,Spurs,Midfielder,6.3,3,05/09/2026,0,0,0,0,0,Low
 516,Rodrigo,Bentancur,Spurs,Midfielder,5.5,1,22/08/2026,1,0,0,45,0,Low
 516,Rodrigo,Bentancur,Spurs,Midfielder,5.5,2,29/08/2026,2,0,0,90,0,Low
 516,Rodrigo,Bentancur,Spurs,Midfielder,5.5,3,05/09/2026,5,0,0,90,1,Low
