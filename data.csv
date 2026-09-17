@@ -325,10 +325,10 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 75,Ryan,Christie,Bournemouth,Midfielder,5.0,2,29/08/2026,1,0,0,3,0,Low
 75,Ryan,Christie,Bournemouth,Midfielder,5.0,3,05/09/2026,1,0,0,1,0,Low
 75,Ryan,Christie,Bournemouth,Midfielder,5.0,4,12/09/2026,1,0,0,24,0,Low
-76,Alex,Tóth,Bournemouth,Midfielder,5.0,1,23/08/2026,1,0,0,15,0,Low
-76,Alex,Tóth,Bournemouth,Midfielder,5.0,2,29/08/2026,0,0,0,0,0,Low
-76,Alex,Tóth,Bournemouth,Midfielder,5.0,3,05/09/2026,0,0,0,0,0,Low
-76,Alex,Tóth,Bournemouth,Midfielder,5.0,4,12/09/2026,0,0,0,0,0,Low
+76,Alex,Tóth,Bournemouth,Midfielder,4.9,1,23/08/2026,1,0,0,15,0,Low
+76,Alex,Tóth,Bournemouth,Midfielder,4.9,2,29/08/2026,0,0,0,0,0,Low
+76,Alex,Tóth,Bournemouth,Midfielder,4.9,3,05/09/2026,0,0,0,0,0,Low
+76,Alex,Tóth,Bournemouth,Midfielder,4.9,4,12/09/2026,0,0,0,0,0,Low
 77,Amine,Adli,Bournemouth,Midfielder,4.9,1,23/08/2026,0,0,0,0,0,Low
 77,Amine,Adli,Bournemouth,Midfielder,4.9,2,29/08/2026,0,0,0,0,0,Low
 77,Amine,Adli,Bournemouth,Midfielder,4.9,3,05/09/2026,0,0,0,0,0,Low
@@ -484,10 +484,10 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 114,Olivier,Boscagli,Brighton,Defender,4.5,2,30/08/2026,-1,0,0,90,0,Low
 114,Olivier,Boscagli,Brighton,Defender,4.5,3,05/09/2026,2,0,0,90,0,Low
 114,Olivier,Boscagli,Brighton,Defender,4.5,4,13/09/2026,6,0,0,77,1,Low
-115,Maxim,De Cuyper,Brighton,Defender,4.8,1,23/08/2026,17,1,1,77,1,Low
-115,Maxim,De Cuyper,Brighton,Defender,4.8,2,30/08/2026,0,0,0,90,0,Low
-115,Maxim,De Cuyper,Brighton,Defender,4.8,3,05/09/2026,4,0,1,76,0,Low
-115,Maxim,De Cuyper,Brighton,Defender,4.8,4,13/09/2026,11,0,1,90,1,Low
+115,Maxim,De Cuyper,Brighton,Defender,4.9,1,23/08/2026,17,1,1,77,1,Low
+115,Maxim,De Cuyper,Brighton,Defender,4.9,2,30/08/2026,0,0,0,90,0,Low
+115,Maxim,De Cuyper,Brighton,Defender,4.9,3,05/09/2026,4,0,1,76,0,Low
+115,Maxim,De Cuyper,Brighton,Defender,4.9,4,13/09/2026,11,0,1,90,1,Low
 116,Lewis,Dunk,Brighton,Defender,4.5,1,23/08/2026,6,0,0,90,1,Low
 116,Lewis,Dunk,Brighton,Defender,4.5,2,30/08/2026,-1,0,0,90,0,Low
 116,Lewis,Dunk,Brighton,Defender,4.5,3,05/09/2026,5,0,0,90,0,Low
