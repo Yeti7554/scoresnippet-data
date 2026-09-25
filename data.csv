@@ -1454,11 +1454,11 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 261,Alex,Iwobi,Fulham,Midfielder,5.4,3,05/09/2026,2,0,0,82,0,Low
 261,Alex,Iwobi,Fulham,Midfielder,5.4,4,12/09/2026,3,0,0,76,1,Low
 261,Alex,Iwobi,Fulham,Midfielder,5.4,5,20/09/2026,5,0,0,70,1,Low
-262,Emile,Smith Rowe,Fulham,Midfielder,5.4,1,24/08/2026,0,0,0,0,0,Low
-262,Emile,Smith Rowe,Fulham,Midfielder,5.4,2,30/08/2026,1,0,0,14,0,Low
-262,Emile,Smith Rowe,Fulham,Midfielder,5.4,3,05/09/2026,1,0,0,11,0,Low
-262,Emile,Smith Rowe,Fulham,Midfielder,5.4,4,12/09/2026,1,0,0,13,0,Low
-262,Emile,Smith Rowe,Fulham,Midfielder,5.4,5,20/09/2026,0,0,0,0,0,Low
+262,Emile,Smith Rowe,Fulham,Midfielder,5.3,1,24/08/2026,0,0,0,0,0,Low
+262,Emile,Smith Rowe,Fulham,Midfielder,5.3,2,30/08/2026,1,0,0,14,0,Low
+262,Emile,Smith Rowe,Fulham,Midfielder,5.3,3,05/09/2026,1,0,0,11,0,Low
+262,Emile,Smith Rowe,Fulham,Midfielder,5.3,4,12/09/2026,1,0,0,13,0,Low
+262,Emile,Smith Rowe,Fulham,Midfielder,5.3,5,20/09/2026,0,0,0,0,0,Low
 263,Kevin,Santos Lopes de Macedo,Fulham,Midfielder,5.3,1,24/08/2026,1,0,0,17,0,Low
 263,Kevin,Santos Lopes de Macedo,Fulham,Midfielder,5.3,2,30/08/2026,1,0,0,7,0,Low
 263,Kevin,Santos Lopes de Macedo,Fulham,Midfielder,5.3,3,05/09/2026,0,0,0,0,0,Low
@@ -1692,11 +1692,11 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 563,Hidemasa,Morita,Hull City,Midfielder,5.0,3,05/09/2026,0,0,0,0,0,Low
 563,Hidemasa,Morita,Hull City,Midfielder,5.0,4,12/09/2026,0,0,0,0,0,Low
 563,Hidemasa,Morita,Hull City,Midfielder,5.0,5,19/09/2026,0,0,0,0,0,Low
-572,Konstantinos,Tzolakis,Hull City,Goalkeeper,4.6,1,22/08/2026,10,0,0,90,1,Medium
-572,Konstantinos,Tzolakis,Hull City,Goalkeeper,4.6,2,29/08/2026,10,0,0,90,1,Medium
-572,Konstantinos,Tzolakis,Hull City,Goalkeeper,4.6,3,05/09/2026,6,0,0,90,1,Medium
-572,Konstantinos,Tzolakis,Hull City,Goalkeeper,4.6,4,12/09/2026,2,0,0,90,0,Medium
-572,Konstantinos,Tzolakis,Hull City,Goalkeeper,4.6,5,19/09/2026,6,0,0,90,0,Medium
+572,Konstantinos,Tzolakis,Hull City,Goalkeeper,4.7,1,22/08/2026,10,0,0,90,1,Medium
+572,Konstantinos,Tzolakis,Hull City,Goalkeeper,4.7,2,29/08/2026,10,0,0,90,1,Medium
+572,Konstantinos,Tzolakis,Hull City,Goalkeeper,4.7,3,05/09/2026,6,0,0,90,1,Medium
+572,Konstantinos,Tzolakis,Hull City,Goalkeeper,4.7,4,12/09/2026,2,0,0,90,0,Medium
+572,Konstantinos,Tzolakis,Hull City,Goalkeeper,4.7,5,19/09/2026,6,0,0,90,0,Medium
 574,Jens,Hjertø-Dahl,Hull City,Midfielder,4.9,1,22/08/2026,0,0,0,0,0,Low
 574,Jens,Hjertø-Dahl,Hull City,Midfielder,4.9,2,29/08/2026,0,0,0,0,0,Low
 574,Jens,Hjertø-Dahl,Hull City,Midfielder,4.9,3,05/09/2026,1,0,0,8,0,Low
