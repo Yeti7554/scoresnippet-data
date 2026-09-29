@@ -1283,11 +1283,11 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 647,Darío,Osorio,Crystal Palace,Midfielder,5.5,3,05/09/2026,1,0,0,1,0,Low
 647,Darío,Osorio,Crystal Palace,Midfielder,5.5,4,12/09/2026,0,0,0,0,0,Low
 647,Darío,Osorio,Crystal Palace,Midfielder,5.5,5,20/09/2026,0,0,0,0,0,Low
-21,Christian,Nørgaard,Everton,Midfielder,4.9,1,22/08/2026,0,0,0,0,0,Low
-21,Christian,Nørgaard,Everton,Midfielder,4.9,2,29/08/2026,0,0,0,0,0,Low
-21,Christian,Nørgaard,Everton,Midfielder,4.9,3,06/09/2026,0,0,0,0,0,Low
-21,Christian,Nørgaard,Everton,Midfielder,4.9,4,12/09/2026,0,0,0,0,0,Low
-21,Christian,Nørgaard,Everton,Midfielder,4.9,5,19/09/2026,0,0,0,0,0,Low
+21,Christian,Nørgaard,Everton,Midfielder,4.8,1,22/08/2026,0,0,0,0,0,Low
+21,Christian,Nørgaard,Everton,Midfielder,4.8,2,29/08/2026,0,0,0,0,0,Low
+21,Christian,Nørgaard,Everton,Midfielder,4.8,3,06/09/2026,0,0,0,0,0,Low
+21,Christian,Nørgaard,Everton,Midfielder,4.8,4,12/09/2026,0,0,0,0,0,Low
+21,Christian,Nørgaard,Everton,Midfielder,4.8,5,19/09/2026,0,0,0,0,0,Low
 209,Brennan,Johnson,Everton,Midfielder,5.9,1,22/08/2026,1,0,0,6,0,Low
 209,Brennan,Johnson,Everton,Midfielder,5.9,2,29/08/2026,1,0,0,28,0,Low
 209,Brennan,Johnson,Everton,Midfielder,5.9,3,06/09/2026,1,0,0,65,0,Low
@@ -1687,11 +1687,11 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 556,Matt,Targett,Hull City,Defender,4.0,3,05/09/2026,0,0,0,0,0,Low
 556,Matt,Targett,Hull City,Defender,4.0,4,12/09/2026,0,0,0,0,0,Low
 556,Matt,Targett,Hull City,Defender,4.0,5,19/09/2026,0,0,0,0,0,Low
-563,Hidemasa,Morita,Hull City,Midfielder,5.0,1,22/08/2026,0,0,0,0,0,Low
-563,Hidemasa,Morita,Hull City,Midfielder,5.0,2,29/08/2026,1,0,0,45,0,Low
-563,Hidemasa,Morita,Hull City,Midfielder,5.0,3,05/09/2026,0,0,0,0,0,Low
-563,Hidemasa,Morita,Hull City,Midfielder,5.0,4,12/09/2026,0,0,0,0,0,Low
-563,Hidemasa,Morita,Hull City,Midfielder,5.0,5,19/09/2026,0,0,0,0,0,Low
+563,Hidemasa,Morita,Hull City,Midfielder,4.9,1,22/08/2026,0,0,0,0,0,Low
+563,Hidemasa,Morita,Hull City,Midfielder,4.9,2,29/08/2026,1,0,0,45,0,Low
+563,Hidemasa,Morita,Hull City,Midfielder,4.9,3,05/09/2026,0,0,0,0,0,Low
+563,Hidemasa,Morita,Hull City,Midfielder,4.9,4,12/09/2026,0,0,0,0,0,Low
+563,Hidemasa,Morita,Hull City,Midfielder,4.9,5,19/09/2026,0,0,0,0,0,Low
 572,Konstantinos,Tzolakis,Hull City,Goalkeeper,4.7,1,22/08/2026,10,0,0,90,1,Medium
 572,Konstantinos,Tzolakis,Hull City,Goalkeeper,4.7,2,29/08/2026,10,0,0,90,1,Medium
 572,Konstantinos,Tzolakis,Hull City,Goalkeeper,4.7,3,05/09/2026,6,0,0,90,1,Medium
@@ -3086,11 +3086,11 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 530,Anthony,Patterson,Sunderland,Goalkeeper,4.0,3,05/09/2026,0,0,0,0,0,Low
 530,Anthony,Patterson,Sunderland,Goalkeeper,4.0,4,12/09/2026,0,0,0,0,0,Low
 530,Anthony,Patterson,Sunderland,Goalkeeper,4.0,5,20/09/2026,0,0,0,0,0,Low
-531,Melker,Ellborg,Sunderland,Goalkeeper,4.5,1,22/08/2026,0,0,0,0,0,Medium
-531,Melker,Ellborg,Sunderland,Goalkeeper,4.5,2,30/08/2026,0,0,0,0,0,Medium
-531,Melker,Ellborg,Sunderland,Goalkeeper,4.5,3,05/09/2026,0,0,0,0,0,Medium
-531,Melker,Ellborg,Sunderland,Goalkeeper,4.5,4,12/09/2026,0,0,0,0,0,Medium
-531,Melker,Ellborg,Sunderland,Goalkeeper,4.5,5,20/09/2026,0,0,0,0,0,Medium
+531,Melker,Ellborg,Sunderland,Goalkeeper,4.4,1,22/08/2026,0,0,0,0,0,Low
+531,Melker,Ellborg,Sunderland,Goalkeeper,4.4,2,30/08/2026,0,0,0,0,0,Low
+531,Melker,Ellborg,Sunderland,Goalkeeper,4.4,3,05/09/2026,0,0,0,0,0,Low
+531,Melker,Ellborg,Sunderland,Goalkeeper,4.4,4,12/09/2026,0,0,0,0,0,Low
+531,Melker,Ellborg,Sunderland,Goalkeeper,4.4,5,20/09/2026,0,0,0,0,0,Low
 532,Daniel,Ballard,Sunderland,Defender,4.9,1,22/08/2026,0,0,0,90,0,Low
 532,Daniel,Ballard,Sunderland,Defender,4.9,2,30/08/2026,8,0,0,90,1,Low
 532,Daniel,Ballard,Sunderland,Defender,4.9,3,05/09/2026,4,0,0,90,0,Low
@@ -3146,11 +3146,11 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 542,Enzo,Le Fée,Sunderland,Midfielder,5.7,3,05/09/2026,8,1,0,90,0,Low
 542,Enzo,Le Fée,Sunderland,Midfielder,5.7,4,12/09/2026,0,0,0,90,0,Low
 542,Enzo,Le Fée,Sunderland,Midfielder,5.7,5,20/09/2026,5,0,1,90,0,Low
-543,Habib,Diarra,Sunderland,Midfielder,5.4,1,22/08/2026,1,0,0,10,0,Low
-543,Habib,Diarra,Sunderland,Midfielder,5.4,2,30/08/2026,4,0,1,18,0,Low
-543,Habib,Diarra,Sunderland,Midfielder,5.4,3,05/09/2026,0,0,0,0,0,Low
-543,Habib,Diarra,Sunderland,Midfielder,5.4,4,12/09/2026,0,0,0,0,0,Low
-543,Habib,Diarra,Sunderland,Midfielder,5.4,5,20/09/2026,0,0,0,0,0,Low
+543,Habib,Diarra,Sunderland,Midfielder,5.3,1,22/08/2026,1,0,0,10,0,Low
+543,Habib,Diarra,Sunderland,Midfielder,5.3,2,30/08/2026,4,0,1,18,0,Low
+543,Habib,Diarra,Sunderland,Midfielder,5.3,3,05/09/2026,0,0,0,0,0,Low
+543,Habib,Diarra,Sunderland,Midfielder,5.3,4,12/09/2026,0,0,0,0,0,Low
+543,Habib,Diarra,Sunderland,Midfielder,5.3,5,20/09/2026,0,0,0,0,0,Low
 544,Granit,Xhaka,Sunderland,Midfielder,5.5,1,22/08/2026,9,0,1,90,0,Low
 544,Granit,Xhaka,Sunderland,Midfielder,5.5,2,30/08/2026,6,0,0,90,1,Low
 544,Granit,Xhaka,Sunderland,Midfielder,5.5,3,05/09/2026,3,0,0,90,0,Low
