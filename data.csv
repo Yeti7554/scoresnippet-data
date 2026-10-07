@@ -772,11 +772,11 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 28,Emiliano,Martínez Romero,Chelsea,Goalkeeper,5.0,3,06/09/2026,3,0,0,90,0,High
 28,Emiliano,Martínez Romero,Chelsea,Goalkeeper,5.0,4,12/09/2026,2,0,0,90,0,High
 28,Emiliano,Martínez Romero,Chelsea,Goalkeeper,5.0,5,18/09/2026,2,0,0,90,0,High
-40,Morgan,Rogers,Chelsea,Midfielder,7.7,1,24/08/2026,8,1,0,81,0,Medium
-40,Morgan,Rogers,Chelsea,Midfielder,7.7,2,30/08/2026,5,0,1,90,0,Medium
-40,Morgan,Rogers,Chelsea,Midfielder,7.7,3,06/09/2026,6,1,0,86,0,Medium
-40,Morgan,Rogers,Chelsea,Midfielder,7.7,4,12/09/2026,8,1,0,90,0,Medium
-40,Morgan,Rogers,Chelsea,Midfielder,7.7,5,18/09/2026,2,0,0,90,0,Medium
+40,Morgan,Rogers,Chelsea,Midfielder,7.8,1,24/08/2026,8,1,0,81,0,Medium
+40,Morgan,Rogers,Chelsea,Midfielder,7.8,2,30/08/2026,5,0,1,90,0,Medium
+40,Morgan,Rogers,Chelsea,Midfielder,7.8,3,06/09/2026,6,1,0,86,0,Medium
+40,Morgan,Rogers,Chelsea,Midfielder,7.8,4,12/09/2026,8,1,0,90,0,Medium
+40,Morgan,Rogers,Chelsea,Midfielder,7.8,5,18/09/2026,2,0,0,90,0,Medium
 101,Jordan,Henderson,Chelsea,Midfielder,4.9,1,24/08/2026,0,0,0,0,0,Low
 101,Jordan,Henderson,Chelsea,Midfielder,4.9,2,30/08/2026,0,0,0,0,0,Low
 101,Jordan,Henderson,Chelsea,Midfielder,4.9,3,06/09/2026,0,0,0,0,0,Low
@@ -1479,11 +1479,11 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 266,Tom,Cairney,Fulham,Midfielder,4.9,3,05/09/2026,0,0,0,0,0,Low
 266,Tom,Cairney,Fulham,Midfielder,4.9,4,12/09/2026,0,0,0,0,0,Low
 266,Tom,Cairney,Fulham,Midfielder,4.9,5,20/09/2026,0,0,0,0,0,Low
-268,Josh,King,Fulham,Midfielder,5.5,1,24/08/2026,7,1,0,90,0,Low
-268,Josh,King,Fulham,Midfielder,5.5,2,30/08/2026,2,0,0,90,0,Low
-268,Josh,King,Fulham,Midfielder,5.5,3,05/09/2026,10,1,0,90,0,Low
-268,Josh,King,Fulham,Midfielder,5.5,4,12/09/2026,3,0,0,76,1,Low
-268,Josh,King,Fulham,Midfielder,5.5,5,20/09/2026,2,0,0,79,1,Low
+268,Josh,King,Fulham,Midfielder,5.6,1,24/08/2026,7,1,0,90,0,Low
+268,Josh,King,Fulham,Midfielder,5.6,2,30/08/2026,2,0,0,90,0,Low
+268,Josh,King,Fulham,Midfielder,5.6,3,05/09/2026,10,1,0,90,0,Low
+268,Josh,King,Fulham,Midfielder,5.6,4,12/09/2026,3,0,0,76,1,Low
+268,Josh,King,Fulham,Midfielder,5.6,5,20/09/2026,2,0,0,79,1,Low
 269,Ryan,Sessegnon,Fulham,Defender,4.3,1,24/08/2026,1,0,0,17,0,Low
 269,Ryan,Sessegnon,Fulham,Defender,4.3,2,30/08/2026,1,0,0,22,0,Low
 269,Ryan,Sessegnon,Fulham,Defender,4.3,3,05/09/2026,1,0,0,11,0,Low
