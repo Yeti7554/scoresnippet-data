@@ -1156,11 +1156,11 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 206,Chadi,Riad Dnanou,Crystal Palace,Defender,4.3,3,05/09/2026,0,0,0,0,0,Low
 206,Chadi,Riad Dnanou,Crystal Palace,Defender,4.3,4,12/09/2026,0,0,0,0,0,Low
 206,Chadi,Riad Dnanou,Crystal Palace,Defender,4.3,5,20/09/2026,0,0,0,0,0,Low
-207,Oscar,Mingueza,Crystal Palace,Defender,4.4,1,22/08/2026,0,0,0,0,0,Low
-207,Oscar,Mingueza,Crystal Palace,Defender,4.4,2,28/08/2026,1,0,0,15,0,Low
-207,Oscar,Mingueza,Crystal Palace,Defender,4.4,3,05/09/2026,1,0,0,1,0,Low
-207,Oscar,Mingueza,Crystal Palace,Defender,4.4,4,12/09/2026,0,0,0,0,0,Low
-207,Oscar,Mingueza,Crystal Palace,Defender,4.4,5,20/09/2026,0,0,0,0,0,Low
+207,Oscar,Mingueza,Crystal Palace,Defender,4.3,1,22/08/2026,0,0,0,0,0,Low
+207,Oscar,Mingueza,Crystal Palace,Defender,4.3,2,28/08/2026,1,0,0,15,0,Low
+207,Oscar,Mingueza,Crystal Palace,Defender,4.3,3,05/09/2026,1,0,0,1,0,Low
+207,Oscar,Mingueza,Crystal Palace,Defender,4.3,4,12/09/2026,0,0,0,0,0,Low
+207,Oscar,Mingueza,Crystal Palace,Defender,4.3,5,20/09/2026,0,0,0,0,0,Low
 208,Ismaïla,Sarr,Crystal Palace,Midfielder,6.2,1,22/08/2026,0,0,0,0,0,Low
 208,Ismaïla,Sarr,Crystal Palace,Midfielder,6.2,2,28/08/2026,0,0,0,0,0,Low
 208,Ismaïla,Sarr,Crystal Palace,Midfielder,6.2,3,05/09/2026,0,0,0,0,0,Low
@@ -1373,11 +1373,11 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 244,Harrison,Armstrong,Everton,Midfielder,5.0,3,06/09/2026,1,0,0,90,0,Low
 244,Harrison,Armstrong,Everton,Midfielder,5.0,4,12/09/2026,3,0,0,90,1,Low
 244,Harrison,Armstrong,Everton,Midfielder,5.0,5,19/09/2026,2,0,0,90,1,Low
-245,Tyler,Dibling,Everton,Midfielder,5.4,1,22/08/2026,0,0,0,0,0,Low
-245,Tyler,Dibling,Everton,Midfielder,5.4,2,29/08/2026,0,0,0,0,0,Low
-245,Tyler,Dibling,Everton,Midfielder,5.4,3,06/09/2026,0,0,0,0,0,Low
-245,Tyler,Dibling,Everton,Midfielder,5.4,4,12/09/2026,0,0,0,0,0,Low
-245,Tyler,Dibling,Everton,Midfielder,5.4,5,19/09/2026,1,0,0,24,0,Low
+245,Tyler,Dibling,Everton,Midfielder,5.3,1,22/08/2026,0,0,0,0,0,Low
+245,Tyler,Dibling,Everton,Midfielder,5.3,2,29/08/2026,0,0,0,0,0,Low
+245,Tyler,Dibling,Everton,Midfielder,5.3,3,06/09/2026,0,0,0,0,0,Low
+245,Tyler,Dibling,Everton,Midfielder,5.3,4,12/09/2026,0,0,0,0,0,Low
+245,Tyler,Dibling,Everton,Midfielder,5.3,5,19/09/2026,1,0,0,24,0,Low
 246,Merlin,Röhl,Everton,Midfielder,4.9,1,22/08/2026,3,0,0,90,1,Low
 246,Merlin,Röhl,Everton,Midfielder,4.9,2,29/08/2026,2,0,0,85,0,Low
 246,Merlin,Röhl,Everton,Midfielder,4.9,3,06/09/2026,1,0,0,74,0,Low
@@ -2507,11 +2507,11 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 428,Matheus,Santos Carneiro da Cunha,Man Utd,Midfielder,7.9,3,06/09/2026,3,0,0,69,1,Medium
 428,Matheus,Santos Carneiro da Cunha,Man Utd,Midfielder,7.9,4,13/09/2026,2,0,0,90,0,Medium
 428,Matheus,Santos Carneiro da Cunha,Man Utd,Midfielder,7.9,5,20/09/2026,10,1,0,90,0,Medium
-429,Marcus,Rashford,Man Utd,Midfielder,7.0,1,22/08/2026,1,0,0,45,0,Low
-429,Marcus,Rashford,Man Utd,Midfielder,7.0,2,30/08/2026,2,0,0,79,0,Low
-429,Marcus,Rashford,Man Utd,Midfielder,7.0,3,06/09/2026,3,0,0,69,1,Low
-429,Marcus,Rashford,Man Utd,Midfielder,7.0,4,13/09/2026,2,0,0,82,0,Low
-429,Marcus,Rashford,Man Utd,Midfielder,7.0,5,20/09/2026,2,0,0,76,0,Low
+429,Marcus,Rashford,Man Utd,Midfielder,6.9,1,22/08/2026,1,0,0,45,0,Low
+429,Marcus,Rashford,Man Utd,Midfielder,6.9,2,30/08/2026,2,0,0,79,0,Low
+429,Marcus,Rashford,Man Utd,Midfielder,6.9,3,06/09/2026,3,0,0,69,1,Low
+429,Marcus,Rashford,Man Utd,Midfielder,6.9,4,13/09/2026,2,0,0,82,0,Low
+429,Marcus,Rashford,Man Utd,Midfielder,6.9,5,20/09/2026,2,0,0,76,0,Low
 430,Mason,Mount,Man Utd,Midfielder,5.4,1,22/08/2026,0,0,0,0,0,Low
 430,Mason,Mount,Man Utd,Midfielder,5.4,2,30/08/2026,0,0,0,0,0,Low
 430,Mason,Mount,Man Utd,Midfielder,5.4,3,06/09/2026,0,0,0,0,0,Low
@@ -2836,11 +2836,11 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 488,Ibrahim,Sangaré,Nott'm Forest,Midfielder,4.8,3,05/09/2026,0,0,0,0,0,Low
 488,Ibrahim,Sangaré,Nott'm Forest,Midfielder,4.8,4,12/09/2026,1,0,0,8,0,Low
 488,Ibrahim,Sangaré,Nott'm Forest,Midfielder,4.8,5,19/09/2026,1,0,0,7,0,Low
-489,Ryan,Yates,Nott'm Forest,Midfielder,4.5,1,22/08/2026,0,0,0,0,0,Low
-489,Ryan,Yates,Nott'm Forest,Midfielder,4.5,2,29/08/2026,0,0,0,0,0,Low
-489,Ryan,Yates,Nott'm Forest,Midfielder,4.5,3,05/09/2026,0,0,0,0,0,Low
-489,Ryan,Yates,Nott'm Forest,Midfielder,4.5,4,12/09/2026,0,0,0,0,0,Low
-489,Ryan,Yates,Nott'm Forest,Midfielder,4.5,5,19/09/2026,0,0,0,0,0,Low
+489,Ryan,Yates,Nott'm Forest,Midfielder,4.4,1,22/08/2026,0,0,0,0,0,Low
+489,Ryan,Yates,Nott'm Forest,Midfielder,4.4,2,29/08/2026,0,0,0,0,0,Low
+489,Ryan,Yates,Nott'm Forest,Midfielder,4.4,3,05/09/2026,0,0,0,0,0,Low
+489,Ryan,Yates,Nott'm Forest,Midfielder,4.4,4,12/09/2026,0,0,0,0,0,Low
+489,Ryan,Yates,Nott'm Forest,Midfielder,4.4,5,19/09/2026,0,0,0,0,0,Low
 490,Chris,Wood,Nott'm Forest,Forward,5.8,1,22/08/2026,1,0,0,28,0,Low
 490,Chris,Wood,Nott'm Forest,Forward,5.8,2,29/08/2026,0,0,0,0,0,Low
 490,Chris,Wood,Nott'm Forest,Forward,5.8,3,05/09/2026,1,0,0,16,0,Low
