@@ -666,12 +666,12 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 102,Yehor,Yarmoliuk,Brentford,Midfielder,4.8,4,12/09/2026,4,0,1,59,0,Low
 102,Yehor,Yarmoliuk,Brentford,Midfielder,4.8,5,18/09/2026,3,0,0,68,1,Low
 102,Yehor,Yarmoliuk,Brentford,Midfielder,4.8,6,10/10/2026,8,1,0,66,0,Low
-103,Josh,Dasilva,Brentford,Midfielder,4.9,1,22/08/2026,0,0,0,0,0,Low
-103,Josh,Dasilva,Brentford,Midfielder,4.9,2,30/08/2026,0,0,0,0,0,Low
-103,Josh,Dasilva,Brentford,Midfielder,4.9,3,05/09/2026,0,0,0,0,0,Low
-103,Josh,Dasilva,Brentford,Midfielder,4.9,4,12/09/2026,0,0,0,0,0,Low
-103,Josh,Dasilva,Brentford,Midfielder,4.9,5,18/09/2026,0,0,0,0,0,Low
-103,Josh,Dasilva,Brentford,Midfielder,4.9,6,10/10/2026,0,0,0,0,0,Low
+103,Josh,Dasilva,Brentford,Midfielder,4.8,1,22/08/2026,0,0,0,0,0,Low
+103,Josh,Dasilva,Brentford,Midfielder,4.8,2,30/08/2026,0,0,0,0,0,Low
+103,Josh,Dasilva,Brentford,Midfielder,4.8,3,05/09/2026,0,0,0,0,0,Low
+103,Josh,Dasilva,Brentford,Midfielder,4.8,4,12/09/2026,0,0,0,0,0,Low
+103,Josh,Dasilva,Brentford,Midfielder,4.8,5,18/09/2026,0,0,0,0,0,Low
+103,Josh,Dasilva,Brentford,Midfielder,4.8,6,10/10/2026,0,0,0,0,0,Low
 105,Jaidon,Anthony,Brentford,Midfielder,5.9,1,22/08/2026,1,0,0,23,0,Low
 105,Jaidon,Anthony,Brentford,Midfielder,5.9,2,30/08/2026,2,0,0,60,1,Low
 105,Jaidon,Anthony,Brentford,Midfielder,5.9,3,05/09/2026,1,0,0,45,0,Low
@@ -2985,12 +2985,12 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 421,Ayden,Heaven,Man Utd,Defender,4.3,4,13/09/2026,0,0,0,0,0,Low
 421,Ayden,Heaven,Man Utd,Defender,4.3,5,20/09/2026,0,0,0,0,0,Low
 421,Ayden,Heaven,Man Utd,Defender,4.3,6,10/10/2026,1,0,0,1,0,Low
-422,Noussair,Mazraoui,Man Utd,Defender,4.4,1,22/08/2026,1,0,0,79,0,Low
-422,Noussair,Mazraoui,Man Utd,Defender,4.4,2,30/08/2026,1,0,0,17,0,Low
-422,Noussair,Mazraoui,Man Utd,Defender,4.4,3,06/09/2026,1,0,0,1,0,Low
-422,Noussair,Mazraoui,Man Utd,Defender,4.4,4,13/09/2026,0,0,0,0,0,Low
-422,Noussair,Mazraoui,Man Utd,Defender,4.4,5,20/09/2026,0,0,0,0,0,Low
-422,Noussair,Mazraoui,Man Utd,Defender,4.4,6,10/10/2026,0,0,0,0,0,Low
+422,Noussair,Mazraoui,Man Utd,Defender,4.3,1,22/08/2026,1,0,0,79,0,Low
+422,Noussair,Mazraoui,Man Utd,Defender,4.3,2,30/08/2026,1,0,0,17,0,Low
+422,Noussair,Mazraoui,Man Utd,Defender,4.3,3,06/09/2026,1,0,0,1,0,Low
+422,Noussair,Mazraoui,Man Utd,Defender,4.3,4,13/09/2026,0,0,0,0,0,Low
+422,Noussair,Mazraoui,Man Utd,Defender,4.3,5,20/09/2026,0,0,0,0,0,Low
+422,Noussair,Mazraoui,Man Utd,Defender,4.3,6,10/10/2026,0,0,0,0,0,Low
 423,Luke,Shaw,Man Utd,Defender,4.3,1,22/08/2026,1,0,0,90,0,Low
 423,Luke,Shaw,Man Utd,Defender,4.3,2,30/08/2026,2,0,0,72,0,Low
 423,Luke,Shaw,Man Utd,Defender,4.3,3,06/09/2026,4,0,1,90,0,Low
@@ -3294,12 +3294,12 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 167,Liam,Delap,Nott'm Forest,Forward,5.6,4,12/09/2026,5,1,0,90,0,Low
 167,Liam,Delap,Nott'm Forest,Forward,5.6,5,19/09/2026,1,0,0,90,0,Low
 167,Liam,Delap,Nott'm Forest,Forward,5.6,6,11/10/2026,2,0,0,71,0,Low
-201,Daniel,Muñoz Mejía,Nott'm Forest,Defender,5.4,1,22/08/2026,0,0,0,54,0,Medium
-201,Daniel,Muñoz Mejía,Nott'm Forest,Defender,5.4,2,28/08/2026,0,0,0,0,0,Medium
-201,Daniel,Muñoz Mejía,Nott'm Forest,Defender,5.4,3,05/09/2026,1,0,0,31,0,Medium
-201,Daniel,Muñoz Mejía,Nott'm Forest,Defender,5.4,4,12/09/2026,2,0,0,90,0,Medium
-201,Daniel,Muñoz Mejía,Nott'm Forest,Defender,5.4,5,19/09/2026,2,0,0,82,0,Medium
-201,Daniel,Muñoz Mejía,Nott'm Forest,Defender,5.4,6,11/10/2026,1,0,0,90,0,Medium
+201,Daniel,Muñoz Mejía,Nott'm Forest,Defender,5.3,1,22/08/2026,0,0,0,54,0,Medium
+201,Daniel,Muñoz Mejía,Nott'm Forest,Defender,5.3,2,28/08/2026,0,0,0,0,0,Medium
+201,Daniel,Muñoz Mejía,Nott'm Forest,Defender,5.3,3,05/09/2026,1,0,0,31,0,Medium
+201,Daniel,Muñoz Mejía,Nott'm Forest,Defender,5.3,4,12/09/2026,2,0,0,90,0,Medium
+201,Daniel,Muñoz Mejía,Nott'm Forest,Defender,5.3,5,19/09/2026,2,0,0,82,0,Medium
+201,Daniel,Muñoz Mejía,Nott'm Forest,Defender,5.3,6,11/10/2026,1,0,0,90,0,Medium
 467,Matz,Sels,Nott'm Forest,Goalkeeper,5.0,1,22/08/2026,2,0,0,90,0,High
 467,Matz,Sels,Nott'm Forest,Goalkeeper,5.0,2,29/08/2026,1,0,0,90,0,High
 467,Matz,Sels,Nott'm Forest,Goalkeeper,5.0,3,05/09/2026,6,0,0,90,1,High
@@ -3522,18 +3522,18 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 497,Martin,Dubravka,Spurs,Goalkeeper,4.0,4,12/09/2026,0,0,0,0,0,Low
 497,Martin,Dubravka,Spurs,Goalkeeper,4.0,5,19/09/2026,0,0,0,0,0,Low
 497,Martin,Dubravka,Spurs,Goalkeeper,4.0,6,10/10/2026,0,0,0,0,0,Low
-498,Marcos,Senesi Barón,Spurs,Defender,5.8,1,22/08/2026,3,0,0,90,0,Medium
-498,Marcos,Senesi Barón,Spurs,Defender,5.8,2,29/08/2026,0,0,0,0,0,Medium
-498,Marcos,Senesi Barón,Spurs,Defender,5.8,3,05/09/2026,0,0,0,0,0,Medium
-498,Marcos,Senesi Barón,Spurs,Defender,5.8,4,12/09/2026,0,0,0,0,0,Medium
-498,Marcos,Senesi Barón,Spurs,Defender,5.8,5,19/09/2026,0,0,0,0,0,Medium
-498,Marcos,Senesi Barón,Spurs,Defender,5.8,6,10/10/2026,2,0,0,88,0,Medium
-499,Pedro,Porro Sauceda,Spurs,Defender,5.4,1,22/08/2026,0,0,0,0,0,Medium
-499,Pedro,Porro Sauceda,Spurs,Defender,5.4,2,29/08/2026,1,0,0,90,0,Medium
-499,Pedro,Porro Sauceda,Spurs,Defender,5.4,3,05/09/2026,7,0,0,90,1,Medium
-499,Pedro,Porro Sauceda,Spurs,Defender,5.4,4,12/09/2026,0,0,0,0,0,Medium
-499,Pedro,Porro Sauceda,Spurs,Defender,5.4,5,19/09/2026,1,0,0,18,0,Medium
-499,Pedro,Porro Sauceda,Spurs,Defender,5.4,6,10/10/2026,0,0,0,0,0,Medium
+498,Marcos,Senesi Barón,Spurs,Defender,5.7,1,22/08/2026,3,0,0,90,0,Medium
+498,Marcos,Senesi Barón,Spurs,Defender,5.7,2,29/08/2026,0,0,0,0,0,Medium
+498,Marcos,Senesi Barón,Spurs,Defender,5.7,3,05/09/2026,0,0,0,0,0,Medium
+498,Marcos,Senesi Barón,Spurs,Defender,5.7,4,12/09/2026,0,0,0,0,0,Medium
+498,Marcos,Senesi Barón,Spurs,Defender,5.7,5,19/09/2026,0,0,0,0,0,Medium
+498,Marcos,Senesi Barón,Spurs,Defender,5.7,6,10/10/2026,2,0,0,88,0,Medium
+499,Pedro,Porro Sauceda,Spurs,Defender,5.3,1,22/08/2026,0,0,0,0,0,Medium
+499,Pedro,Porro Sauceda,Spurs,Defender,5.3,2,29/08/2026,1,0,0,90,0,Medium
+499,Pedro,Porro Sauceda,Spurs,Defender,5.3,3,05/09/2026,7,0,0,90,1,Medium
+499,Pedro,Porro Sauceda,Spurs,Defender,5.3,4,12/09/2026,0,0,0,0,0,Medium
+499,Pedro,Porro Sauceda,Spurs,Defender,5.3,5,19/09/2026,1,0,0,18,0,Medium
+499,Pedro,Porro Sauceda,Spurs,Defender,5.3,6,10/10/2026,0,0,0,0,0,Medium
 500,Cristian,Romero,Spurs,Defender,5.0,1,22/08/2026,0,0,0,0,0,Medium
 500,Cristian,Romero,Spurs,Defender,5.0,2,29/08/2026,0,0,0,0,0,Medium
 500,Cristian,Romero,Spurs,Defender,5.0,3,05/09/2026,0,0,0,0,0,Medium
