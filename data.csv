@@ -1199,13 +1199,13 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 152,Marco,Palestra,Chelsea,Defender,5.3,5,18/09/2026,0,0,0,0,0,Medium
 152,Marco,Palestra,Chelsea,Defender,5.3,6,10/10/2026,1,0,0,18,0,Medium
 152,Marco,Palestra,Chelsea,Defender,5.3,7,17/10/2026,1,0,0,1,0,Medium
-154,Cole,Palmer,Chelsea,Midfielder,9.7,1,24/08/2026,13,1,1,82,0,Medium
-154,Cole,Palmer,Chelsea,Midfielder,9.7,2,30/08/2026,7,1,0,90,0,Medium
-154,Cole,Palmer,Chelsea,Midfielder,9.7,3,06/09/2026,1,0,0,90,0,Medium
-154,Cole,Palmer,Chelsea,Midfielder,9.7,4,12/09/2026,5,0,1,90,0,Medium
-154,Cole,Palmer,Chelsea,Midfielder,9.7,5,18/09/2026,2,0,0,90,0,Medium
-154,Cole,Palmer,Chelsea,Midfielder,9.7,6,10/10/2026,8,0,2,87,0,Medium
-154,Cole,Palmer,Chelsea,Midfielder,9.7,7,17/10/2026,2,0,0,90,1,Medium
+154,Cole,Palmer,Chelsea,Midfielder,9.8,1,24/08/2026,13,1,1,82,0,Medium
+154,Cole,Palmer,Chelsea,Midfielder,9.8,2,30/08/2026,7,1,0,90,0,Medium
+154,Cole,Palmer,Chelsea,Midfielder,9.8,3,06/09/2026,1,0,0,90,0,Medium
+154,Cole,Palmer,Chelsea,Midfielder,9.8,4,12/09/2026,5,0,1,90,0,Medium
+154,Cole,Palmer,Chelsea,Midfielder,9.8,5,18/09/2026,2,0,0,90,0,Medium
+154,Cole,Palmer,Chelsea,Midfielder,9.8,6,10/10/2026,8,0,2,87,0,Medium
+154,Cole,Palmer,Chelsea,Midfielder,9.8,7,17/10/2026,2,0,0,90,1,Medium
 156,Pedro,Lomba Neto,Chelsea,Midfielder,6.5,1,24/08/2026,1,0,0,14,0,Low
 156,Pedro,Lomba Neto,Chelsea,Midfielder,6.5,2,30/08/2026,7,1,0,67,0,Low
 156,Pedro,Lomba Neto,Chelsea,Midfielder,6.5,3,06/09/2026,2,0,0,80,0,Low
@@ -2800,13 +2800,13 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 337,Brenden,Aaronson,Leeds,Midfielder,5.3,5,20/09/2026,1,0,0,22,0,Low
 337,Brenden,Aaronson,Leeds,Midfielder,5.3,6,10/10/2026,1,0,0,19,0,Low
 337,Brenden,Aaronson,Leeds,Midfielder,5.3,7,18/10/2026,0,0,0,0,0,Low
-338,Ethan,Ampadu,Leeds,Midfielder,5.4,1,22/08/2026,5,0,0,90,1,Low
-338,Ethan,Ampadu,Leeds,Midfielder,5.4,2,30/08/2026,2,0,0,90,0,Low
-338,Ethan,Ampadu,Leeds,Midfielder,5.4,3,05/09/2026,2,0,0,90,0,Low
-338,Ethan,Ampadu,Leeds,Midfielder,5.4,4,14/09/2026,7,0,1,90,0,Low
-338,Ethan,Ampadu,Leeds,Midfielder,5.4,5,20/09/2026,5,0,0,90,1,Low
-338,Ethan,Ampadu,Leeds,Midfielder,5.4,6,10/10/2026,1,0,0,90,0,Low
-338,Ethan,Ampadu,Leeds,Midfielder,5.4,7,18/10/2026,1,0,0,90,0,Low
+338,Ethan,Ampadu,Leeds,Midfielder,5.3,1,22/08/2026,5,0,0,90,1,Low
+338,Ethan,Ampadu,Leeds,Midfielder,5.3,2,30/08/2026,2,0,0,90,0,Low
+338,Ethan,Ampadu,Leeds,Midfielder,5.3,3,05/09/2026,2,0,0,90,0,Low
+338,Ethan,Ampadu,Leeds,Midfielder,5.3,4,14/09/2026,7,0,1,90,0,Low
+338,Ethan,Ampadu,Leeds,Midfielder,5.3,5,20/09/2026,5,0,0,90,1,Low
+338,Ethan,Ampadu,Leeds,Midfielder,5.3,6,10/10/2026,1,0,0,90,0,Low
+338,Ethan,Ampadu,Leeds,Midfielder,5.3,7,18/10/2026,1,0,0,90,0,Low
 339,Sean,Longstaff,Leeds,Midfielder,4.8,1,22/08/2026,1,0,0,8,0,Low
 339,Sean,Longstaff,Leeds,Midfielder,4.8,2,30/08/2026,0,0,0,0,0,Low
 339,Sean,Longstaff,Leeds,Midfielder,4.8,3,05/09/2026,0,0,0,0,0,Low
@@ -3470,13 +3470,13 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 417,Diogo,Dalot Teixeira,Man Utd,Defender,4.8,5,20/09/2026,2,0,0,90,0,Low
 417,Diogo,Dalot Teixeira,Man Utd,Defender,4.8,6,10/10/2026,0,0,0,31,0,Low
 417,Diogo,Dalot Teixeira,Man Utd,Defender,4.8,7,18/10/2026,4,0,0,90,0,Low
-418,Harry,Maguire,Man Utd,Defender,4.8,1,22/08/2026,1,0,0,90,0,Low
-418,Harry,Maguire,Man Utd,Defender,4.8,2,30/08/2026,4,0,1,90,0,Low
-418,Harry,Maguire,Man Utd,Defender,4.8,3,06/09/2026,2,0,0,90,0,Low
-418,Harry,Maguire,Man Utd,Defender,4.8,4,13/09/2026,1,0,0,90,0,Low
-418,Harry,Maguire,Man Utd,Defender,4.8,5,20/09/2026,2,0,0,90,0,Low
-418,Harry,Maguire,Man Utd,Defender,4.8,6,10/10/2026,2,0,0,90,0,Low
-418,Harry,Maguire,Man Utd,Defender,4.8,7,18/10/2026,4,0,0,90,0,Low
+418,Harry,Maguire,Man Utd,Defender,4.7,1,22/08/2026,1,0,0,90,0,Low
+418,Harry,Maguire,Man Utd,Defender,4.7,2,30/08/2026,4,0,1,90,0,Low
+418,Harry,Maguire,Man Utd,Defender,4.7,3,06/09/2026,2,0,0,90,0,Low
+418,Harry,Maguire,Man Utd,Defender,4.7,4,13/09/2026,1,0,0,90,0,Low
+418,Harry,Maguire,Man Utd,Defender,4.7,5,20/09/2026,2,0,0,90,0,Low
+418,Harry,Maguire,Man Utd,Defender,4.7,6,10/10/2026,2,0,0,90,0,Low
+418,Harry,Maguire,Man Utd,Defender,4.7,7,18/10/2026,4,0,0,90,0,Low
 419,Lisandro,Martínez,Man Utd,Defender,4.9,1,22/08/2026,0,0,0,0,0,Low
 419,Lisandro,Martínez,Man Utd,Defender,4.9,2,30/08/2026,1,0,0,90,0,Low
 419,Lisandro,Martínez,Man Utd,Defender,4.9,3,06/09/2026,3,0,0,90,0,Low
@@ -3533,13 +3533,13 @@ player_id,first_name,second_name,team,position,cost,game_week,date,points,goals_
 426,Bruno,Borges Fernandes,Man Utd,Midfielder,11.8,5,20/09/2026,2,0,0,90,0,High
 426,Bruno,Borges Fernandes,Man Utd,Midfielder,11.8,6,10/10/2026,1,0,0,90,0,High
 426,Bruno,Borges Fernandes,Man Utd,Midfielder,11.8,7,18/10/2026,1,0,0,90,0,High
-427,Bryan,Mbeumo,Man Utd,Midfielder,7.8,1,22/08/2026,2,0,0,90,0,Medium
-427,Bryan,Mbeumo,Man Utd,Midfielder,7.8,2,30/08/2026,11,1,1,90,0,Medium
-427,Bryan,Mbeumo,Man Utd,Midfielder,7.8,3,06/09/2026,8,1,0,90,0,Medium
-427,Bryan,Mbeumo,Man Utd,Midfielder,7.8,4,13/09/2026,2,0,0,90,0,Medium
-427,Bryan,Mbeumo,Man Utd,Midfielder,7.8,5,20/09/2026,2,0,0,90,0,Medium
-427,Bryan,Mbeumo,Man Utd,Midfielder,7.8,6,10/10/2026,8,1,0,90,0,Medium
-427,Bryan,Mbeumo,Man Utd,Midfielder,7.8,7,18/10/2026,8,1,0,90,0,Medium
+427,Bryan,Mbeumo,Man Utd,Midfielder,7.9,1,22/08/2026,2,0,0,90,0,Medium
+427,Bryan,Mbeumo,Man Utd,Midfielder,7.9,2,30/08/2026,11,1,1,90,0,Medium
+427,Bryan,Mbeumo,Man Utd,Midfielder,7.9,3,06/09/2026,8,1,0,90,0,Medium
+427,Bryan,Mbeumo,Man Utd,Midfielder,7.9,4,13/09/2026,2,0,0,90,0,Medium
+427,Bryan,Mbeumo,Man Utd,Midfielder,7.9,5,20/09/2026,2,0,0,90,0,Medium
+427,Bryan,Mbeumo,Man Utd,Midfielder,7.9,6,10/10/2026,8,1,0,90,0,Medium
+427,Bryan,Mbeumo,Man Utd,Midfielder,7.9,7,18/10/2026,8,1,0,90,0,Medium
 428,Matheus,Santos Carneiro da Cunha,Man Utd,Midfielder,7.9,1,22/08/2026,2,0,0,79,0,Medium
 428,Matheus,Santos Carneiro da Cunha,Man Utd,Midfielder,7.9,2,30/08/2026,9,0,2,79,0,Medium
 428,Matheus,Santos Carneiro da Cunha,Man Utd,Midfielder,7.9,3,06/09/2026,3,0,0,69,1,Medium
